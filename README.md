@@ -19,3 +19,26 @@ cf. `commandes_pre_traitement.md`
 Segmentation en trois images différentes correspondant aux trois colonnes. Utilisation de **modèle segemntation-v8 de YOLO, par Ultralytics** fine-tuné pour nos données
 
 cf. le modèle `best.pt` et le notebook `1_application_YOLO.ipynb`
+
+<br>
+
+## Reconnaissance de caractères
+Nous avons procédé à l'HTR avec l'outil **PERO-OCR**
+
+cf. le dossier `2_HTR_PERO`
+
+<br>
+
+## Reconnaissance d'entités nommées
+Nous avons procédé au NER avec l'outil **Prodigy**
+
+cf. ?
+
+<br>
+
+## Analyse : production des cartes et statistiques sur ces données
+cf. notebook ``
+
+<br>
+
+NB : Ces données n'ont pas été relues et comporte des erreurs.
