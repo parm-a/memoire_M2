@@ -9,9 +9,13 @@ Notre objectif est de passer des numérisations des pages de l'annuaire à un ta
 
 ## Pré-traitement :
 - recouvrir les publicités d'un rectangle uni : **Gimp**
-- mettre les images en noir et blanc et augmenter le contraste et la luminosité : librairies bash **GhostScript** et **ImageMagick** \\
+- mettre les images en noir et blanc et augmenter le contraste et la luminosité : librairies bash **GhostScript** et **ImageMagick**
+
 cf. `commandes_pre_traitement.md`
+
+<br>
 
 ## Segmentation
 Segmentation en trois images différentes correspondant aux trois colonnes. Utilisation de **modèle segemntation-v8 de YOLO, par Ultralytics** fine-tuné pour nos données
+
 cf. le modèle `best.pt` et le notebook `1_application_YOLO.ipynb`
