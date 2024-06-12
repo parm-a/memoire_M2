@@ -30,6 +30,7 @@ cf. le dossier `2_PERO_OCR`. Note : il manque le dossier config car il est trop 
 <br>
 
 ## Reconnaissance d'entités nommées
+- convertion des XML en JSON-L avec le script de Frédérique Mélanie-Becquet `XmlToJson.py`
 Nous avons procédé au NER avec l'outil **Prodigy**
 
 cf. ?
