@@ -25,7 +25,7 @@ cf. le modèle `best.pt` et le notebook `1_application_YOLO.ipynb`
 ## Reconnaissance de caractères
 Nous avons procédé à l'HTR avec l'outil **PERO-OCR**
 
-cf. le dossier `2_HTR_PERO`
+cf. le dossier `2_PERO_OCR`. Note : il manque le dossier config car il est trop lourd pour GitHub (400 MB)
 
 <br>
 
