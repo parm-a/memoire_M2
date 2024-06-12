@@ -9,7 +9,7 @@ Notre objectif est de passer des numérisations des pages de l'annuaire à un ta
 
 ## Pré-traitement :
 - recouvrir les publicités d'un rectangle uni : **Gimp**
-- mettre les images en noir et blanc et augmenter le contraste et la luminosité : librairies bash **GhostScript** et **ImageMagick**
+- mettre les images en noir et blanc et augmenter le contraste et la luminosité : librairies bash **GhostScript** et **ImageMagick** \\
 cf. `commandes_pre_traitement.md`
 
 ## Segmentation
