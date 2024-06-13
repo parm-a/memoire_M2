@@ -11,14 +11,14 @@ Notre objectif est de passer des numérisations des pages de l'annuaire à un ta
 - recouvrir les publicités d'un rectangle uni : **Gimp**
 - mettre les images en noir et blanc et augmenter le contraste et la luminosité : librairies bash **GhostScript** et **ImageMagick**
 
-cf. `commandes_pre_traitement.md`
+cf. `0_commandes_pre_traitement.md`
 
 <br>
 
 ## 1. Segmentation
 Segmentation en trois images différentes correspondant aux trois colonnes. Utilisation de **modèle segemntation-v8 de YOLO, par Ultralytics** fine-tuné pour nos données
 
-cf. le modèle `best.pt` et le notebook `1_application_YOLO.ipynb`
+cf. le modèle `1_modele_YOLO_best.pt` et le notebook `1_application_YOLO.ipynb`
 
 <br>
 
@@ -30,14 +30,14 @@ cf. le dossier `2_PERO_OCR`. Note : il manque le dossier config car il est trop 
 <br>
 
 ## 3. Reconnaissance d'entités nommées
-- convertion des XML en JSON-L avec le script de Frédérique Mélanie-Becquet `XmlToJson.py`
+- convertion des XML en JSON-L avec le script de Frédérique Mélanie-Becquet `3_1_XmlToJson.py`
 Nous avons procédé au NER avec l'outil **Prodigy**
 
-cf. `3_NER.ipynb` qui permet : d'appliquer le NER ligne par ligne, de séparer les entrées, de traduire les codes de voies en noms de voie explicite, et d'appliquer le géocodeur du gouvernement. Input : JSON-L. Output : deux fichiers CSV, un premier où une ligne = un propriétaire et un deuxième où une ligne = un immeuble.
+cf. notebook `3_2_NER.ipynb` qui permet : d'appliquer le NER ligne par ligne (modèle de NER : `3_modele_prodigy`), de séparer les entrées, de traduire les codes de voies en noms de voie explicite, et d'appliquer le géocodeur du gouvernement. Input : JSON-L. Output : deux fichiers CSV, un premier où une ligne = un propriétaire et un deuxième où une ligne = un immeuble.
 
 <br>
 
-## Analyse : production des cartes et statistiques sur ces données
+## 4. Analyse : production des cartes et statistiques sur ces données
 cf. notebook ``
 
 <br>
