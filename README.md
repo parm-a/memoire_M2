@@ -7,7 +7,7 @@ Notre objectif est de passer des numérisations des pages de l'annuaire à un ta
 
 # Chaîne de traitement
 
-## Pré-traitement :
+## 0. Pré-traitement :
 - recouvrir les publicités d'un rectangle uni : **Gimp**
 - mettre les images en noir et blanc et augmenter le contraste et la luminosité : librairies bash **GhostScript** et **ImageMagick**
 
@@ -15,25 +15,25 @@ cf. `commandes_pre_traitement.md`
 
 <br>
 
-## Segmentation
+## 1. Segmentation
 Segmentation en trois images différentes correspondant aux trois colonnes. Utilisation de **modèle segemntation-v8 de YOLO, par Ultralytics** fine-tuné pour nos données
 
 cf. le modèle `best.pt` et le notebook `1_application_YOLO.ipynb`
 
 <br>
 
-## Reconnaissance de caractères
+## 2. Reconnaissance de caractères
 Nous avons procédé à l'HTR avec l'outil **PERO-OCR**
 
 cf. le dossier `2_PERO_OCR`. Note : il manque le dossier config car il est trop lourd pour GitHub (400 MB)
 
 <br>
 
-## Reconnaissance d'entités nommées
+## 3. Reconnaissance d'entités nommées
 - convertion des XML en JSON-L avec le script de Frédérique Mélanie-Becquet `XmlToJson.py`
 Nous avons procédé au NER avec l'outil **Prodigy**
 
-cf. ?
+cf. `3_NER.ipynb` qui permet : d'appliquer le NER ligne par ligne, de séparer les entrées, de traduire les codes de voies en noms de voie explicite, et d'appliquer le géocodeur du gouvernement. Input : JSON-L. Output : deux fichiers CSV, un premier où une ligne = un propriétaire et un deuxième où une ligne = un immeuble.
 
 <br>
 
