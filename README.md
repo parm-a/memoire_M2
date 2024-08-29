@@ -1,4 +1,4 @@
-Repository pour publier mes code et données de mémoire de M2, dans le cadre du master "Humanités Numériques" de l'Ecole des Chartes
+Repository GitHub pour publier les code et données de mémoire de M2 d'Aaron Parmentelat, dans le cadre du master "Humanités Numériques" de l'Ecole des Chartes.
 
 
 Mon mémoire s'intéresse à la propriété, copropriété et multi-propriété à Paris en 1898 et 1951. Il utilise pour ce faire des données d'annuaires de propriétaires de ces deux années. Ce travail a été effectué sous la direction de Carmen Brando, Frédérique Mélanie-Béquet et Gilles Postel-Vinay.
