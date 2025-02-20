@@ -1,0 +1,2 @@
+liste_proprios_1951/7_df_par_num_complet_1951.csv filter=lfs diff=lfs merge=lfs -text
+modeles_1951/1_YOLO/yolov8m-seg.pt filter=lfs diff=lfs merge=lfs -text

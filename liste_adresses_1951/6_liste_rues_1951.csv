@@ -1,0 +1,5006 @@
+code,nom_voie,type_voie,arr
+1,abbaye,rue de l',6
+2,abbé-de-l'épée,rue de l',5
+3,abbé-gillet,rue de l',16
+4,abbé-grégoire,rue de l',6
+5,abbé-groult,rue de l',15
+6,abbé-patureau,rue de l',18
+7,abbé-rousselot,rue de l',17
+8,abbesses,passage des,18
+9,abbesses,place des,18
+10,abbesses,rue des,18
+11,abbeville,rue d',9-10
+12,abel,rue,12
+13,abel-ferry,rue,16
+14,abel-hovelacque,rue,13
+15,abel-leblanc,passage,12
+16,abel-rabaud,rue,11
+17,abel-truchet,rue,17
+18,aboukir,rue d',2
+19,abreuvoir,rue de l',18
+20,acacias,passage des,17
+20 bis,acacias,rue des,17
+21,achille,rue,20
+22,achille-luchaire,rue,14
+23,achille-martinet,rue,18
+24,adjudant-reau,rue de l',20
+25,adjudant-vincenot,pl. de l',20
+26,adolphe-adam,rue,4
+27,adolphe-chérioux,pl.,15
+28,adolphe-focillon,rue,14
+29,adolphe-jullien,rue,1
+30,adolphe-max,place,9
+31,adolphe-mille,rue,19
+32,adolphe-pinard,boulevard,14
+33,adolphe-yvon,rue,16
+34,adour,villa de l',19
+35,adrien-hébrard,avenue,16
+36,adrien-oudin,place,9
+37,adrienne,cité,20
+37 bis,adrienne,villa,14
+38,adrienne-lecouvreur,allée,7
+39,adrienne-simon,villa,14
+40,affre,rue,18
+41,agar,rue,16
+42,agent-bailly,rue de l',9
+43,agrippa-d'aubigné,rue,4
+44,aguesseau,rue d',8
+45,aide-sociale,square de l',14
+46,aimé-lavy,rue,18
+47,aimé-maillart,pl.,17
+48,aimé-morot,rue,13
+49,aisne,rue de l',19
+50,aix,rue d',10
+51,alain-chartier,rue,15
+52,alasseur,rue,15
+53,albéric-magnard,rue,16
+54,albert,rue,13
+55,albert-bartholomé,avenue,15
+56,albert-de-lapparent,rue,7
+57,albert-malet,rue,12
+58,albert-de-mun,avenue,16
+59,albert-1er,cours,8
+60,albert-1er-de-monaco,avenue,16
+61,albert-samain,rue,17
+62,albert-sorel,rue,14
+63,albin-cachot,square,13
+64,albin-haller,rue,13
+65,alboni,rue de l',16
+66,alboni,square de l',16
+67,alembert,rue d',14
+68,alencon,rue d',15
+69,alésia,rue d',14
+70,alésia,villa d',14
+71,alexandre,passage,15
+72,alexandre-cabanel,rue,15
+73,alexandre-charpentier,rue,17
+74,alexandre-dumas,impasse,20
+75,alexandre-dumas,rue,11-20
+75 bis,alexandre-de-humboldt,rue,14
+76,alexandre-lecuyer,impasse,18
+76 bis,alexandre-luquet,square,20
+77,alexandre-parodi,rue,10
+78,alexandre-ribot,villa,19
+79,alexandre-iii,avenue,8
+80,alexandrie,rue d',2
+81,alexandrine,passage,11
+82,alfred-bruneau,rue,16
+83,alfred-capus,square,16
+84,alfred-cornu,rue,5
+85,alfred-dehodenco,rue,16
+86,alfred-dehodencq,square,16
+87,alfred-durand-claye,rue,14
+88,alfred-fouillée,rue,13
+89,alfred-roll,rue,17
+90,alfred-stevens,passage,9
+91,alfred-stevens,rue,9
+92,alfred-de-vigny,rue,8-17
+93,alger,rue d',1
+94,algérie,boulevard d',19
+95,alibert,rue,10
+96,alice,square,14
+97,aligre,place d',12
+98,aligre,rue d',12
+99,aliscamps,square des,16
+100,allard,rue,12
+101,verte,allée,11
+102,allendy,avenue,15
+103,allent,rue,7
+104,alleray,hameau d',15
+105,alleray,impasse d',15
+106,alleray,place d',15
+107,alleray,rue d',15
+108,allier,quai de l',19
+109,alma,cité de l',7
+110,alma,place de l',8-16
+110 bis,alombert,passage,3
+111,alouettes,rue des,19
+112,alpes,place des,13
+113,alphand,avenue,16
+114,alphand,rue,13
+115,alphonse-aulard,rue,19
+116,alphonse-bertillon,rue,15
+117,alphonse-daudet,rue,14
+118,alphonse-deville,pl.,6
+119,alphonse-humbert,pl.,15
+120,alphonse-karr,rue,19
+121,alphonse-laveran,pl.,5
+122,alphonse-de-neuville,rue,17
+123,alphonse-penaud,rue,20
+124,alphonse-xiii,avenue,16
+125,alsace,rue d',10
+125 bis,alsace,square d',18
+126,alsace,villa d',19
+126 bis,alsace-lorraine,cour d',12
+127,alsace-lorraine,rue d',19
+128,amalia,villa,19
+129,amandiers,impasse des,20
+130,amandiers,rue des,20
+131,amboise,rue d',2
+132,ambroise-paré,rue,10
+133,ambroise-rendu,avenue,19
+134,ambroise-thomas,rue,9
+135,amélie,rue,7
+136,amélie,villa,20
+137,amelot,impasse,11
+138,amelot,rue,11
+138 bis,amérique-du-nord,rue de l',14
+138 ter,amérique-latine,square de l',17
+139,ameublement,cité de l',11
+140,amiens,rue d',20
+141,amiral-bruix,boulevard,16
+142,amiral-cloué,rue de l',16
+143,amiral-courbet,rue de l',16
+144,amiral-d'estaing,rue de l',16
+145,amiral-la-ronciere-le-noury,rue de l',12
+146,amiral-mouchez,rue de l',13-15
+147,amiral-roussin,rue de l',15
+148,amiraux,rue des,18
+149,amodion,rue de l',20
+150,ampere,rue,17
+151,amsterdam,impasse d',8
+152,amsterdam,rue d',8-9
+153,amyot,rue,5
+154,anatole-de-la-forge,rue,17
+155,anatole-france,quai,17
+156,ancienne-comedie,rue de l',6
+157,ancre,passage de l',3
+158,andigné,rue d',16
+159,andré-colledeboeuf,rue,16
+160,andré-del-sarte,rue,18
+161,andré-dubois,rue,19
+162,andré-gill,rue,18
+162 bis,andré-lefevre,sq.,5
+163,andré-messager,rue,18
+164,andre-pascal,rue,16
+165,andré-rivoire,avenue,14
+166,andre-theuriet,rue,15
+167,andrieux,rue,8
+168,androuet,rue,18
+169,angélique-compoint,rue,18
+170,angers,impasse d',18
+171,anglais,impasse des,19
+172,anglais,rue des,5
+173,angouleme,cité d',11
+174,anjou,quai d',4
+175,anjou,rue d',8
+176,anna-de-noailles,sq.,16
+177,annam,rue d',20
+178,annelets,passage des,19
+179,annelets,rue des,19
+180,annibal,cité,14
+181,annonciation,rue de l',16
+182,antin,cité d',9
+183,antin,impasse d',8
+184,antin,rue d',2
+185,antoine-arnauld,rue,16
+186,antoine-arnauld,sq.,16
+187,antoine-bourdelle,rue,15
+188,antoine-caréme,rue,1
+189,antoine-chantin,rue,14
+190,antoine-dubois,rue,6
+191,antoine-leclaire,cour,20
+192,antoine-roucher,rue,16
+193,antoine-vollon,rue,12
+194,antoinette,rue,18
+195,antonin-mercier,rue,15
+196,anvers,place d',9
+197,apennins,rue des,17
+198,aqueduc,rue de l',10
+199,arago,boulevard,13-14
+200,arago,square,13
+201,arbalete,rue de l',5
+202,arbre-sec,rue de l',1
+203,arbustes,rue des,14
+204,arcade,rue de l',8
+205,arc-de-triomphe,rue de l',17
+206,archereau,rue,19
+207,archevéché,quai de l',4
+208,archives,rue des,3-4
+209,arcole,rue d',4
+210,arcueil,rue d',14
+211,ardennes,rue des,19
+212,arenes,rue des,5
+213,argenson,rue d',8
+214,argenteuil,rue d',1
+215,argentine,cité de l',16
+216,argentine,rue d',16
+217,argonne,place de l',19
+218,argonne,rue de l',19
+219,argout,rue d',2
+220,arioste,rue de l',16
+221,aristide-bruant,rue,18
+222,armaille,rue d',17
+223,armand,villa,18
+224,armand-carrel,place,19
+225,armand-carrel,rue,19
+225 bis,armand-fallières,villa,19
+226,armand-gauthier,rue,18
+227,armand-moisant,rue,15
+228,armand-rousseau,rue,12
+229,armenonville,rue d',17
+230,armorique,rue de l',15
+231,arquebusiers,rue des,3
+232,arras,rue d',5
+233,arrivée,rue de l',15
+234,arsenal,rue de l',4
+235,arsene-houssaye,rue,8
+236,arsonval,rue d',15
+237,arthur-briere,rue,17
+238,arthur-ranc,rue,18
+239,arthur-rozier,rue,19
+239 bis,artistes,cour des,13
+240,artistes,rue des,14
+241,artois,rue d',8
+242,arts,avenue des,17
+243,arts,impasse des,12
+244,arts,passage des,14
+245,arts,villa des,18
+246,asile,passage de l',11
+247,asile-popincourt,rue de l',11
+248,assas,rue d',6
+249,asseline,rue,14
+250,assomption,rue de l',16
+251,astorg,rue d',8
+252,astrolabe,impasse de l',15
+253,athenes,rue d',9
+254,atlas,passage de l',19
+255,atlas,rue de l',19
+256,aubépine,rue de l',19
+257,auber,rue,9
+258,aubervilliers,impasse d',19
+259,aubervilliers,rue d',18-19
+260,aublet,villa,17
+261,auboin,rue,17
+262,aubriot,rue,4
+263,aubry,cité,20
+264,aubry-le-boucher,rue,4
+265,aude,rue de l',14
+266,audran,rue,18
+267,auger,rue,20
+268,augereau,rue,7
+269,auguste-barbier,rue,11
+270,auguste-bartholdi,rue,15
+271,auguste-blanqui,boulevard,13
+272,auguste-blanqui,villa,12
+273,auguste-cain,rue,14
+274,auguste-chabrieres,rue,15
+275,auguste-chabrieres,square,15
+276,auguste-chapuis,rue,20
+277,auguste-comte,rue,6
+278,auguste-dorchain,rue,15
+279,auguste-lancon,rue,13
+280,auguste-laurent,rue,11
+281,auguste-maquet,rue,16
+282,auguste-métivier,place,20
+283,auguste-métivier,rue,20
+284,auguste-mie,rue,14
+285,auguste-pavie,avenue,12
+286,auguste-vacquerie,rue,16
+287,auguste-vitu,rue,15
+288,augustin-thierry,rue,19
+289,aumaire,rue,3
+290,aumale,rue d',9
+291,aumont,rue,13
+292,aumont-thieville,rue,17
+293,aurelle-de-paladines,boulevard,17
+294,aurés,passage,17
+295,austerlitz,quai d',13
+296,austerlitz,rue d',12
+297,auteuil,boulevard d',16
+298,auteuil,place d',16
+299,auteuil,rue d',16
+300,ave-maria,rue de l',4
+301,avenir,cité de l',11
+302,avenir,impasse de l',13
+303,avenir,rue de l',20
+304,avenue du bois,square de l',16
+305,aveyron,square de l',17
+306,aviation,rue de l',20
+307,avre,rue de l',15
+308,avron,rue d',20
+309,azais,rue,18
+310,babylone,rue de,7
+311,bac,rue du,7
+312,bachaumont,rue,2
+313,bachelet,rue,18
+314,baduel,cour,11
+315,bagnolet,rue de,20
+316,baigneur,rue du,18
+317,baigneur,villa du,16
+318,baillet,rue,1
+319,bailleul,rue,1
+320,baillou,rue,14
+321,bailly,rue,3
+321 bis,bains,cité des,18
+322,balard,place,15
+323,balard,rue,18
+324,baleine,impasse de la,11
+325,balkans,rue des,20
+326,ballu,rue,9
+326 bis,ballu,villa,9
+327,balny-d'avricourt,rue,17
+327 bis,baltard,rue,1
+328,balzac,rue de,8
+329,banque,rue de la,2
+330,banquier,rue du,13
+330 bis,baptiste-renard,place,13
+331,baptiste-renard,rue,13
+332,barbanegre,rue,19
+333,barbes,boulevard,18
+334,barbet-de-jouy,rue,7
+335,barbette,rue,3
+336,barbet-d'aurevilly,avenue,7
+337,bardinet,rue,14
+338,barentin,rue,20
+339,bargue,rue,15
+340,baron,rue,17
+341,barrault,passage,13
+342,barrault,rue,13
+343,barrelet-du-ricou,rue,19
+344,barréme,passage,19
+345,barres,rue des,4
+346,barrias,rue,17
+347,barrier,impasse,12
+348,barrois,passage,3
+349,barthélemy,passage,10
+350,barthélemy,rue,15
+351,barye,rue,17
+352,basfour,passage,2
+353,basfroi,passage,11
+354,basfroi,rue,11
+355,bassano,rue de,8-16
+356,basse-des-carmes,rue,5
+357,bassompierre,rue,4
+358,baste,rue,19
+359,bastien-lepage,rue,16
+360,bastille,boulevard de la,12
+361,bastille,place de la,4-11-12
+362,bastille,rue de la,4
+363,bastion,cité du,17
+364,batignolles,boulevard des,8-17
+365,batignolles,rue des,17
+365 bis,batignolles,square des,17
+366,bauches,rue des,16
+367,baudelique,rue,18
+368,baudoin,passage,13
+369,baudot,rue,17
+370,baudoyer,place,4
+371,baudran,impasse,13
+372,baudran,rue,13
+373,baudricourt,impasse,18
+374,baudricourt,rue,13
+375,baudry,rue,15
+376,bauer,cité,14
+377,baulant,rue,12
+378,bausset,rue,15
+379,bayard,rue,8
+380,bayen,impasse,17
+381,bayen,rue,17
+382,bayvet,cité,11
+383,bazeilles,rue de,5
+384,bearn,impasse de,3
+385,bearn,rue de,3
+386,beaubourg,impasse,3
+387,beaubourg,rue,3-4
+388,beauce,rue de,3
+389,beaucour,avenue,8
+390,beaufils,passage,20
+391,beaugrenelle,rue,15
+392,beauharnais,cité,11
+393,beaujolais,passage de,1
+394,beaujolais,rue de,1
+395,beaujon,rue,8
+396,beaujon,square,8
+397,beaulieu,passage,12
+398,beaumarchais,boulevard,3-4-11
+399,beaune,rue de,7
+400,beaunier,rue,14
+401,beauregard,rue,2
+401 bis,beaurepaire,cite,2
+402,baurepaire,rue,10
+403,beauséjour,boulevard,16
+404,beauséjour,villa,16
+405,beautreillis,rue,4
+406,beauvau,place,8
+407,beaux-arts,rue des,6
+408,beccaria,rue,12
+409,becquerel,rue,18
+410,beethooven,rue,16
+411,bel-air,avenue du,12
+412,bel-air,cour du,12
+413,bel-air,villa du,12
+414,belfort,rue de,11
+415,belgrade,rue de,7
+416,belgrand,rue,20
+417,belhomme,rue,18
+418,bélidor,rue,17
+419,bellart,rue,15
+420,bellechasse,rue de,7
+421,bellefond,rue de,9
+422,belles-feuilles,rue des,16
+423,belle-gabrielle,avenue de la,12
+424,belleville,boulevard de,11-20
+425,belleville,rue de,19-20
+426,bellevue,rue de,19
+427,bellevue,villa de,19
+428,belliard,rue,18
+429,belliard,villa,18
+430,bellier-dedouvre,rue,13
+431,bellievre,rue de,13
+432,bellini,rue,16
+433,bellot,rue,19
+434,belloy,rue de,16
+435,belvedere,avenue du,19
+436,belzunce,rue de,10
+437,ben-alad,passage,2
+438,bénard,cité,11
+439,bénard,rue,14
+440,bender,passage,19
+441,benjamin-bagnol,passage,20
+442,benjamin-constant,rue,19
+443,benjamin-godard,rue,16
+444,benoit-malon,rue,14
+445,benouville,rue,16
+446,beranger,hameau,15
+447,béranger,rue,3
+448,berard,cour,4
+449,berbier-du-mets,rue,13
+450,bercy,boulevard de,12
+451,bercy,quai de,12
+452,bercy,rue de,12
+452 bis,bercy,square de,12
+453,bergame,impasse de,20
+454,berger,rue,1
+455,bergere,cité,9
+456,bergere,rue,9
+457,bergers,rue des,15
+458,bérite,rue,6
+459,berlioz,rue,16
+460,berlioz,square,9
+461,bernages,rue des,19
+462,bernages,sente des,19
+463,bernardins,rue des,5
+464,bernard-palissy,rue,6
+465,berne,rue de,8
+466,bernkoff,cité,19
+467,bernouilli,rue,8
+468,berri,rue de,8
+469,berryer,cité,8
+470,berryer,rue,8
+471,berthaud,impasse,3
+472,berthe,rue,18
+473,berthier,boulevard,17
+474,berthier,villa,17
+475,berthollet,rue,5
+476,bertie-albrecht,rue,8
+477,bertin-poiree,rue,1
+478,berton,rue,16
+479,bertrand,cité,11
+480,bertrand,rue,7
+481,bervic,rue,18
+482,berzélius,passage,17
+483,berzélius,rue,17
+484,berzelius,rue prolongee,17
+485,beslay,passage,11
+486,besnard,villa,15
+487,bessières,boulevard,17
+488,bessières,rue,17
+489,bessin,rue du,15
+490,bethune,quai de,4
+491,beudant,rue,17
+492,bezout,rue,14
+493,bichat,rue,10
+494,bidassoa,rue de la,20
+495,bidault,ruelle,12
+496,bienaimé,cité,18
+497,bienfaisance,rue de la,8
+498,bienvenue,place,15
+499,bievre,rue de,5
+500,bignon,rue,12
+501,bigorre,rue de,14
+502,bigot,villa,16
+503,bigot,villa,16
+504,billon,cité,20
+505,biot,rue,17
+506,birague,rue de,4
+507,biron,escalier,18
+508,biscornet,rue,12
+509,bisson,cité,20
+510,bisson,rue,20
+511,bitche,place de,19
+512,bixio,rue,7
+513,bizerte,rue de,17
+514,blainville,rue,5
+515,blaise-desgoffe,rue,6
+516,blanchard,rue,20
+517,blanche,cité,14
+518,blanche,place,9
+519,blanche,rue,9
+520,blanche-antoinette,rue,19
+521,blancs-manteaux,rue des,4
+522,blanqui,rue,13
+523,bleue,rue,9
+524,bleus,cour des,2
+525,blomet,rue,15
+526,blondel,rue,2-3
+527,blottiere,impasse,14
+528,blottiere,rue,14
+529,bluets,rue des,11
+530,bobillot,rue,13
+531,bocage,rue du,15
+532,boccador,rue du,8
+533,bochart-de-saron,rue,9
+534,bocquet,villa,19
+535,boers,villa des,19
+536,boeuf,impasse du,4
+537,boeufs,impasse des,5
+538,boieldieu,place,2
+539,boileau,hameau,16
+540,boileau,rue,16
+541,boileau,villa,16
+542,boinod,rue,18
+543,bois,rue des,19
+544,bois-de-boulogne,rue du,16
+545,bois-de-boulogne,square du,16
+546,bois-des-caures,rue du,17
+547,bois-le-prétre,boulevard du,17
+548,bois-le-vent,rue,16
+549,boissiere,rue,16
+550,boissiere,villa,16
+551,boissieu,rue,18
+552,boissonade,rue,14
+553,boissy-d'anglas,rue,8
+554,boiton,passage,13
+555,bolivar,square,19
+556,bonaparte,rue,6
+557,bonhoure,cité,10
+558,bonnard,cité,19
+559,bonne,rue de la,18
+560,bonne-graine,passage de la,11
+561,bonne-nouvelle,boulevard,2-10
+562,bonne-nouvelle,impasse,10
+563,bonnet,rue,18
+564,bon-secours,impasse,11
+565,bons-enfants,rue des,1
+566,borda,rue,3
+567,borrégo,impasse du,20
+568,borrégo,rue du,20
+569,borromée,rue,15
+570,bosio,rue,16
+571,bosquet,avenue,7
+572,bosquet,rue,7
+573,bosquet,villa,7
+574,bossettes,sentier des,13
+575,bossuet,rue,10
+576,botha,rue,20
+577,botzaris,rue,19
+578,bouchardon,rue,10
+579,boucher,rue,1
+580,bouchet,impasse,19
+581,bouchut,rue,15
+582,boucicaut,rue,15
+582 bis,boucicaut,square,7
+583,boucry,rue,18
+584,boudin,passage,20
+585,boudon,avenue,16
+586,boudreau,rue,9
+587,boufflers,avenue,16
+588,bougainville,rue,7
+589,bouilloux-lafont,rue,15
+590,boulainvilliers,hameau de,16
+591,boulainvilliers,rue de,16
+592,boulangers,rue des,5
+593,boulard,rue,14
+594,boulay,passage,17
+595,boulay,rue,17
+596,bouleaux,avenue des,19
+597,boule-blanche,passage de la,12
+598,boule-rouge,impasse de la,9
+599,boule-rouge,rue de la,9
+600,boulets,rue des,11
+601,boulevard du temple,square du,11
+602,boulitte,rue,14
+603,boulle,rue,11
+604,boulnois,place,17
+605,bouloi,rue du,1
+606,bouquet-de-longchamp,rue du,16
+607,bourbon,quai de,4
+608,bourbon-le-chateau,rue,6
+609,bourdaloue,rue,9
+610,bourdin,impasse,8
+611,bourdon,boulevard,4
+612,bourdonnais,impasse des,1
+613,bourdonnais,rue des,1
+614,bouret,rue,19
+615,bourgeois,rue,14
+616,bourg-l'abbe,rue du,3
+617,bourg-l'abbé,rue du,3
+618,bourgogne,rue de,7
+619,bourgoin,impasse,13
+620,bourgoin,passage,13
+621,bourgoin,rue,13
+622,bourg-tibourg,rue du,4
+623,bournisien,passage,14
+624,boursault,rue,17
+625,bourse,place de la,2
+626,bourse,rue de la,2
+627,bourseul,rue,15
+628,boussingault,rue,13
+629,boutarel,rue,4
+630,boutebrie,rue,5
+631,boutin,rue,13
+632,boutron,impasse,10
+633,boutroux,avenue,13
+634,bouvart,impasse,5
+635,bouvier,impasse,11
+636,bouvines,avenue de,11
+637,bouvines,rue de,11
+638,boyer,rue,20
+639,boyer-barret,rue,14
+640,brady,passage,10
+641,brancion,impasse,15
+642,brancion,rue,15
+643,branly,quai,7
+644,brantome,rue,3
+645,braque,rue de,3
+646,bréa,rue,6
+647,breche-aux-loups,rue de la,12
+648,bréguet,rue,11
+649,brémontier,rue,17
+650,brésil,place du,17
+651,bresse,square de la,16
+652,bretagne,rue de,3
+653,breteuil,avenue de,7-15
+654,breteuil,place de,7-15
+655,bretonneau,rue,20
+656,bretons,cour des,10
+657,bretonvilliers,rue de,4
+658,brey,rue,17
+659,brézin,rue,14
+660,briare,impasse,9
+661,bridaine,rue,17
+662,brie,passage de la,19
+663,briens,sentier,12
+664,brignole,rue,16
+665,brion-galliera,square,16
+666,brillat-savarin,rue,13
+667,briquet,passage,18
+668,briquet,rue,18
+669,briqueterie,rue de la,14
+670,brise-miche,rue,4
+671,brissac,rue de,4
+671 bis,brizieux,square,20
+672,broca,passage,13
+673,broca,rue,5-13
+674,brochant,rue,17
+675,brongniart,rue,2
+676,brosse,rue de,4
+677,brouillards,allée des,18
+678,broussais,rue,14
+679,brown-séquard,rue,15
+680,bruant,rue,13
+681,bruller,rue,14
+682,brulon,passage,12
+683,brune,boulevard,14
+684,brune,rue,14
+685,brune,villa,14
+686,brunel,rue,17
+687,bruneseau,rue,13
+688,budapest,rue de,9
+689,bruoy,passage,12
+690,bruxelles,rue de,9
+691,bruyères,rue des,15
+692,bruyères,villa des,20
+693,bucarest,rue de,8
+694,bucherie,rue de la,5
+695,buci,carrefour de,6
+696,buci,rue de,6
+697,budapest,place de,9
+698,budapest,rue de,9
+699,budé,rue,4
+700,buenos-aires,rue de,7
+701,buffault,rue,9
+702,buffon,rue,5
+703,bugeaud,avenue,16
+704,bugeaud,rond-point,16
+705,buis,rue du,16
+706,buisson-saint-louis,passage du,10
+707,buisson-saint-louis,rue du,10
+708,bullant,rue,13
+709,bullourde,passage,11
+710,buot,rue,13
+711,bureau,impasse du,11
+712,bureau,passage du,11
+713,burnouf,rue,19
+714,burq,rue,18
+715,butte-aux-cailles,rue de la,13
+716,butte-du-chapeau,square de la,19
+717,buttes-montmartre,rue des,18
+718,buzelin,rue,18
+719,buzenval,rue de,20
+720,cabanis,rue,14
+721,cacheux,rue,13
+722,cadet,rue,9
+723,cadix,rue de,15
+724,cadran,impasse du,18
+725,caffarelli,rue,3
+726,caffiéri,avenue,13
+727,cahors,rue de,19
+728,cail,rue,10
+729,caillard,impasse,11
+730,caillaux,rue,13
+731,cailletet,rue,12
+732,caillié,rue,18
+733,caire,passage du,2
+734,caire,rue du,2
+735,calais,rue de,9
+736,calmels,impasse,18
+737,calmels,rue,18
+738,calvaire,place du,18
+739,calvaire,rue du,18
+740,cambacérés,rue,8
+741,cambo,rue de,19
+742,cambodge,rue du,20
+743,cambon,rue,1
+744,cambrai,rue de,19
+745,cambronne,place,15
+746,cambronne,rue,15
+747,camélias,rue des,14
+748,camélias,villa des,14
+749,camille-desmoulins,rue,11
+750,camille-douls,rue,20
+751,camille-flammarion,rue,18
+752,camille-jullian,place,6
+753,camille-tahan,rue,18
+754,camoens,avenue de,16
+755,camou,rue,7
+756,campagne-premiere,rue,14
+757,campo-formio,rue de,13
+758,camulogene,rue,15
+759,canada,place du,8
+760,canada,rue du,18
+761,canart,impasse,12
+762,candie,rue de,11
+763,candolle,rue,5
+764,canettes,rue des,6
+765,canivet,rue du,6
+766,cannebiere,rue,12
+767,canrobert,cité,15
+768,cantagrel,rue,13
+769,cantal,cour du,11
+770,capitaine-ferber,rue du,20
+771,capitaine-lagache,rue du,18
+772,capitaine-madon,rue du,18
+773,capitaine-marchal,rue du,20
+774,capitaine-menard,rue du,15
+775,capitaine-olchanski,rue du,16
+776,capitaine-scott,rue du,15
+777,capitaine-tarron,rue du,20
+778,caplat,rue,18
+779,caporal-peugeot,rue du,17
+780,capri,rue de,12
+781,capron,rue,18
+782,capucines,boulevard des,2-9
+783,capucines,rue des,1-2
+784,caran-d'ache,rue,17
+785,carcel,rue,15
+786,cardan,rue,17
+787,cardinal-amette,place du,15
+788,cardinal-dubois,rue du,18
+789,cardinal-guibert,rue du,18
+790,cardinal-lavigerie,place du,12
+791,cardinal-lemoine,cite du,5
+792,cardinal-lemoine,rue du,5
+793,cardinal-mercier,rue du,9
+793 bis,cardinal-verdier,square du,15
+794,cardinale,rue,6
+795,cardinet,passage,17
+796,cardinet,rue,17
+797,carducci,rue,19
+798,carmes,rue des,5
+799,carnot,avenue,17
+800,carnot,boulevard,12
+801,carnot,rue,17
+802,carnot,villa,17
+803,caroline,rue,17
+804,carolus-duran,rue,19
+805,caron,rue,4
+806,carpeaux,rue,18
+806 bis,carpeaux,square,18
+807,carrier-belleuse,rue,15
+808,carrière-mainguet,impasse,11
+809,carrieres,chemin des,19
+810,carrières,impasse des,16
+811,carrières-d'amérique,rue des,19
+812,cartellier,avenue,20
+813,casablanca,rue de,15
+814,cascades,rue des,20
+815,casimir-delavigne,rue,6
+816,casimir-périer,rue,7
+817,caspienne,impasse,20
+818,cassette,rue,6
+819,cassini,rue,14
+820,castagnary,rue,18
+821,casteggio,impasse de,20
+822,castellane,rue de,8
+823,castex,rue,4
+824,castiglione,rue de,1
+825,catinat,rue,1
+826,catulle-mendes,rue,17
+827,cauchois,rue,18
+828,cauchy,rue,15
+829,caulaincourt,rue,18
+830,caulaincourt,square,18
+831,caumartin,rue,9
+832,cavalerie,rue de la,15
+833,cavalotti,rue,18
+834,cavé,rue,18
+835,cavelier-de-la-salle,rue,16
+836,cavendish,rue,19
+837,cazotte,rue,18
+838,celestin,impasse,20
+839,celestins,quai des,4
+840,cels,rue,14
+841,cendriers,rue des,20
+842,censier,rue,5
+843,centenaire,avenue du,19
+844,cépré,rue,15
+845,cerisaie,impasse de la,13
+846,cerisaie,rue de la,4
+847,cerisoles,rue de,8
+848,cernuschi,rue,17
+849,cervantes,rue,15
+850,césar-caire,avenue,8
+851,césar-franck,rue,15
+852,cesselin,impasse,11
+853,cévennes,rue des,15
+854,chabanais,rue,2
+855,chablis,rue de,12
+856,chabrol,cité,10
+857,chabrol,rue de,10
+858,chaffault,rue du,12
+859,chaillot,rue de,16
+860,chaise,rue de la,7
+861,chalabre,impasse,17
+862,chalet,rue du,10
+863,chalets,avenue des,16
+864,chalgrin,rue,16
+865,chaligny,rue,12
+866,chalon,impasse de,12
+867,chalon,rue de,12
+868,chambertin,rue de,12
+869,chambery,rue de,15
+870,chambiges,rue,8
+871,chamfort,rue,16
+872,champagne,cité,20
+873,champagny,rue,7
+874,champaubert,avenue de,15
+875,champ-de-l'alouette,rue du,13
+876,champ-de-mars,place du,15
+877,champ-de-mars,rue du,7
+878,champ-de-mars,square du,15
+879,champeaux,rue des,20
+880,champfleury,rue,7
+881,championnet,passage,18
+882,championnet,rue,18
+883,championnet,villa,18
+884,champlain,rue,20
+885,champ-marie,passage du,18
+886,champollion,rue,5
+887,champs-elysees,avenue des,8
+888,champs-elysees,rond-point des,8
+889,chanaleilles,rue de,7
+890,chanez,rue,16
+891,chanez,villa,16
+892,changarnier,rue,12
+893,chanoinesse,rue,4
+894,chantemesse,avenue,16
+895,chantier,passage du,12
+896,chantiers,rue des,5
+897,chantilly,rue de,9
+898,chanters,rue des,4
+899,chanvin,passage,13
+900,chanzy,rue,11
+901,chapelle,avenue de la,17
+902,chapelle,boulevard de la,10-18
+903,chapelle,cité de la,18
+904,chapelle,impasse de la,18
+905,chapelle,place de la,18
+906,chapelle,rue de la,18
+907,chapon,rue,3
+908,chappe,rue,18
+909,chaptal,cité,9
+910,chaptal,rue,9
+911,chapu,rue,16
+912,charbonnel,rue,13
+913,charbonniere,rue de la,18
+914,charbonniers,passage des,15
+915,charcot,rue,13
+916,chardin,rue,16
+917,chardon-lagache,rue,16
+918,charente,quai de la,19
+919,charenton,rue de,12
+920,charlemagne,passage,4
+921,charlemagne,rue,4
+922,charles-albert,passage,18
+923,charles-baudelaire,rue,12
+924,charles-bénard,villa,12
+925,charles-bernard,place,18
+926,charles-bertheau,rue,13
+927,charles-bossut,rue,12
+928,charles-bourseul,rue,14
+929,charles-cazin,rue,15
+930,charles-v,rue,4
+931,charles-cros,rue,20
+932,charles-dallery,passage,11
+933,charles-de-foucauld,avenue,12
+934,charles-delescluze,rue,11
+935,charles-dickens,rue,16
+936,charles-dickens,square,16
+937,charle-divry,rue,14
+938,charles-et-robert,rue,20
+939,charles-fillion,place,17
+940,charles-floquet,avenue,7
+941,charles-fourier,rue,13
+942,charles-friedel,rue,20
+943,charles-garnier,place,9
+944,charles-gerhardt,rue,17
+945,charles-girault,avenue,8
+946,charles-hermtte,rue,18
+947,charles-lamoureux,rue,16
+948,charles-laurent,square,15
+949,charles-lauth,rue,18
+950,charles-lecoq,rue,15
+951,charles-le-goffic,rue,14
+952,charles-marie-widor,rue,16
+953,charles-michels,place,15
+954,charles-monselet,rue,19
+955,charles-nodier,rue,18
+956,charles-petit,impasse,11
+957,charles-renouvier,rue,20
+958,charles-robin,rue,10
+959,charles-tellier,rue,16
+960,charles-weiss,rue,15
+961,charlot,rue,32
+962,charmilles,villa des,15
+963,charolais,passage du,12
+964,charolais,rue du,12
+965,charonne,boulebard de,11-20
+966,charonne,rue de,11
+967,charras,rue,9
+968,charrière,impasse,11
+969,chartiere,impasse,5
+970,chartran,rue,17
+971,chartres,rue de,18
+972,chartreux,rue des,6
+973,chassaigne-goyon,place,8
+974,chasseloup-laubat,rue,15
+975,chasseurs,avenue des,17
+976,chateau,rue du,14
+977,chateaubriand,rue,8
+978,chateau-d'eau,rue du,10
+979,chateau-des-rentiers,rue du,13
+980,chateaudun,rue de,9
+981,chateau-landon,rue,10
+982,chateau-rouge,place du,18
+983,chatelet,place du,1-4
+984,chatillon,avenue de,14
+985,chatillon,rue de,14
+986,chatillon,square de,14
+987,chat-qui-péche,rue du,5
+988,chauchat,rue,9
+989,chaudey,rue,12
+990,chaudron,rue,10
+991,chaufourniers,rue des,19
+992,chamont,rue de,19
+993,chaure,square,20
+994,chaussee-d'antin,rue de la,9
+995,chaussin,passage,12
+996,chausson,impasse,10
+997,chauveau-lagarde,rue,8
+998,chauvelot,rue,15
+999,chazelles,rue de,17
+1000,chemin-de-fer,rue du,19
+1001,chemin-vert,passage du,11
+1002,chemin-vert,rue du,11
+1003,cheminets,rue des,19
+1004,chene-vert,cour du,12
+1005,chénier,rue,2
+1006,chenu,cité,14
+1007,cher,rue du,20
+1008,cherbourg,rue de,15
+1009,cherbuliez,rue,17
+1010,cherche-midi,rue du,15
+1011,chéreau,rue,13
+1012,chernoviz,rue,16
+1013,chéroy,rue de,17
+1014,chérubini,rue,2
+1015,cheval-blanc,passage du,11
+1016,chevaleret,rue du,13
+1017,chevalier-de-la-barre,rue du,18
+1018,chevaliers,impasse des,20
+1019,chevert,rue,7
+1020,cheverus,rue de,9
+1021,chevet,rue du,11
+1022,chevreul,rue,11
+1023,chevreuse,rue de,6
+1024,cheysson,villa,16
+1025,chifflart,rue,20
+1026,chine,rue de la,20
+1027,choiseul,passage,2
+1028,choiseul,rue de,2
+1029,choisy,avenue de,13
+1030,chomel,rue,7
+1031,choron,rue,93
+1032,christi,impasse,17
+1033,christian-dewet,rue,12
+1034,christiani,rue,18
+1035,christine,rue,6
+1036,christophe-colomb,rue,8
+1037,cicé,rue de,6
+1038,cimarosa,rue,16
+1039,cimetiere-des-batignolles,avenue du,17
+1040,cimetiere-st-benoit,rue du,5
+1041,cinq-diamants,rue des,13
+1042,cirque,rue du,8
+1043,ciseaux,rue des,6
+1044,cité,rue de la,4
+1045,cité-universitaire,rue de la,14
+1046,citeaux,rue de,12
+1047,civiale,rue,10
+1048,civry,rue de,16
+1049,clairaut,rue,17
+1050,clairvaux,impasse de,3
+1051,clapeyron,rue,8
+1052,claude-bernard,rue,5
+1053,claude-chahu,rue,16
+1054,claude-debussy,rue,17
+1055,claude-debussy,square,17
+1056,claude-decaen,rue,12
+1057,claude-lorrain,rue,16
+1058,claude-lorrain,villa,16
+1059,claude-monet,villa,19
+1060,claude-pouillet,rue,17
+1061,claude-terrasse,rue,16
+1062,claude-tillier,rue,12
+1063,claude-vellefaux,avenue,10
+1064,clauzel,rue,9
+1065,clavel,rue,19
+1066,clef,rue de la,5
+1067,clémence-royer,rue,1
+1068,clément,rue,61
+1069,clement-marot,rue,18
+1070,cler,rue,7
+1071,cléry,passage de,2
+1072,cléry,rue de,25
+1073,clichy,avenue de,17
+1074,clichy,boulevard de,9
+1075,clichy,passage de,18
+1076,clichy,place de,8-9-17-18
+1077,clichy,rue de,9
+1078,clignancourt,impasse de,18
+1079,clignancourt,rue de,18
+1080,clignancourt,square de,18
+1081,clisson,impasse,13
+1082,clisson,rue,13
+1083,cloche,rue de la,20
+1084,cloche-perce,rue,4
+1085,clodion,rue,15
+1086,cloitre-notre-dame,rue du,4
+1087,cloitre-saint-merri,rue du,4
+1088,clos,cité des,20
+1089,clos,rue du,20
+1090,clos-bruneau,passage du,5
+1091,clos-feuquieres,rue du,15
+1092,clos-lamotte,sente du,19
+1093,clotaire,rue,5
+1094,clotilde,rue,5
+1095,cloture,rue de la,19
+1096,clouet,rue,15
+1097,clovis,rue,5
+1098,clovis-hugues,rue,18
+1099,cloys,impasse des,18
+1100,cloys,passage des,18
+1101,cloys,rue des,18
+1102,cluny,rue de,5
+1103,cochin,rue,5
+1104,coetlogon,rue,6
+1105,coeur-de-vey,impasse,14
+1106,cognacq-jay,rue,71
+1107,colas,rue,14
+1108,colbert,galerie,2
+1109,colbert,rue,2
+1109 bis,coligny,rue de,4
+1110,colisée,rue du,8
+1111,collegiale,rue de la,5
+1112,collet,villa,14
+1113,collette,rue,17
+1114,colin,passage,9
+1115,colmar,rue de,19
+1116,colombe,rue de la,4
+1117,colonel-bonnet,avenue du,16
+1118,colonel-combes,rue du,7
+1119,colonel-domine,avenue du,12
+1120,colonel-driant,rue du,1
+1121,colonel-fabien,place du,10-19
+1122,colonel-moll,rue du,17
+1123,colonel-monteil,rue du,14
+1124,colonel-oudot,rue du,12
+1125,colonels-renard,rue des,17
+1126,colonie,rue de la,13
+1127,colonnes,rue des,2
+1128,colonnes-du-trone,rue des,12
+1129,comete,rue de la,7
+1130,commaille,rue de,7
+1131,commandant-guilbaud,rue du,16
+1132,commandant-lamy,rue du,11
+1133,commandant-léandri,rue du,15
+1134,commandant-marchand,rue du,16
+1135,commandant-riviere,rue du,8
+1136,commanderie,boulevard de la,19
+1137,commandeur,rue du,14
+1138,commerce,impasse du,15
+1139,commerce,place du,15
+1140,commerce,rue du,15
+1141,commerce-saint-andre-des-arts,cour du,6
+1142,commerce-saint-andre-des-arts,passage du,6
+1143,commerciale,cité,10
+1144,commines,rue,3
+1145,compans,impasse,19
+1146,compans,rue,19
+1147,compans,villa,19
+1148,compiegne,rue de,10
+1149,compoint,impasse,17
+1150,concorde,place de la,8
+1151,condé,rue de,6
+1152,condillac,rue,11
+1153,condorcet,cité,9
+1154,condorcet,rue,9
+1155,congo,rue du,12
+1156,conseiller-collignon,rue du,16
+1157,conservatoire,rue du,9
+1158,constance,rue,18
+1159,constant-berthaut,rue,20
+1160,constant-coquelin,avenue,7
+1161,constantine,rue de,7
+1162,constantinople,rue de,8
+1163,constantin-pecqueur,place,18
+1164,conté,rue,33
+1165,conti,impasse de,6
+1166,conti,quai,6
+1167,contrescarpe,place de la,5
+1168,convention,rue de la,15
+1169,conventionnel-chiappe,rue du,13
+1170,cope,impasse,18
+1171,copenhague,rue de,8
+1172,copernic,rue,16
+1173,copernic,villa,16
+1174,copreau,rue,15
+1175,coq,avenue du,9
+1176,coq-héron,rue du,1
+1177,coquilliere,rue,1
+1178,corbera,avenue,12
+1179,corbineau,rue,12
+1180,corbon,rue,15
+1181,cordelieres,rue des,13
+1182,corderie,rue de la,3
+1183,cordon-boussard,impasse,20
+1184,corentin-cariou,avenue,19
+1185,coriolis,rue,12
+1186,cormier,rue du,19
+1187,corneille,rue,6
+1188,corot,rue,16
+1189,correze,rue de la,19
+1190,corse,quai de,4
+1191,cortambert,rue,16
+1192,cortot,rue,18
+1193,corvetto,rue,8
+1194,corvisart,rue,13
+1195,cossonnerie,rue de la,1
+1196,cotentin,rue du,15
+1197,cothenet,rue,16
+1198,cottages,rue des,18
+1199,cotte,rue de,12
+1200,cottin,passage,18
+1201,couche,rue,14
+1202,coulmiers,rue de,14
+1203,coulon,impasse,20
+1204,courat,passage,20
+1205,courat,rue,20
+1206,courbet,passage,19
+1207,courcelles,boulevard de,8-17
+1208,courcelles,rue de,8-17
+1209,cour des noues,rue de la,20
+1210,cournot,rue,15
+1211,couronnes,impasse des,20
+1212,couronnes,rue des,20
+1213,courtalon,rue,1
+1214,courteline,avenue,12
+1215,courtois,passage,11
+1216,courty,rue de,7
+1217,coustou,rue,18
+1218,coutellerie,rue de la,4
+1219,coutures-st-gervais,rue des,3
+1220,coypel,rue,12
+1221,coysevox,rue,18
+1222,crébillon,rue,6
+1223,credit-lyonnais,impasse du,13
+1224,crémieux,rue,12
+1225,crespin-du-gast,rue,11
+1226,crétet,rue,9
+1227,crevaux,rue,16
+1228,crillon,rue,4
+1229,crimée,passage de,19
+1230,crimée,rue de,19
+1231,crins,impasse des,20
+1232,crocé-spinelli,rue,14
+1233,croisic,square du,15
+1234,croissant,rue du,2
+1235,croix-des-petits-champs,rue,1
+1236,croix-faubin,rue de la,11
+1237,croix-jarry,rue de la,13
+1238,croix-nivert,rue de la,15
+1239,croix-nivert,villa de la,15
+1240,croix-rouge,carrefour de la,6
+1241,croix-saint-simon,rue de la,20
+1242,cronstadt,rue de,15
+1243,cronstadt,villa,19
+1244,croulebarbe,rue,13
+1245,crozatier,impasse,12
+1246,crozatier,rue,12
+1247,crussol,cité de,11
+1248,crussol,rue de,11
+1249,gugnot,rue,18
+1250,cujas,rue,6
+1251,cunin-gridaine,rue,13
+1252,curé,impasse du,18
+1253,cure,rue de la,16
+1254,curial,rue,19
+1255,custine,rue,18
+1256,cuvier,rue,5
+1257,cygne,rue du,1
+1258,cyrano-de-bergerac,rue,18
+1259,dagurno,passage,20
+1260,dagorno,rue,12
+1261,daguerre,rue,14
+1262,dahomey,rue du,11
+1263,dalayrac,rue,2
+1264,dalloz,rue,13
+1265,dalou,rue,15
+1266,dames,rue des,17
+1267,damesme,impasse,13
+1268,damesme,rue,13
+1269,damiette,rue de,2
+1270,damoye,cour,11
+1271,dampierre,rue,19
+1272,damrémont,rue,18
+1273,damrémont,villa,18
+1274,dancourt,place,18
+1275,dancourt,rue,18
+1276,dancourt,villa,18
+1277,dangeau,rue,16
+1278,danielle-casanova,rue,1-2
+1279,daniel-lesueur,avenue,7
+1280,daniel-stern,rue,15
+1281,dante,rue,5
+1282,danton,rue,6
+1283,dantzig,passage de,15
+1284,dantzig,rue de,15
+1285,danube,hameau du,19
+1286,danube,place du,19
+1287,danube,villa du,19
+1288,danville,rue,14
+1289,dany,impasse,8
+1290,darboy,rue,11
+1291,darcet,rue,17
+1292,darcy,rue,20
+1293,dardanelles,rue des,17
+1294,dareau,passage,14
+1295,dareau,rue,14
+1296,darmesteter,rue,13
+1297,daru,rue,8
+1298,darwin,rue,18
+1299,daubenton,rue,5
+1300,daubigny,rue,17
+1301,daumesnil,avenue,12
+1302,daumesnil,villa,12
+1303,daumier,rue,16
+1304,daunay,impasse,11
+1305,daunay,passage,18
+1306,daunou,rue,2
+1307,dauphine,passage,6
+1308,dauphine,place,11
+1309,dauphine,rue,6
+1310,dautancourt,rue,17
+1311,daval,rue,11
+1312,david-d'angers,rue,19
+1313,daviel,rue,13
+1314,daviel,villa,13
+1315,davioud,rue,16
+1316,davout,boulevard,20
+1317,davy,rue,17
+1318,debarcadere,rue du,17
+1319,debelleyme,rue,3
+1320,debergue,cité,12
+1321,debidour,avenue,19
+1322,debille,cour,11
+1323,debille,passage,13
+1324,debrousse,rue,16
+1325,debucourt,rue,17
+1326,decamps,rue,16
+1327,dechambre,passage,15
+1328,déchargeurs,rue des,1
+1329,decrés,impasse,14
+1330,decres,rue,14
+1331,défense,impasse de la,18
+1332,degas,rue,16
+1332 bis,degrés,rue des,25
+1333,deguerry,rue,11
+1334,deguingand,rue,17
+1335,dejean,rue,18
+1336,delaitre,rue,20
+1337,delaizement,rue,17
+1338,delambre,rue,14
+1339,delambre,square,14
+1340,delanos,passage,10
+1341,delaunay,cité,11
+1342,delaunay,impasse,11
+1343,delbet,rue,14
+1344,delcassé,avenue,8
+1345,delecourt,avenue,15
+1346,delépine,impasse,11
+1347,delessert,boulevard,16
+1348,delessert,passage,10
+1349,delesseux,passage,19
+1350,deligny,impasse,17
+1351,deloder,villa,13
+1352,delouvain,rue,19
+1353,delta,rue du,9
+1354,demarquay,rue,10
+1355,denain,boulevard de,10
+1356,denfert-rochereau,avenue,14
+1357,denfert-rochereau,place,14
+1358,denis-poisson,rue,17
+1359,denoyez,rue,20
+1360,déodat-de-severac,rue,17
+1361,deparcieux,rue,14
+1362,départ,passage du,14
+1363,départ,rue du,14
+1364,département,rue du,19
+1365,depinoy,rue,14
+1366,desaix,rue,15
+1367,desaix,square,15
+1368,desargues,rue,11
+1369,desaugiers,rue,16
+1370,desault,rue,13
+1371,desbordes-valmore,rue,16
+1372,descartes,rue,5
+1373,deschamps,passage,20
+1374,descombes,rue,17
+1375,desgenettes,rue,7
+1376,desgrais,passage,19
+1377,deshayes,villa,14
+1378,désir,passage du,10
+1379,désiré-ruggieri,rue,18
+1380,désirée,rue,20
+1381,désirée,villa,20
+1382,desnouettes,rue,15
+1383,desnouettes,square,15
+1384,despréaux,avenue,16
+1385,desprez,rue,14
+1386,desrenaudes,rue,17
+1387,dessous-des-berges,rue du,13
+1388,deux-anges,impasse des,6
+1389,deux-avenues,rue des,13
+1390,deux-boules,rue des,1
+1391,deux-cousins,impasse des,17
+1392,deux-écus,place des,1
+1393,deux-gares,rue des,10
+1394,deux-nethes,impasse des,18
+1395,deux-ponts,rue des,4
+1396,deux-portes,impasse des,20
+1397,deux-soeurs,passage des,9
+1398,deveria,rue,20
+1399,dhéron,impasse,20
+1400,dhuis,rue de la,20
+1401,diard,rue,18
+1402,diderot,boulevard,12
+1403,didot,rue,14
+1404,dietz-monnin,villa,16
+1405,dieu,passage,20
+1406,dieu,rue,10
+1407,dieulafoy,rue,13
+1408,dijon,rue de,12
+1409,division-leclerc,avenue de la,16
+1410,dixmude,boulevard de,17
+1411,dobropol,rue du,17
+1412,docteur-alfred-fournier,place du,10
+1413,docteur-blanche,rue du,16
+1414,docteur-blanche,square du,16
+1415,docteur-bourneville,rue du,13
+1416,docteur-brouardel,avenue du,7
+1417,docteur-charles-richet,rue du,13
+1418,docteurs-dejerine,rue des,20
+1419,docteur-felix-lobligeois,place du,17
+1420,docteur-finlay,rue du,15
+1421,docteur-germain-see,rue du,16
+1422,docteur-gley,avenue du,20
+1423,docteur-goujon,rue du,12
+1424,docteur-heulin,rue du,17
+1425,docteur-jacquemaire-clemenceau,rue du,15
+1426,docteur-labbe,rue du,20
+1427,docteur-lancereaux,rue du,8
+1428,docteur-landouzy,rue du,13
+1429,docteur-lannelongue,avenue du,14
+1430,docteur-laurent,rue du,13
+1431,docteur-lecene,rue du,13
+1432,docteur-leray,rue du,13
+1433,docteur-lucas-championniere,rue du,13
+1434,docteur-magnan,rue du,13
+1435,docteur-paquelin,rue du,20
+1436,docteur-paul-brousse,rue du,17
+1437,docteur-paul-michaus,place du,16
+1438,docteur-potain,rue du,19
+1439,docteur-roux,rue du,15
+1440,docteur-salmon,rue du,12
+1441,docteur-tuffier,rue du,13
+1442,docteur-victor-hutinel,rue du,13
+1443,dode-de-la-brunerie,avenue,16
+1444,doisy,passage,17
+1445,dolomieu,rue,5
+1446,domat,rue,5
+1447,dombasle,impasse de,15
+1448,dombasle,passage de,15
+1449,dombasle,rue de,15
+1450,dome,rue du,16
+1451,domrémy,rue de,13
+1452,donizetti,rue,16
+1453,dordogne,square de la,17
+1454,doré,cité,13
+1455,dorees,sente des,19
+1456,dorian,avenue,12
+1457,dorian,rue,12
+1458,dosne,rue,16
+1459,douai,rue de,9
+1460,souane,rue de la,10
+1461,douanier,rue du,14
+1462,douaumont,boulevard de,17
+1463,doudeauville,rue,18
+1464,dragon,cour du,6
+1465,dragon,rue du,63
+1466,dreux,rue de,17
+1467,drevet,rue,18
+1468,driancourt,passage,12
+1469,drouot,rue,9
+1470,druinot,impasse,12
+1471,dubail,passage,10
+1472,duban,rue,16
+1473,dubois,passage,19
+1474,dubourg,cite,20
+1475,dubrunfaut,rue,12
+1476,duc,rue,18
+1477,du gange,rue,14
+1478,duchefdelaville,passage,13
+1479,duchefdelaville,rue,13
+1480,ducouédic,rue,14
+1481,dupouy,passage,11
+1482,duée,passage de la,20
+1483,duée,rue de la,20
+1484,dufrenoy,rue,16
+1485,dufresne,villa,16
+1486,dugommier,rue,12
+1487,duguay-trouin,rue,6
+1488,duguesclin,passage,15
+1489,duguesclin,rue,15
+1490,duhesme,passage,18
+1491,duhesme,rue,18
+1492,dulac,rue,15
+1493,dulaure,rue,20
+1494,dulong,rue,17
+1495,dumas,passage,11
+1496,duméril,rue,13
+1497,dumont-d'urville,rue,16
+1498,dunes,rue des,19
+1499,dunkerque,rue de,9
+1500,dunois,rue,13
+1501,duperré,rue,9
+1502,dupetit-thouars,cite,3
+1503,dupetit-thouars,rue,3
+1504,duphot,rue,1-8
+1505,dupin,rue,6
+1506,duplan,cité,16
+1507,dupleix,place,15
+1508,dupleix,rue,15
+1509,dupont,cité,11
+1510,dupont,villa,16
+1511,dupont-de-l'eure,rue,20
+1512,dupont-des-loges,rue,17
+1513,dupuis,rue,3
+1514,dupuy,impasse,18
+1515,dupuy-de-lome,rue,13
+1516,dupuytren,rue,6
+1517,duquesne,avenue,7
+1518,durance,rue de la,12
+1519,duranti,rue,11
+1520,durantin,rue,18
+1521,duranton,rue,15
+1522,duras,rue de,8
+1523,durel,cité,18
+1524,duret,rue,16
+1525,duris,rue,20
+1526,durmar,cité,11
+1527,duroc,rue,7
+1528,durouchoux,rue,14
+1529,dury,impasse,15
+1530,dury-vasselon,villa,20
+1531,du sommerard,rue,5
+1532,dussoubs,rue,2
+1533,duthy,villa,14
+1534,dutot,rue,15
+1535,duvergier,rue,19
+1536,duvivier,rue,7
+1537,eaux,rue des,16
+1538,ebelmen,rue,12
+1539,éblé,rue,7
+1540,ebre,rue de l',13
+1541,échaudé,rue de l,6
+1542,echelle,rue de l',1
+1543,echiquier,rue de l',10
+1544,ecluses-saint-martin,rue des,10
+1545,école,place de l',1
+1546,école-de-medecine,rue de l',6
+1547,école-militaire,place de l',7
+1548,école-polytechnique,rue de l',5
+1549,écoles,cité des,20
+1550,écoles,rue des,5
+1551,écoliers,passage des,15
+1552,économe,rue de l',20
+1553,écosse,rue d',5
+1554,écouffes,rue des,4
+1555,ecrivains-combattants-morts-pour-la-france,square des,16
+1556,ecuyers,sentier des,20
+1557,edgar-poé,rue,19
+1558,edgar-quinet,boulevard,14
+1559,edimbourg,rue d',8
+1560,edison,avenue,13
+1561,edmont-about,rue,16
+1562,edmond-flamand,rue,13
+1563,edmond-frémy,rue,20
+1564,edmond-gondinet,rue,13
+1565,edmond-guillout,rue,15
+1566,edmond-roger,rue,15
+1567,edmond-rostand,place,6
+1568,edmond-rousse,rue,14
+1569,edmond-valentin,rue,7
+1570,édouard-colonne,rue,1
+1571,édouard-detaille,rue,17
+1572,édouard-fournier,rue,16
+1573,édouard-jacques,rue,14
+1574,édouard-lockroy,rue,11
+1575,édouard-manet,rue,13
+1576,édouard-pailleron,rue,19
+1577,édouard-quenu,rue,5
+1578,édouard-renard,place,12
+1579,édouard-robert,rue,12
+1580,édouard-vii,rue,9
+1581,édouard-vaillant,avenue,16
+1582,édouard-vaillant,square,20
+1583,égalité,rue de l,19
+1584,eginhard,rue,4
+1585,églantiers,rue des,20
+1586,église,impasse de l',15
+1587,église,rue de l',15
+1588,elgé,cité,19
+1588 bis,élie,cité,15
+1589,élie-de-beaumont,rue,17
+1590,élisa-borey,rue,20
+1591,élisa-lemonnier,rue,12
+1592,élisée-reclus,avenue,73
+1593,élysée,rue de l,8
+1594,elysee-des-beaux-arts,rue de l',18
+1595,élysée-ménilmontant,rue de l',20
+1596,elzévir,rue,3
+1597,emélie,impasse,19
+1598,emeriau,rue,15
+1599,emile-acollas,avenue,7
+1600,émile-allez,rue,17
+1601,emile-augier,boulevard,16
+1602,émile-augier,rue,16
+1603,emile-bergerat,avenue,16
+1604,émile-bertin,rue,18
+1605,émile-blémont,rue,18
+1606,émile-chaine,rue,18
+1606 bis,émile-chautemps,square,3
+1606 ter,émile-cohl,square,12
+1607,emile-deschanel,avenue,7
+1608,émile-deslandres,rue,13
+1609,émile-desvaux,rue,19
+1610,emile-deutsch-de-la-meurthe,rue,14
+1611,émile-dubois,rue,14
+1612,émile-duclaux,rue,15
+1613,émile-duployé,rue,18
+1613 bis,emile-faguet,rue,14
+1614,émile-gilbert,rue,12
+1615,émile-goudeau,place,18
+1616,emile-landrin,place,20
+1617,émile-landrin,rue,20
+1618,emile-laurent,avenue,12
+1619,émile-lepeu,rue,11
+1620,émile-levassor,rue,13
+1621,émile-level,rue,17
+1622,émile-loubet,villa,19
+1623,émile-massard,avenue,17
+1624,émile-menier,rue,16
+1625,émile-meyer,villa,16
+1626,émile-pierre-casel,rue,20
+1627,émile-pouvillon,avenue,7
+1627 bis,émile-reynaud,rue,19
+1628,émile-rostan,rue,13
+1629,émile-zola,avenue,15
+1630,émile-zola,square,15
+1631,émilio-castelar,rue,12
+1632,émmanuel-chabrier,square,17
+1633,emmanuel-chauviere,rue,15
+1634,emmery,rue,20
+1635,encheval,rue de l',19
+1636,enfant-jesus,impasse de l',15
+1637,enfer,passage d',14
+1638,enghien,rue d',10
+1639,entrepots,rue des,18
+1640,entrepreneurs,passage des,15
+1641,entrepreneurs,rue des,15
+1642,entrepreneurs,villa des,15
+1643,envierges,cité des,20
+1644,envierges,rue des,20
+1645,epargne,passage de l',19
+1646,épée-de-bois,rue de l',5
+1647,eperon,rue de l',6
+1648,épinettes,impasse des,17
+1649,épinettes,passage des,14
+1650,épinettes,rue des,17
+1650 bis,épinettes,square des,17
+1651,équerre,rue de l',19
+1652,érard,impasse,12
+1653,érard,rue,12
+1654,érasme,rue,5
+1655,erckmann-chatrian,rue,18
+1656,erlanger,avenue,16
+1657,erlanger,rue,16
+1658,erlanger,villa,16
+1659,ermitage,avenue de l',16
+1660,ermitage,rue de l',20
+1661,ermitage,villa l',20
+1662,ernest,rue,13
+1663,ernest-cresson,rue,14
+1664,ernest-gouin,rue,17
+1665,ernest-hébert,rue,16
+1666,ernest-lacoste,rue,12
+1667,ernest-lavisse,rue,12
+1668,ernest-lefébure,rue,12
+1669,ernest-lefevre,rue,20
+1670,ernest-psichari,rue,7
+1671,ernest-renan,avenue,15
+1672,ernest-renan,rue,15
+1673,ernest-reyer,rue,14
+1674,ernest-roche,rue,17
+1675,ernest-et-henri-rouselle,rue,13
+1676,ernestine,rue,18
+1677,escaut,rue de l',19
+1678,espérance,rue de l',13
+1679,esquirol,rue,13
+1680,essai,rue de l',5
+1681,est,rue de l',20
+1682,esterel,square,20
+1683,estienne-d'orves,place d',9
+1684,estrapade,place de l',5
+1685,etrapade,rue de l',5
+1686,estrées,rue d',7
+1687,états-unis,place des,16
+1688,etex,rue,18
+1689,etex,villa,18
+1690,étienne-delaunay,passage,11
+1691,étienne-dolet,rue,20
+1692,étienne-jodelle,rue,18
+1693,étienne-marcel,rue,1-2
+1694,étienne-marcel prolongée,rue,3
+1695,étienne-marey,rue,20
+1696,étienne-marey,villa,20
+1697,étoile,place de l',17
+1698,étoile,rue de l',17
+1699,étoile-d'or,cour de l',11
+1700,étuves-saint-martin,rue des,4
+1701,eugène-brieux,avenue,16
+1702,eugène-carrière,rue,18
+1703,eugène-delacroix,rue,16
+1704,eugène-flachat,rue,17
+1705,eugène-fournière,rue,18
+1706,eugène-gibez,rue,15
+1707,eugène-jumin,rue,19
+1708,eugène-labiche,rue,16
+1709,eugène-leautey,villa,13
+1710,eugène-leblanc,villa,19
+1711,eugéne-manuel,rue,16
+1712,eugène-manuel,villa,16
+1713,eugène-millon,rue,15
+1714,eugène-oudiné,rue,13
+1715,eugène-pelletan,rue,14
+1716,eugène-poubelle,rue,16
+1717,eugène-reisz,rue,20
+1718,eugène-spuller,rue,3
+1719,eugène-sue,rue,18
+1720,eugène-varlin,rue,10
+1721,eugène-legrand,rue,20
+1722,euler,rue,8
+1723,eupatoria,passage d',20
+1724,eupatoria,rue d',20
+1725,eure,rue de l',14
+1726,europe,place de l',8
+1727,euryale-dehaynin,rue,19
+1728,évangile,rue de l',18
+1729,éveillard,impasse,20
+1730,evette,rue,18
+1731,exelmans,boulevard,16
+1732,expert,passage,17
+1733,exposition,rue de l',75
+1734,eylau,avenue d',16
+1735,eylau,villa d',16
+1736,fabert,rue,71
+1737,fabre-d'églantine,rue,12
+1738,fabriques,cour des,11
+1739,fagon,rue,13
+1740,faidherbe,rue,11
+1741,faisanderie,rue de la,16
+1742,falaise,cité,18
+1743,falaises,villa des,20
+1744,falconet,rue,18
+1745,faldony,impasse,17
+1746,falgiere,cite,15
+1747,falguière,passage,15
+1748,falguiere,place,15
+1749,falguiere,rue,15
+1750,fallempin,rue,15
+1751,fanny,rue,17
+1752,fantin-latour,rue,16
+1753,faraday,rue,17
+1754,faucheur,villa,20
+1755,faucheurs,allée des,19
+1756,fauconnier,rue du,4
+1757,faustin-hélie,rue,16
+1758,fauvet,rue,18
+1759,favart,rue,2
+1760,favorites,rue des,15
+1761,fécamp,rue de,12
+1762,fédération,rue de la,15
+1763,félibien,rue,6
+1764,félicien-david,rue,16
+1765,félicien-rops,avenue,13
+1766,félicité,rue de la,17
+1767,félix-éboué,place,12
+1768,félix-faure,avenue,15
+1769,felix-faure,place,15
+1770,félix-faure,rue,15
+1771,félix-faure,villa,19
+1772,félix-huguenet,rue,20
+1773,félix-pécaut,rue,17
+1774,félix-terrier,rue,20
+1775,félix-voisin,rue,11
+1776,félix-ziem,rue,18
+1777,fénelon,cité,9
+1778,fénelon,rue,10
+1779,fenoux,rue,15
+1780,fer-a-moulin,rue du,5
+1781,ferdinand-berthoud,rue,3
+1781 bis,ferdinand-brunot,place,14
+1781 ter,ferdinand-brunot,square,14
+1782,ferdinand-buisson,avenue,16
+1783,ferdinand-de-behagle,rue,12
+1784,ferdinand-duval,rue,4
+1785,ferdinand-fabre,rue,15
+1786,ferdinand-flocon,rue,18
+1787,ferdinand-gambon,rue,20
+1788,ferembach,cité,17
+1789,fermat,rue,14
+1790,fermes,cour des,1
+1791,ferme-saint-lazare,passage et cour de la,10
+1792,ferme-saint-lazare,passage et cour de la,10
+1793,fermiers,rue des,17
+1794,fernand-bournon,rue,20
+1795,fernand-cormon,rue,17
+1796,fernand-forest,place,15
+1797,fernand-foureau,rue,12
+1798,fernand-labori,rue,18
+1799,fernand-pelloutier,rue,17
+1800,fernand-widal,rue,13
+1801,férou,rue,6
+1802,ferronnerie,rue de la,1
+1803,ferrus,rue,14
+1804,fessart,rue,19
+1805,fétes,place des,19
+1806,fétes,rue des,19
+1807,feuillantines,rue des,5
+1808,feutrier,rue,18
+1809,feydeau,rue,2
+1810,fidélité,rue de la,10
+1811,figuier,rue du,4
+1812,filles-du-calvaire,boulevard des,3-11
+1813,filles-du-calvaire,rue des,3
+1814,filles-saint-thomas,rue des,2
+1815,fillettes,chemin des,18
+1816,fillettes,rue des,18
+1817,finet,impasse,20
+1818,firmin-gémier,rue,18
+1819,fizeau,rue,15
+1820,flamands,cité des,19
+1821,flandre,passage de,19
+1822,flandre,rue de,19
+1823,flandrin,boulevard,16
+1824,flatters,rue,5
+1825,fléchier,rue,9
+1826,fleurs,cité des,17
+1827,fleurs,impasse des,17
+1828,fleurs,quai aux,4
+1829,fleurus,rue de,6
+1830,fleury,impasse,20
+1831,fleury,rue,18
+1832,flore,villa,16
+1833,floréal,rue,17
+1834,florence,rue de,8
+1835,florence-blumenthal,rue,16
+1836,florentine,cité,19
+1837,florian,rue,20
+1838,florimont,impasse,14
+1839,flourens,passage,17
+1840,foch,avenue,16
+1841,foin,rue du,3
+1842,folie-mericourt,rue de la,11
+1843,folie-regnault,passage de la,11
+1844,folie-regnault,rue de la,11
+1845,fondary,rue,15
+1846,fondary,villa,15
+1847,fonderie,impasse de la,13
+1848,fonderie,passage de la,11
+1849,fonds-verts,rue des,12
+1850,fontaine,rue,9
+1851,fontaine-a-mulard,rue de la,13
+1852,fontaine-au-roi,rue de la,11
+1853,fontaine-d'hautpoul,impasse de la,19
+1854,fontaine-du-but,rue de la,17
+1855,fontaines-du-temple,rue des,3
+1856,fontarabie,rue de,20
+1857,fontenay,villa de,19
+1858,fontenoy,place de,7
+1859,forceval,rue,19
+1860,forest,rue,18
+1861,forez,rue du,3
+1862,forge-royale,rue de la,11
+1863,forges,rue des,2
+1864,fort-de-vaux,boulevard du,17
+1865,fortin,impasse,8
+1866,fortuny,rue,17
+1867,fosse-becot,rue de la,19
+1868,fossés-saint-bernard,rue des,5
+1869,fosses-saint-jacques,rue des,5
+1870,fossés-saint-marcel,rue des,5
+1871,fouarre,rue du,5
+1872,foubert,passage,13
+1873,foucault,rue,16
+1874,fougeres,rue des,20
+1875,fouquet,rue,17
+1876,four,rue du,6
+1877,fourcade,rue,15
+1878,fourcroy,rue de,17
+1879,fourcy,rue de,4
+1880,fourneyron,rue,17
+1881,fours-a-chaux,passage des,19
+1882,foyatier,rue,18
+1883,fragonard,rue,17
+1884,francaise,rue,2
+1885,franche-comte,rue,3
+1886,franchemont,impasse,11
+1887,francis-de-pressensé,rue,14
+1888,francis-garnier,rue,17
+1889,francisque-sarcey,rue,16
+1890,francoeur,rue,18
+1891,francois-bonvin,rue,15
+1892,francois-coppée,rue,15
+1893,francois-de-neufchateau,rue,11
+1894,francois-gérard,rue,16
+1895,francois-guibert,rue,15
+1896,francois-millet,rue,16
+1897,francois-miron,rue,4
+1898,francois-mouthon,rue,15
+1899,francois-pinton,rue,19
+1900,francois-ponsard,rue,16
+1901,francois-1er,place,8
+1902,francois-1er,rue,8
+1903,francois-villon,rue,15
+1904,franco-russe,avenue,7
+1905,francs-bourgeois,rue des,3-4
+1906,franklin,rue,16
+1907,franklin-d-roosevelt,avenue,8
+1908,franquet,rue,15
+1909,franqueville,rue de,16
+1910,fraternité,rue de la,19
+1911,frédéric-bastiat,rue,8
+1912,frédéric-brunet,rue,17
+1913,frédérick-lemaitre,rue,20
+1914,frédéric-le-play,avenue,7
+1915,frédéric-lolliée,rue,20
+1916,frédéric-magisson,rue,15
+1917,frédéric-mistral,rue,15
+1918,frédéric-mourlon,rue,19
+1919,frédéric-passy,avenue,14
+1920,frédéric-sauton,rue,5
+1921,frédéric-schneider,rue,18
+1922,frédéric-vallois,square,15
+1923,frémicourt,rue,15
+1924,frémiet,avenue,16
+1925,fréquel,passage,20
+1926,freres-perier,rue des,16
+1927,fresnel,rue,16
+1928,freycinet,rue,16
+1929,friant,rue,14
+1930,friedland,avenue de,8
+1931,frochot,avenue,9
+1932,frochot,rue,9
+1933,froideveaux,rue,14
+1934,froissart,rue,3
+1935,froment,rue,11
+1936,fromentin,rue,9
+1937,fructidor,rue,17
+1938,fulton,rue,18
+1939,furetiere,rue,12
+1940,furstenberg,rue de,6
+1941,furtado-heine,rue,4
+1942,fustel-de-coulanges,rue,5
+1943,gabon,rue du,12
+1944,gabriel,avenue,8
+1945,gabriel,villa,15
+1946,gabriel-bonvalot,avenue,12
+1947,gabriel-fauré,square,17
+1948,gabriel-lamé,rue,12
+1949,gabriel-laumain,rue,10
+1950,gabriel-péri,place,8
+1951,gabriel-vicaire,rue,3
+1952,gabrielle,rue,18
+1953,gager-gabillot,rue,15
+1954,gagliardini,villa,20
+1955,gaillon,place,2
+1956,gaillon,rue,2
+1957,gaité,impasse de la,14
+1958,gaité,rue de la,14
+1959,galande,rue,5
+1960,galilee,rue,8-16
+1961,galleron,rue,20
+1962,galliera,rue de,16
+1963,galvani,rue,17
+1964,gambetta,avenue,20
+1965,gambetta,passage,20
+1966,gambetta,place,20
+1967,gambey,rue,11
+1968,gandon,rue,13
+1969,gandon,ruelle,13
+1970,ganneron,passage,18
+1971,ganneron,rue,18
+1972,garancière,rue,6
+1973,gardes,rue des,18
+1974,gare,boulevard de la,13
+1975,gare,quai de la,13
+1976,gare,rue de la,19
+1977,gare-de-reuilly,rue de la,12
+1978,garibaldi,boulevard,15
+1979,garnier,impasse,15
+1980,garreau,rue,18
+1981,gascogne,square de,20
+1982,gasnier-guy,rue,20
+1983,gassendi,rue,14
+1984,gaston-bertandeau,square,17
+1985,gaston-boissier,rue,15
+1986,gaston-darboux,rue,18
+1987,gaston-de-saint-paul,rue,16
+1988,gaston-pinot,rue,19
+1989,gaston-tissandier,rue,18
+1990,gatbois,passage,12
+1991,gatines,rue des,20
+1992,gaudelet,impasse,11
+1993,gaudelet,petite impasse,11
+1994,gauguet,impasse,14
+1995,gauguin,rue,17
+1996,gauthey,rue,17
+1997,gauthier,passage,19
+1998,gavarni,rue,16
+1999,gay-lussac,rue,5
+2000,gaz,impasse du,13
+2001,gazan,rue,14
+2002,geoffroy-didelot,passage,17
+2003,général-anselin,avenue du,16
+2004,general-appert,rue du,16
+2005,général-archinard,rue du,12
+2006,général-aubé,rue du,16
+2007,général-balfourier,avenue du,16
+2008,général-baratier,rue du,15
+2009,général-beuret,place du,15
+2010,general-beuret,rue du,15
+2011,general-blaise,rue du,11
+2012,general-brunet,rue du,19
+2013,général-clavery,avenue du,16
+2014,général-clergerie,rue du,16
+2015,general-détrié,avenue du,7
+2016,general-dodds,avenue du,12
+2017,general-dubail,avenue du,16
+2018,général-foy,rue du,8
+2019,général-grossetti,rue du,16
+2020,general-henrys,rue du,17
+2021,général-humbert,rue du,14
+2022,général-lambert,rue du,7
+2023,général-langlois,rue du,16
+2024,général-lanrezac,rue du,17
+2025,général-laperrine,avenue du,12
+2026,général-largeau,rue du,16
+2027,général-lasalle,rue du,9
+2028,général-leclerc,avenue du,14
+2029,général-maistre,rue du,14
+2030,général-malleterre,rue du,16
+2031,général-mangin,avenue du,16
+2032,général-de-maudhuy,rue du,14
+2033,général-messimy,avenue du,12
+2034,général-michel-bizot,avenue du,12
+2035,général-morin,square du,3
+2036,général-niox,rue du,16
+2037,general-roques,rue du,16
+2038,général-sarrail,avenue du,16
+2039,general-sere-de-rivieres,rue du,14
+2040,général-stéfanik,place du,16
+2041,general-tripier,avenue du,7
+2042,genes,cite de,20
+2043,génes,impasse de,20
+2044,génie,passage du,12
+2045,gentilly,rue de,13
+2046,genty,passage,12
+2047,géo-chavez,rue,20
+2048,geoffroy-l'angevin,rue,4
+2049,geoffroy-lasnier,rue,4
+2050,geoffroy-marie,rue,9
+2051,geoffroy-saint-hilaire,rue,5
+2052,george-v,avenue,8
+2053,george-eastman,rue,13
+2054,george-sand,rue,16
+2055,george-sand,villa,16
+2056,georges-ambroise-boisselat-et-blanche,cite,20
+2057,georges-berger,rue,17
+2058,georges-bizet,rue,16
+2059,georges-citerne,rue,15
+2060,georges-de-porto-riche,rue,14
+2061,georges-desplas,rue,5
+2062,georges-guillaumin,place,8
+2063,georges-lafenestre,avenue,14
+2064,georges-lamarque,square,14
+2065,georges-lardenois,rue,19
+2066,georges-lesage,square,12
+2067,georges-mandel,avenue,16
+2068,georges-mulot,place,15
+2069,georges-pallain,rue,16
+2070,georges-pitard,rue,15
+2071,georges-prade,rue,14
+2072,georges-risler,avenue,16
+2073,georges-saché,rue,14
+2074,georges-ville,rue,16
+2075,georgette-agutte,rue,18
+2076,georgina,villa,20
+2077,gérando,rue de,9
+2078,gérard,passage,13
+2079,gérard,rue,13
+2080,gérard-de-nerval,rue,16
+2081,gerbert,rue,15
+2082,gerbier,rue,11
+2083,gerbillon,rue,6
+2084,gergovie,passage de,14
+2085,gergovie,rue de,14
+2086,géricault,rue,16
+2087,germain-pilon,cité,18
+2088,germain-pilon,rue,18
+2089,germinal,rue,20
+2090,gervex,rue,17
+2091,gesvres,quai de,4
+2092,giffard,rue,13
+2093,ginoux,rue,15
+2094,giordano-bruno,rue,14
+2095,girardon,impasse,18
+2096,girardon,rue,18
+2097,girardot,avenue,20
+2098,giraud,passage,18
+2099,girodet,rue,16
+2100,gironde,quai de la,19
+2101,git-le-coeur,rue,6
+2102,glacière,rue de la,13
+2103,glaieuls,rue des,20
+2104,gluck,rue,9
+2105,glycines,rue des,13
+2106,gobelins,avenue des,5-13
+2107,gobelins,cité des,13
+2108,gobelins,rue des,13
+2109,gobelins,villa des,13
+2110,gobert,rue,11
+2111,godefroy,rue,13
+2112,godefroy-cavaignac,rue,11
+2113,godin,villa,20
+2114,godot-de-mauroy,rue,9
+2115,goethe,rue,16
+2116,goix,passage,19
+2117,gomboust,impasse,1
+2118,gomboust,rue,1
+2119,goncourt,rue des,11
+2120,gonnet,rue,11
+2121,gordon-bennett,avenue,16
+2122,gossec,rue,12
+2123,got,square,20
+2124,goubet,rue,19
+2125,gounod,rue,17
+2126,gourgaud,avenue,17
+2127,gouthiere,rue,13
+2128,goutte-d'or,passage de la,18
+2129,goutte-d'or,rue de la,18
+2130,gouvion-saint-cyr,boulevard,17
+2131,gozlin,rue,6
+2132,grace-de-dieu,cour de la,10
+2133,gracieuse,rue,5
+2134,graisivaudan,square du,17
+2135,gramme,rue,15
+2136,gramont,rue de,25
+2137,grancey,rue,14
+2138,grand-cerf,passage du,2
+2139,grand-modele,cite du,13
+2140,grandpréau,rue du,5
+2141,grand-prieure,rue du,11
+2142,grande-armée,avenue de la,16-17
+2143,grande-armee,villa de la,17
+2144,grande-chaumiere,rue de la,6
+2145,grande-pinte,passage de la,12
+2146,grande-truanderie,rue de la,1
+2147,grands-augustins,quai des,6
+2148,grands-augustins,rue des,6
+2149,grands-champs,rue des,20
+2150,grands-degres,rue des,5
+2151,grangé,square,13
+2152,grange-aux-belles,rue de la,10
+2153,grange-bateliere,rue de la,9
+2154,grappes,sente des,19
+2155,gravelle,rue de,12
+2156,graviers,sente des,19
+2157,gravilliers,passage des,3
+2158,gravilliers,rue des,3
+2159,greffulhe,rue de,8
+2160,grégoire-de-tours,rue,6
+2161,grenade,rue de la,19
+2162,grenelle,boulevard de,15
+2163,grenelle,quai de,15
+2164,grenelle,rue de,6-7
+2165,grenelle,villa de,15
+2166,greneta,cour,2
+2167,greneta,rue,3
+2168,grenier-saint-lazare,rue du,3
+2169,grenier-sur-l'eau,rue du,4
+2170,gresset,rue,19
+2171,grétry,rue,2
+2172,greuze,rue,16
+2173,gribeauval,rue,7
+2174,gril,rue du,5
+2175,grimaud,impasse,19
+2175 vis,grisel,impasse,15
+2176,griset,cite,11
+2176 bis,grisons,passage des,14
+2177,gros,impasse,20
+2178,gros,rue,16
+2179,gros-caillou,rue du,7
+2180,grosse-bouteille,impasse de la,18
+2181,grotte,rue de la,15
+2182,guadeloupe,rue de la,18
+2183,gudin,rue,16
+2184,gué,impasse du,18
+2185,guébriant,rue de,20
+2186,guelma,impasse de,18
+2187,guéménée,impasse,4
+2188,guénégaud,rue,6
+2189,guénot,passage,11
+2190,guenot,rue,11
+2191,guérin-boisseau,rue,2
+2192,guersant,rue,17
+2193,guibert,villa,16
+2194,guichard,rue,16
+2195,guichen,rue,12
+2196,guignier,place du,20
+2197,guignier,rue du,20
+2198,guilhem,passage,11
+2199,guilhem,rue,11
+2200,guillaume-bertrand,rue,11
+2201,guillaume-tell,rue,17
+2202,guillaumot,rue,12
+2203,guilleminot,rue,14
+2204,guillemites,rue des,4
+2205,guisarde,rue,6
+2206,guizot,villa,17
+2207,gustave-courbet,rue,16
+2208,gustave-doré,rue,17
+2209,gustave-flaubert,rue,17
+2210,gustave-geffroy,rue,13
+2211,gustave-goublier,rue,10
+2212,gustave-larroumet,rue,15
+2213,gustave-le-bon,rue,14
+2214,gustave-lepeu,passage,11
+2215,gustave-mesureur,rue,13
+2216,gustave-nadaud,rue,16
+2217,gustave-rouanet,rue,18
+2218,gustave-zédé,rue,16
+2219,gutenberg,rue,14-15
+2220,guttin,rue,17
+2221,guy-de-la-brosse,rue,5
+2222,guy-de-maupassant,rue,16
+2223,guy-moquet,rue,17
+2224,guy-patin,rue,10
+2225,guyenne,square de la,20
+2226,guynemer,rue,6
+2227,guyton-de-morveau,rue,13
+2228,haie-coq,rue de la,19
+2229,haies,passage des,20
+2230,haies,rue des,20
+2231,hainaut,rue du,19
+2232,halévy,rue,9
+2233,hallé,rue,14
+2234,hallé,villa,14
+2235,halles,rue des,1
+2236,hameau,rue du,15
+2237,hamelin,rue,16
+2238,hanovre,rue de,2
+2239,hardy,villa,20
+2240,harlay,rue de,1
+2241,harmonie,rue de l',15
+2242,harpe,rue de la,5
+2243,harpignies,rue,20
+2244,harvey,rue,13
+2245,hassart,rue,19
+2246,haudriettes,rue des,3
+2247,haussmann,boulevard,8-9
+2248,haut-pavé,rue du,5
+2249,hautes-formes,passage des,13
+2250,hautefeuille,impasse,6
+2251,hautefeuille,rue,6
+2252,hauterive,villa d',19
+2253,hauteville,cité d',10
+2254,hauteville,rue d',10
+2255,hautpoul,impasse d',19
+2256,hautpoul,rue d',19
+2257,havre,passage du,9
+2258,havre,rue du,8-9
+2259,haxo,impasse,20
+2260,haxo,rue,20
+2261,hébert,place,18
+2262,hébrard,passage,10
+2263,hebrard,ruelle des,12
+2264,hector-malot,rue,12
+2265,hégésippe-moreau,rue,18
+2266,helder,rue du,9
+2267,helene,rue,17
+2268,héliopolis,rue d',17
+2269,hénain,cité,19
+2270,hennel,passage,12
+2271,henner,rue,9
+2272,henri-barboux,rue,14
+2273,henri-barbusse,rue,5-14
+2274,henri-becque,rue,13
+2275,henri-bergson,place,8
+2275 bis,henri-bergson,square,8
+2276,henri-bocquillon,rue,15
+2277,henri-brisson,rue,18
+2278,henri-chevreau,rue,20
+2279,henri-de-bornier,rue,16
+2280,henri-delormel,square,14
+2281,henri-dubouillon,rue,20
+2282,henri-duchene,rue,15
+2283,henri-duparc,square,17
+2284,henri-feulard,rue,10
+2285,henri-heine,rue,16
+2286,henri-huchard,rue,18
+2287,henri-martin,avenue,16
+2288,henri-moissan,rue,7
+2289,henri-monnier,rue,9
+2290,henri-murger,rue,19
+2291,henri-pape,rue,13
+2292,henri-poincaré,rue,20
+2293,henri-iv,boulevard,4
+2294,henri-iv,passage,1
+2295,henri-iv,quai,4
+2296,henri-ranvier,rue,11
+2297,henri-regnault,rue,14
+2297 bis,henri-robert,rue,1
+2298,henri-rochefort,rue,17
+2299,henri-turot,rue,19
+2300,henrion-de-pansey,rue,14
+2301,henry,cité,19
+2302,henry-bataille,square,16
+2303,henry-de-bournazel,rue,14
+2304,henry-paté,square,16
+2305,herault-de-sechelles,rue,17
+2306,hericart,rue,15
+2307,hermann-la-chapelle,rue,18
+2308,hermel,cité,18
+2309,hermel,rue,18
+2310,hérold,rue,1
+2311,héron,cité,10
+2312,herran,rue,16
+2313,herran,villa,16
+2314,herschel,rue,6
+2315,hersent,villa,15
+2316,hippolyte-garnier,villa,14
+2317,hippolyte-lebas,rue,9
+2318,hippolyte-maindron,rue,14
+2319,hippolyte-prévost,rue,20
+2320,hirondelle,rue de l',6
+2321,hittorf,cité,10
+2322,hittorf,rue,10
+2323,hiver,cité,19
+2324,hoche,avenue,8
+2325,honoré-chevalier,rue,6
+2326,hopital,boulevard de l',5-13
+2327,hopital saint-antoine,place de,12
+2328,hopital saint-louis,rue de l',10
+2329,horloge,quai de l',1
+2330,hospices,rue des,13
+2331,hospitalieres-saint-gervais,rue des,4
+2332,hotel,rue de l',12
+2333,hotel-colbert,rue de l',5
+2334,hotel-d'argenson,impasse de l',4
+2335,hotel-de-ville,place de l',4
+2336,hotel-de-ville,quai de l',4
+2337,hotel-de-ville,rue de l',4
+2338,hotel-saint-paul,rue de l',4
+2339,houdart,rue,20
+2340,houdart-de-la-motte,rue,15
+2341,houdon,rue,18
+2342,huchette,rue de la,5
+2342 bis,hulot,passage,1
+2343,humblot,rue,15
+2344,huyghens,rue,14
+2345,huysmans,rue,6
+2346,ibsen,avenue,20
+2347,iéna,avenue d',16
+2348,iéna,passage d',17
+2349,iéna,place d',7-16
+2350,ile-de-france,impasse de l',20
+2351,immeubles-industriels,rue des,11
+2352,indochine,boulevard d',19
+2353,indre,rue de l',20
+2354,industrie,cité de l',11
+2355,industrie,cour de l',11
+2356,industrie,passage de l',10
+2357,industrie,rue de l',13
+2358,industrielle,cité,11
+2359,ingenier-robert-keller,rue de l',15
+2360,ingres,avenue,16
+2361,innocents,rue des,1
+2362,inspecteur-alles,rue de l',19
+2363,institut,place de l',6
+2364,interne-loeb,rue de l',13
+2365,invalides,boulevard des,7
+2366,irénée-blanc,rue,20
+2367,iris,rue des,13
+2368,irlandais,rue des,5
+2369,isabey,rue,16
+2370,isely,cité d',13
+2371,islettes,rue des,18
+2372,isly,cité de l',20
+2373,isly,rue de l',8
+2374,italie,avenue d',13
+2375,italie,place d',13
+2376,italie,rue d',13
+2377,italiens,boulevard des,2
+2378,italiens,rue des,9
+2379,ivry,avenue d',13
+2380,ivry,quai d',13
+2381,jacob,cité,10
+2382,jacob,rue,6
+2383,jacquart,rue,11
+2384,jacquemont,rue,17
+2385,jacquemont,villa,17
+2386,jacques-bingen,rue,17
+2387,jacques-bonsergent,place,10
+2388,jacques-callot,rue,6
+2389,jacques-camille,villa,20
+2390,jacques-cartier,rue,18
+2391,jacques-coeur,rue,4
+2392,jacques-froment,place,18
+2393,jacques-kablé,rue,18
+2394,jacques-kellner,rue,17
+2395,jacques-louvel-tessier,rue,10
+2396,jacques-mawas,rue,15
+2397,jacques-offenbach,rue,16
+2398,jacquier,rue,14
+2399,jadin,rue,17
+2400,jamot,villa,14
+2401,jandelle,cité,19
+2402,janssen,rue,19
+2403,japon,rue du,20
+2404,japy,rue,11
+2405,jardin,rue du,14
+2406,jardinet,rue du,63
+2407,jardiniers,impasse des,11
+2408,jardiniers,rue des,12
+2409,jardins-saint-paul,rue des,4
+2410,jarente,rue de,4
+2411,jarry,rue,10
+2412,jasmin,cour,16
+2413,jasmin,rue,16
+2414,jasmin,square,16
+2415,jaucourt,rue,12
+2416,javel,quai de,15
+2417,javel,rue de,15
+2418,jean-aicard,avenue,11
+2419,jean-baptiste-clement,place,18
+2420,jean-baptiste-dumas,rue,17
+2421,jean-baptiste-dumay,rue,20
+2422,jean-baptiste-semanaz,rue,19
+2423,jean-bart,rue,6
+2424,jean-beausire,impasse,4
+2425,jean-beausire,rue,4
+2426,jean-bologne,rue,16
+2427,jean-bouton,rue,12
+2428,jean-carries,rue,7
+2429,jean-colly,rue,13
+2430,jean-cottin,rue,18
+2431,jean-daudin,rue,15
+2432,jean-dauphin,rue,13
+2433,jean-de-beauvais,rue,5
+2434,jean-dolent,rue,14
+2435,jean-dollfus,rue,18
+2436,jean-du-bellay,rue,4
+2437,jean-falck,square,10
+2438,jean-ferrandi,rue,6
+2439,jean-formigé,rue,15
+2440,jean-francois-lépine,rue,18
+2441,jean-giraudoux,rue,16
+2442,jean-godart,villa,12
+2443,jean-goujon,rue,8
+2444,jean-hugues,rue,16
+2445,jean-jacques-rousseau,rue,1
+2446,jean-jaurés,avenue,19
+2447,jean-lantier,rue,1
+2448,jean-leclaire,rue,17
+2449,jean-lorrain,place,16
+2450,jean-louis-forain,rue,17
+2451,jean-macé,rue,11
+2452,jean-marie-jego,rue,13
+2453,jean-menans,rue,19
+2454,jean-mermoz,rue,8
+2455,jean-moinon,rue,10
+2456,jean-moréas,rue,17
+2457,jean-nicot,passage,7
+2458,jean-nicot,rue,7
+2459,jean-paul-laurens,square,16
+2460,jean-pierre-timbaud,rue,11
+2461,jean-poulmarch,rue,10
+2462,jean-rey,rue,15
+2463,jean-robert,rue,18
+2464,jean-sicard,rue,15
+2465,jean-thébaud,square,15
+2465 bis,jean-tison,rue,1
+2466,jean-varenne,rue,18
+2467,jean-veber,rue,20
+2468,jeanne-d'arc,place,13
+2469,jeanne-d'arc,rue,13
+2470,jeanne-hachette,rue,15
+2471,jemmapes,passage,17
+2472,jemmapes,quai de,10
+2473,jenner,rue,13
+2474,jessaint,impasse de,18
+2475,jessaint,rue de,18
+2476,jessaint,square de,18
+2477,jeu-de-boules,passage du,11
+2478,jeuneurs,rue des,2
+2479,joanes,passage,14
+2480,joanes,rue,14
+2481,jobbé-duval,rue,15
+2482,jocelyn,villa,16
+2483,joffre,place,7
+2484,joinville,impasse de,19
+2485,joinville,place de,19
+2486,joinville,rue de,19
+2487,jolivet,rue,14
+2488,joly,cité,11
+2489,jomard,rue,19
+2490,jonas,rue,13
+2491,jonas-prolongée,rue,13
+2492,jonquoy,rue,14
+2493,jose-maria-de-heredia,rue,7
+2494,joseph-bara,rue,6
+2495,joseph-bouvard,rue,7
+2496,joseph-chailley,rue,12
+2497,joseph-dijon,rue,18
+2498,joseph-granier,rue,7
+2499,joseph-liouville,rue,15
+2500,joseph-de-maistre,rue,18
+2501,joseph-sansboeuf,rue,8
+2502,josseaume,passage,20
+2503,josset,passage,11
+2504,joubert,rue,9
+2505,joudrier,impasse,11
+2506,jouffroy,passage,9
+2507,jouffroy,rue,17
+2508,jour,rue du,1
+2509,jourdain,rue du,20
+2510,jourdan,boulevard,14
+2511,jouvence,impasse de,14
+2512,jouvenet,impasse,16
+2513,jouvenet,rue,16
+2514,jouy,rue de,4
+2515,jouye-rouve,rue,20
+2516,joyeux,cité,17
+2517,juge,rue,15
+2518,juge,villa,15
+2519,juges-consuls,rue des,4
+2520,juillet,rue,20
+2521,jules-bourdais,rue,17
+2522,jules-breton,rue,13
+2523,jules-cesar,rue,12
+2524,jules-chaplain,rue,6
+2525,jules-cheret,square,20
+2526,jules-claretie,rue,16
+2527,jules-cloquet,rue,18
+2528,jules-cousin,rue,4
+2529,jules-david,rue,20
+2530,jules-dumien,rue,20
+2531,jules-dupré,rue,15
+2532,jules-ferry,boulevard,11
+2533,jules-guesde,rue,14
+2534,jules-hénaffe,place,14
+2535,jules-janin,avenue,16
+2536,jules-joffrin,place,18
+2537,jules-jouy,rue,18
+2538,jules-lefebvre,rue,9
+2539,jules-lemaitre,rue,12
+2540,jules-pichard,rue,12
+2541,jules-renard,place,17
+2542,jules-sandeau,boulevard,16
+2543,jules-siegfried,rue,20
+2544,jules-simon,rue,15
+2545,jules-vallés,rue,11
+2546,jules-verne,rue,11
+2547,julie,rue,14
+2548,julien-lacroix,passage,20
+2549,julien-lacroix,rue,20
+2550,julienne,rue,13
+2551,juliette-dodu,rue,10
+2552,juliette-lamber,rue,17
+2553,jumeau,impasse,19
+2554,junot,avenue,18
+2555,junot,impasse,20
+2556,jura,rue du,13
+2557,jussienne,rue de la,2
+2558,jussieu,place de,5
+2559,jussieu,rue de,5
+2560,juste-metivier,rue,18
+2561,justice,rue de la,20
+2562,kabylie,rue de,19
+2563,keller,rue,11
+2564,kellermann,boulevard,13
+2565,kellerman,villa,13
+2566,keppler,rue,16
+2567,keufer,rue,13
+2568,kléber,avenue,16
+2569,kracher,passage,18
+2570,kuss,rue,13
+2571,kuszner,passage,19
+2572,la barouillere,rue de,6
+2573,labat,rue,18
+2574,la baume,rue de,8
+2575,labie,rue,17
+2576,la boetie,rue,8
+2577,labois-rouillon,rue,19
+2578,labor,cité,20
+2579,laborde,rue de,8
+2580,la bourdonnais,avenue de,7
+2581,labrador,impasse du,15
+2582,labrouste,rue,15
+2583,la bruyere,rue,9
+2584,la bruyere,square,9
+2585,labyrinthe,cité du,20
+2586,lacaille,rue,17
+2587,lacaze,rue,14
+2588,lacepede,rue,5
+2589,lachambeaudie,place,12
+2590,lacharriere,rue,11
+2591,lachelier,rue,13
+2592,la condamine,rue,17
+2593,lacordaire,rue,15
+2594,lacordaire-prolongee,rue,15
+2595,lacretelle,rue,15
+2596,lacroix,rue,17
+2597,lacuée,rue,12
+2598,la fayette,place,10
+2599,la fayette,rue,9-10
+2600,laferriere,rue,9
+2601,la feuillade,rue de,1-2
+2602,laffitte,rue,9
+2603,la fontaine,hameau,16
+2604,la fontaine,rue,16
+2605,la fontaine,square,16
+2606,laforgue,villa,19
+2607,la fresnay,villa,15
+2608,la frilliere,avenue de,16
+2609,lagarde,rue,5
+2610,lagarde,square,5
+2611,lachouat,rue de,18
+2612,lagille,rue,18
+2613,lagny,passage de,20
+2614,lagny,rue de,20
+2615,lagrange,rue,5
+2616,lahire,rue,13
+2617,la jonquiere,impasse de,17
+2618,la jonquiere,rue de,17
+2619,lakanal,rue,15
+2620,lalande,rue,14
+2621,lallier,rue,9
+2622,lally-tollendal,rue,19
+2623,lalo,rue,16
+2624,lamandé,rue,17
+2625,lamarck,avenue,18
+2626,lamarck,rue,18
+2627,lamarck,square,18
+2628,lamartine,rue,9
+2629,lamartine,square,16
+2630,lamballe,avenue de,16
+2631,lambert,rue,18
+2632,lamblardie,rue,12
+2633,lamennais,rue,8
+2634,la michodiere,rue de,2
+2635,lamier,impasse,11
+2636,lamoriciere,avenue,12
+2637,la motte-picquet,avenue de,7-15
+2638,la motte-picquet,rue de,15
+2639,la motte-picquet,square de,15
+2640,lancette,rue de la,12
+2641,lancret,rue,16
+2642,lancry,rue de,10
+2643,landrieu,passage,7
+2644,langeac,rue de,15
+2645,langlois,impasse,18
+2646,lanneau,rue de,5
+2647,lannes,boulevard,16
+2648,lantiez,rue,17
+2649,lantiez,villa,17
+2650,laonnais,square du,19
+2651,laos,rue du,15
+2652,la perouse,rue,16
+2653,lapeyrere,rue,18
+2654,laplace,rue,5
+2655,la planche,rue de,7
+2656,lappe,rue de,11
+2657,la quitinie,rue,15
+2658,lard,rue du,1
+2659,la reynie,rue de,1-4
+2660,largilliere,rue,16
+2661,la rochefoucauld,rue de,9
+2662,la rochefoucauld,square de,7
+2663,la rochelle,rue,14
+2664,laromiguière,rue,5
+2665,larrey,rue,5
+2666,larribe,rue,8
+2667,las-cases,rue,7
+2668,la sourdiere,rue de,1
+2669,lasson,rue,12
+2670,lassus,rue,19
+2671,lasteyrie,rue de,16
+2672,lathuile,passage,18
+2673,la tour-d'auvergne,cite de,9
+2674,la tour-d'auvergne,rue de,9
+2675,la tour-maubourg,boulevard de,7
+2676,la tour-maubourg,square de,7
+2677,latran,rue de,5
+2678,la tremoille,rue de,8
+2679,laugier,impasse,17
+2680,laugier,rue,17
+2681,laumiere,avenue de,19
+2682,laure-surville,rue,15
+2683,laurence-savart,rue,20
+2684,laurent-pichat,rue,16
+2685,laurent-prache,square,6
+2686,lauriston,rue,16
+2687,lauzin,passage,19
+2688,lauzin,rue,19
+2689,lauzin,ruelle,19
+2690,la vacquerie,rue de,11
+2691,lavandieres-ste-opportune,rue des,1
+2692,la vieuville,rue,18
+2693,lavoir,passage du,18
+2694,lavoisier,rue,8
+2695,la vrilliere,rue de,1
+2696,léandre,villa,18
+2697,leblanc,rue,15
+2698,lebon,rue,17
+2699,lebouis,impasse,14
+2700,lebouis,rue,14
+2701,lebouteux,rue,17
+2702,le brix-et-mesmin,rue,14
+2703,le brun,rue,13
+2704,le bua,rue,20
+2705,lechapelais,rue,17
+2706,le chatelier,rue,17
+2707,léchevin,rue,11
+2708,leclaire,cité,20
+2709,leclerc,rue,14
+2710,lécluse,rue,17
+2711,lecomte,rue,17
+2712,lecomte-du-nouy,rue,16
+2713,leconte-de-l'isle,rue,16
+2714,leconte-de-l'isle,villa,16
+2715,lecourbe,rue,15
+2716,lecourbe,villa,15
+2717,lecuirot,rue,14
+2718,lécuyer,rue,18
+2719,lécuyer-prolongée,rue,18
+2720,le dantec,rue,13
+2721,ledion,rue,14
+2722,ledru-rollin,avenue,11-12
+2723,lefebvre,boulevard,15
+2724,lefebvre,rue,15
+2725,lefebvre,villa,15
+2726,legendre,passage,17
+2727,legendre,rue,17
+2728,leger,impasse,17
+2729,legion-etrangere,rue de la,14
+2730,le goff,rue,5
+2731,legouvé,rue,10
+2732,legrand,rue,19
+2733,legraverend,rue,12
+2734,leibnitz,rue,18
+2735,leibnitz,square,18
+2736,lekain,rue,16
+2737,lemaignan,rue,14
+2738,lemaire,impasse,13
+2739,léman,rue du,19
+2740,le marois,rue,16
+2741,lemercier,cité,17
+2742,lemercier,rue,17
+2743,lemiere,impasse,19
+2744,lemoine,passage,2
+2745,lémon,rue,20
+2746,lenain-de-tillemont,rue,20
+2747,leneveux,rue,14
+2748,leningrad,rue de,8
+2749,le notre,rue,16
+2750,lentonnet,rue,9
+2751,léo-delibes,rue,16
+2752,léon,passage,18
+2753,léon,rue,18
+2754,léon-bollée,avenue,13
+2755,léon-bonnat,rue,16
+2756,léon-bourgeois,allée,7
+2757,léon-cladel,rue,2
+2758,léon-cogniet,rue,17
+2759,léon-cosnard,rue,17
+2760,léon-delagrange,rue,15
+2761,léon-delhomme,rue,15
+2762,léon-deubel,place,16
+2763,léon-dierx,rue,15
+2764,léon-droux,rue,17
+2765,léon-frot,rue,11
+2766,léon-gérome,rue,20
+2767,léon-giraud,rue,19
+2768,léon-guillot,square,15
+2769,léon-heuzey,avenue,16
+2770,léon-jost,rue,17
+2771,léon-lhermitte,rue,15
+2772,leon-maurice-nordmann,rue,13
+2773,léon-morane,rue,15
+2774,léon-rigal,square,13
+2775,léon-séché,rue,15
+2776,léon-vaudoyer,rue,7
+2777,léonard-de-vinci,rue,16
+2778,léonce-reynaud,rue,16
+2779,léonidas,passage,14
+2780,léontine,rue,15
+2781,léopold-bellan,rue,2
+2782,léopold-ii,avenue,16
+2783,léopold-robert,rue,14
+2784,lepage,cité,19
+2785,le peletier,rue,9
+2786,lepeu,rue,12
+2787,lepic,passage,18
+2788,lepic,rue,18
+2789,leredde,rue,13
+2790,le regrattier,rue,4
+2791,leriche,rue,15
+2792,leroux,rue,16
+2793,leroy,cité,20
+2794,leroy-beaulieu,square,16
+2795,leroy-dupré,rue,12
+2796,lesage,cour,20
+2797,lesage,rue,20
+2798,lesage-bullourde,cité,11
+2799,lesdiguieres,rue,4
+2800,lespagnol,rue,20
+2801,lesseps,rue de,20
+2802,lesueur,rue,16
+2803,le tasse,rue,16
+2804,letellier,rue,15
+2805,letellier,villa,15
+2806,letort,impasse,18
+2807,letort,rue,18
+2808,leuck-mathieu,rue,20
+2809,levée,passage,13
+2810,le verrier,rue,6
+2811,levert,rue,20
+2812,lévis,impasse,17
+2813,lévis,place de,17
+2814,lévis,rue de,17
+2815,lhomme,passage,11
+2816,lhomond,rue,5
+2817,lhuillier,rue,15
+2818,liancourt,rue,14
+2819,liandier,cité,11
+2820,liard,rue,14
+2821,liban,rue du,20
+2822,liberté,rue de la,19
+2823,liége,rue de,8-9
+2824,lieutenance,sentier de la,12
+2825,lieutenant-chauré,rue du,20
+2826,lieutenant-colonel-deport,rue du,16
+2827,lieutenant-lapeyre,rue du,14
+2828,lieutenant-thomas,rue du,20
+2829,lieuvin,rue du,15
+2830,ligner,rue,20
+2831,lilas,rue des,19
+2832,lilas,sentier des,14
+2833,lilas,villa des,19
+2834,lille,rue de,7
+2835,limagne,square de la,13
+2836,limousin,square du,13
+2837,lincoln,rue,8
+2838,lingerie,rue de la,1
+2839,linné,rue,5
+2840,linois,rue,15
+2841,lions,rue des,4
+2842,lippmann,rue,20
+2843,lisa,impasse,11
+2844,lisbonne,rue de,8
+2845,liserons,rue des,13
+2846,lisfranc,rue,20
+2847,litolff,rue,16
+2848,littré,rue,6
+2849,livingstone,rue,18
+2850,lobau,rue de,14
+2851,lobineau,rue,6
+2852,logelbach,rue de,17
+2853,loi,impasse de la,20
+2854,loing,rue du,14
+2855,loire,quai de la,19
+2856,loiret,rue du,13
+2857,l'olive,rue,18
+2858,lombards,rue des,1-4
+2859,londres,cité de,9
+2860,londres,rue de,8-9
+2861,longchamp,rond-point de,16
+2862,longchamp,rue de,16
+2863,longchamp,villa de,16
+2864,longueville,villa,14
+2865,lord-byron,rue,8
+2866,lorraine,rue de,19
+2867,lorraine,villa de,19
+2868,lot,quai du,19
+2869,lota,rue de,16
+2870,louis-barthou,avenue,16
+2871,louis-blanc,rue,10
+2872,louis-blériot,quai,16
+2873,louis-boilly,rue,18
+2874,louis-bonnet,rue,11
+2875,louis-braille,rue,12
+2876,louis-codet,rue,7
+2877,louis-david,rue,16
+2878,louis-delaporte,rue,20
+2879,louis-finot,impasse,19
+2880,louis-francais,rue,13
+2881,louis-ganne,rue,20
+2882,louis-gentil,square,12
+2883,louis-le-grand,rue,2
+2884,louis-lépine,place,4
+2885,louis-loucheur,rue,17
+2886,louis-morard,rue,14
+2887,louis-murat,rue,8
+2888,louis-pergaud,rue,13
+2889,louis-philippe,passage,11
+2890,louis-ragu,villa,13
+2891,louis-ratisbonne,rue,14
+2892,louis-thuillier,rue,5
+2893,louisiane,rue de la,18
+2894,lourmel,passage de,15
+2895,lourmel,rue de,15
+2896,louvat,villa,14
+2897,louvet,passage,15
+2898,louvois,rue de,2
+2899,louvre,place du,1
+2900,louvre,quai du,1
+2901,louvre,rue du,1-2
+2902,lowendal,avenue de,7-15
+2903,lowendal,square de,15
+2904,lubeck,rue de,16
+2905,lucien-gaulard,rue,18
+2906,lucien-guitry,rue,20
+2907,lucien-herr,place,5
+2908,lucien-lambeau,rue,20
+2909,lucien-sampaix,rue,10
+2910,lulli,rue,2
+2911,lunain,rue du,14
+2912,lune,rue de la,2
+2913,lunéville,rue de,19
+2914,lutece,rue de,4
+2915,luynes,rue de,7
+2916,luynes,square de,7
+2917,lyanes,rue des,20
+2918,lyanes,villa des,20
+2919,lyautey,rue,16
+2920,lyon,rue de,12
+2921,lyonnais,rue des,5
+2922,lys,villa des,20
+2923,mabillon,rue,6
+2924,macdonald,boulevard,19
+2925,mac-mahon,avenue,17
+2926,madagascar,rue de,12
+2927,madame,rue,6
+2928,madeleine,boulevard de la,1-8-9
+2929,madeleine,passage de la,8
+2930,madeleine,place de la,8
+2931,mademoiselle,rue,15
+2932,madone,rue de la,18
+2933,madrid,rue de,8
+2934,magdebourg,rue de,16
+2935,magellan,rue,8
+2936,magendie,rue,8
+2937,magenta,boulevard de,9-10
+2938,magenta,cité de,10
+2939,magenta,rue de,19
+2940,maigrot-delaunay,passage,20
+2941,mail,rue du,2
+2942,maillard,rue,11
+2943,maillot,boulevard,16
+2944,main-d'or,passage de la,11
+2945,main-d'or,rue de la,11
+2946,maine,avenue du,14-15
+2947,maine,rue du,14
+2948,maintenon,allée,6
+2949,mairie,cité de la,18
+2950,maison-blanche,rue de la,13
+2951,maison-brulee,cour de la,11
+2952,maison-dieu,rue,14
+2953,maitre-albert,rue,5
+2954,malakoff,avenue de,16
+2955,malakoff,impasse de,16
+2956,malakoff,villa,16
+2957,malaquais,quai,6
+2958,malar,rue,7
+2959,malassis,rue,15
+2960,malebranche,rue,5
+2961,malesherbes,boulevard,8-17
+2962,malesherbes,cité,9
+2963,malesherbes,place,17
+2964,malesherbes,villa,17
+2965,maleville,rue,8
+2966,malher,rue,4
+2967,malherbe,square,16
+2968,mallebay,villa,14
+2969,mallet-stevens,rue,16
+2970,malmaisons,rue des,13
+2971,malte,rue de,11
+2972,malte-brun,rue,20
+2973,malus,rue,5
+2974,mandar,rue,2
+2975,manin,rue,19
+2976,manin,villa,19
+2977,mansart,rue,9
+2978,manuel,rue,9
+2979,manutention,rue de la,16
+2980,maraichers,rue des,20
+2981,marais,passage des,10
+2982,marais,rue des,10
+2983,marbeau,boulevard,16
+2984,marbeau,rue,16
+2985,marbeuf,rue,8
+2986,marc-séguin,rue,18
+2987,marcadet,rue,18
+2988,marceau,avenue,8-16
+2989,marceau,rue,13
+2990,marceau,villa,19
+2991,marcel-dubois,rue,12
+2992,marcel-proust,avenue,16
+2993,marcel-renault,rue,17
+2994,marcel-sembat,rue,18
+2995,marcel-sembat,square,18
+2996,marcel-toussaint,square,15
+2997,marcelin-berthelot,place,5
+2998,marces,impasse,11
+2999,marchais,rue des,19
+3000,marché,passage du,10
+3001,marché-des-blancs-manteaux,rue du,4
+3002,marché-aux-chevaux,impasse du,5
+3003,marché-neuf,quai du,4
+3004,marché-ordener,rue du,18
+3005,marché-des-patriarches,rue du,5
+3006,marché-popincourt,rue du,11
+3007,marché-saint-honoré,place du,1
+3008,marché-saint-honoré,rue du,1
+3009,marché-sainte-catherine,place du,4
+3010,mare,impasse de la,20
+3011,mare,rue de la,20
+3012,maréchal-fayolle,avenue du,16
+3013,maréchal-franchet-d'esperey,avenue du,16
+3014,maréchal-galliéni,avenue du,7
+3015,maréchal-harispe,rue du,7
+3016,maréchal-lyautey,avenue du,16
+3017,maréchal-maunoury,avenue du,16
+3018,marengo,rue de,1
+3019,marguerin,rue,14
+3020,margueritte,rue,17
+3021,margueritte,square,17
+3022,marguettes,rue des,12
+3023,maria-deraismes,rue,17
+3024,marie,cité,17
+3025,marie-anne-colombier,rue,20
+3026,marie-benoist,rue,12
+3027,marie-blanche,impasse,18
+3028,marie-davy,rue,14
+3029,marie-hermant,passage,19
+3030,marie-laurent,allée,20
+3031,marie-et-louise,rue,10
+3032,marie-rose,rue,14
+3033,marie-stuart,rue,2
+3034,marignan,rue de,8
+3035,marigny,avenue,8
+3036,mariniers,rue des,14
+3037,marinoni,rue,7
+3038,mario-nikis,rue,15
+3039,mariotte,rue,17
+3040,marius-aufan,rue,17
+3041,marivaux,rue de,2
+3042,marly,passage,17
+3043,marmontel,passage,15
+3044,marmontel,rue,15
+3045,marmousets,rue des,13
+3046,marne,quai de la,19
+3047,marne,rue de la,19
+3048,maroc,impasse du,19
+3049,maroc,place du,19
+3050,maroc,rue du,19
+3051,maronites,rue des,20
+3052,marquette,rue,16
+3053,marronniers,rue des,16
+3054,marseillaise,rue de la,19
+3055,marseille,rue de,10
+3056,marsollier,rue,2
+3057,marsoulan,rue,12
+3058,marteau,impasse,18
+3059,martel,rue,10
+3060,martignac,cité,7
+3061,martignac,rue de,7
+3062,martin-bernard,rue,13
+3063,martin-garat,rue,20
+3064,martin-nadaud,place,20
+3065,martini,impasse,10
+3066,martinique,rue de la,18
+3067,marty,impasse,17
+3068,martyrs,rue des,9
+3069,marx-dormoy,rue,18
+3070,maslier,passage,19
+3071,maspero,rue,16
+3072,masséna,boulevard,13
+3073,masséna,impasse,13
+3074,masséna,square,13
+3075,massenet,rue,16
+3076,masseran,rue,7
+3077,massif-central,square du,12
+3078,massillon,rue,4
+3079,massonnet,impasse,18
+3080,mathias-duval,rue,13
+3081,mathieu,impasse,15
+3082,mathis,rue,19
+3083,mathurin-moreau,avenue,19
+3084,mathurin-régnier,rue,15
+3085,mathurins,rue des,9
+3086,matignon,avenue,8
+3087,maubert,impasse,5
+3088,maubert,place,5
+3089,maubeuge,rue de,9
+3090,maubeuge,square de,9
+3091,maublanc,rue,15
+3092,mauconseil,rue,1
+3093,maure,rue du,3
+3094,maurel,passage,5
+3095,maurice-barres,place,1
+3096,maurice-berteaux,rue,20
+3097,maurice-bouchor,rue,14
+3098,maurice-de-la-sizeranne,rue,7
+3099,maurice-gardette,square,11
+3100,maurice-mayer,impasse,13
+3101,maurice-mayer,rue,13
+3102,maurice-ravel,avenue,12
+3103,maurice-ripoche,rue,14
+3104,maurice-rollinat,villa,19
+3105,maurice-rouvier,rue,14
+3106,mausset,impasse,12
+3107,mauvais-garcons,rue des,4
+3108,mauxins,passage des,19
+3109,mayenne,square de la,17
+3110,mayet,rue,6
+3111,mayran,rue,9
+3112,mazagran,impasse de,10
+3113,mazagran,rue de,10
+3114,mazarine,rue,6
+3115,mazas,place,12
+3116,mazet,rue,6
+3117,meaux,rue de,19
+3118,méchain,rue,14
+3119,médéah,rue de,14
+3120,médéric,rue,17
+3121,médicis,rue de,6
+3122,mégisserie,quai de la,1
+3123,méhul,rue,2
+3124,meilhac,rue,15
+3125,meissonnier,rue,17
+3126,melingue,rue,19
+3127,melun,passage de,19
+3128,ménars,rue,2
+3129,mendelssohn,rue,20
+3130,menguy,passage,19
+3131,ménilmontant,boulevard de,11-20
+3132,ménilmontant,passage de,11
+3133,menilmontant,rue de,20
+3134,mercoeur,rue,11
+3135,mérimée,rue,16
+3136,merisiers,sentier des,12
+3137,merlin,rue,11
+3138,meryon,rue,16
+3139,meslay,passage,3
+3140,meslay,rue,3
+3141,mesnil,rue,16
+3142,messageries,rue des,10
+3143,messidor,rue,12
+3144,messier,rue,14
+3145,messine,avenue de,8
+3146,messine,rue de,8
+3147,metairie,cour de la,20
+3148,metz,quai de,19
+3149,metz,rue de,10
+3150,meuniers,rue des,12
+3151,meurthe,rue de la,19
+3152,meyerbeer,rue,9
+3153,meynadier,rue,19
+3154,mézières,rue de,6
+3155,michal,rue,13
+3156,michaud,cité,19
+3157,michel-ange,rue,15
+3158,michel-ange,rue,16
+3159,michel-ange,villa,16
+3160,michel-bréal,rue,13
+3161,michel-chasles,rue,12
+3162,michel-de-bourges,rue,20
+3163,michel-le-comte,rue,3
+3164,michel-peter,rue,13
+3165,michelet,rue,6
+3166,midi,cité du,18
+3167,mignard,rue,16
+3168,mignet,rue,16
+3169,mignon,rue,6
+3170,mignot,square,16
+3171,mignottes,rue des,19
+3172,miguel-hidalgo,rue,19
+3173,milan,rue de,9
+3174,milcent,rue,20
+3175,milleret-de-brou,avenue,16
+3176,milne-edwards,rue,17
+3177,milord,impasse,18
+3178,milton,cité,9
+3179,milton,rue,9
+3180,mimosas,square des,13
+3181,minimes,rue des,3
+3182,miollis,rue,15
+3183,mirabeau,rue,16
+3184,mirbel,rue,5
+3185,mire,rue de la,18
+3186,miromesnil,rue de,8
+3187,mission-marchand,rue de la,16
+3188,mizon,rue,15
+3189,moderne,avenue,19
+3190,moderne,villa,14
+3191,mogador,rue,9
+3192,moines,rue des,17
+3193,moitrier,passage,17
+3194,molière,passage,3
+3195,moliere,rue,1
+3196,molin,impasse,18
+3197,molitor,rue,16
+3198,molftor,villa,16
+3199,mollien,rue,8
+3200,monbel,rue de,17
+3201,monceau,rue de,8
+3202,monceau,square,17
+3203,monceau,villa,17
+3204,moncey,passage,17
+3205,moncey,rue,9
+3206,moncey,square,9
+3207,mondétour,rue,1
+3208,mondovi,rue de,1
+3209,monge,place,5
+3210,monge,rue,5
+3211,mongenot,rue,12
+3212,monjol,rue,19
+3213,monnaie,rue de la,1
+3214,monplaisir,impasse,20
+3215,monsieur,rue,7
+3216,monsieur-le-prince,rue,6
+3217,monsigny,rue,2
+3218,montagne-saint-genevieve,rue de la,5
+3219,montaigne,avenue,8
+3220,montalembert,rue de,7
+3221,montalivet,rue,8
+3222,montauban,rue de,15
+3223,mont-blanc,square du,16
+3224,montbrun,passage,14
+3225,montbrun,rue,14
+3226,montcalm,rue,18
+3227,montcalm,villa,18
+3228,mont-cenis,passage du,18
+3229,mont-cenis,rue du,18
+3230,mont-cenis,square du,18
+3231,mont-dore,rue du,17
+3232,montebello,quai de,5
+3233,montebello,rue de,15
+3234,monte-cristo,rue de,20
+3235,montempoivre,rue de,12
+3236,montempoivre,sentier de,12
+3237,montenegro,passage du,19
+3238,montenotte,rue,17
+3239,montéra,rue,12
+3240,montespan,avenue,16
+3241,montesquieu,rue,1
+3242,montessuy,rue de,7
+3243,montevideo,rue de,16
+3244,montfaucon,rue de,6
+3245,montgallet,passage,12
+3246,montgallet,rue,12
+3247,montgolfier,rue,3
+3248,monthiers,cite,9
+3249,montholon,rue de,9
+3250,montiboeufs,rue des,20
+3251,monticelli,rue,14
+3252,montlouis,impasse,11
+3253,montlouis,rue,11
+3254,montmartre,boulevard,2-9
+3255,montmartre,rue,1-2
+3256,montmartre,rue du faubourg,9
+3257,montmorency,avenue de,16
+3258,montmorency,boulevard de,16
+3259,montmorency,rue de,3
+3260,montorgueil,rue,1-2
+3261,montparnasse,boulevard du,6-14-15
+3262,montparnasse,rue du,6-14
+3263,montpensier,rue de,1
+3264,montreuil,rue de,11
+3265,montsouris,rue de,14
+3266,montsouris,square,14
+3267,mont-thabor,rue du,1
+3268,mont-tonnerre,impasse du,15
+3269,montyon,rue de,9
+3270,mony,rue,16
+3271,morand,rue,11
+3272,moreau,rue,12
+3273,morere,rue,14
+3274,moret,rue,11
+3275,morieux,cité,15
+3276,morillons,rue des,15
+3277,morizot,impasse,17
+3278,morland,boulevard,4
+3279,morlet,impasse,11
+3280,morlot,rue,9
+3281,mornay,rue,4
+3282,mortier,boulevard,20
+3283,morvan,rue du,11
+3284,moscou,rue de,8
+3285,moselle,passage de la,19
+3286,moselle,rue de la,19
+3287,moskowa,cité de la,18
+3288,mouffetard,rue,5
+3289,mouffle,rue,11
+3290,moulin,passage,12
+3291,moulin-de-beurre,rue du,14
+3292,moulin-de-la-pointe,rue du,13
+3293,moulin-de-la-vierge,rue du,14
+3294,moulin-des-prés,impasse du,13
+3295,moulin-des-prés,rue du,13
+3296,moulineaux,avenue des,16
+3297,moulinet,passage du,13
+3298,moulinet,rue du,13
+3299,moulin-joly,rue du,11
+3300,moulins,rue des,1
+3301,moulin-vert,impasse du,14
+3302,moulin-vert,rue du,14
+3303,mounet-sully,rue,20
+3304,mouraud,rue,20
+3305,mousquetaires,passage des,12
+3306,mousset,impasse,12
+3307,mousset-robert,rue,12
+3308,moussy,rue de,4
+3309,mouton-duvernet,rue,14
+3310,mouzaia,rue de la,19
+3311,moynet,cité,12
+3312,mozart,avenue,16
+3313,mozart,impasse,16
+3314,mozart,villa,16
+3315,muette,chaussee de la,16
+3316,muette,rue de la,16
+3317,mulhouse,rue de,2
+3318,muller,rue,18
+3319,murat,boulevard,16
+3320,murat,villa,16
+3321,muriers,passage des,20
+3322,muriers,rue des,20
+3323,murillo,rue,8
+3324,mussard,rue,17
+3325,musset,rue de,16
+3326,mutualite,square de la,5
+3327,myrha,rue,18
+3328,myron-t-herrick,avenue,8
+3329,myrtille,villa,13
+3330,naboulet,impasse,17
+3331,nadar,square,18
+3332,nancy,rue de,10
+3333,nanettes,rue des,11
+3334,nansouty,impasse,14
+3335,nansouty,rue,14
+3336,nantes,rue de,19
+3337,nanteuil,rue,15
+3338,naples,rue de,8
+3339,napoléon-chaix,rue,15
+3340,narbonne,rue de,7
+3341,narcisse-diaz,rue,16
+3342,nation,place de la,11-12
+3343,nation,rue de la,18
+3344,national,passage,13
+3345,nationale,impasse,13
+3346,nationale,place,13
+3347,nationale,rue,13
+3348,nattier,place,18
+3349,navarin,rue,9
+3350,navarre,rue de,5
+3351,navier,rue,17
+3352,necker,rue,4
+3353,négrier,cité,7
+3354,nélaton,rue,15
+3355,nemours,rue de,11
+3356,nesles,rue de,6
+3357,neuilly,avenue de,16-17
+3358,neuve-de-la-chardonniere,rue,18
+3359,neuve-des-boulets,rue,11
+3360,neuve-du-théatre,rue,15
+3361,neuve-popincourt,rue,11
+3362,neuve-saint-pierre,rue,4
+3363,neva,rue de la,8
+3364,nevers,impasse de,6
+3365,nevers,rue de,6
+3366,newton,rue,16
+3367,new-york,avenue de,16
+3368,ney,boulevard,18
+3369,nice,rue de,11
+3370,nicolai,rue,12
+3371,nicolas,rue,20
+3372,nicolas-charlet,rue,15
+3373,nicolas-chuquet,rue,17
+3374,nicolas-flamel,rue,4
+3375,nicolas-fortin,rue,13
+3376,nicolas-houel,rue,5
+3377,nicolas-roret,rue,13
+3378,nicolas-taunay,rue,14
+3379,nicolet,rue,18
+3380,nicolo,rue,16
+3381,niel,avenue,17
+3382,niel,villa,17
+3383,niepce,rue,14
+3384,nieuport,rue,15
+3385,nieuport,villa,13
+3386,niger,rue du,12
+3387,nil,rue du,2
+3388,nobel,rue,18
+3389,nocard,rue,15
+3390,noel,cité,3
+3391,noel-ballay,rue,20
+3392,noirot,passage,14
+3393,noisiel,rue de,16
+3394,noisy-le-sec,rue de,20
+3395,nollet,rue,17
+3396,nollet,square,17
+3397,nollez,cité,18
+3398,nom-de-jesus,cour du,11
+3399,nonnains-d'hyeres,rue des,4
+3400,nord,passage du,19
+3401,nord,rue,18
+3402,normandie,rue de,3
+3403,nortier,cité,19
+3404,norvins,rue,18
+3405,notre-dame-re-bonne-nouvelle,rue,2
+3406,notre-dame-de-la-croix,passage,20
+3407,notre-dame-de-lorette,rue,9
+3408,notre-dame-de-nazareth,rue,3
+3409,notre-dame-de-recouvrance,rue,2
+3410,notre-dame-des-champs,rue,6
+3411,notre-dame-des-victoires,rue,2
+3412,nouvelle,villa,8
+3413,nouvelle-gare,rue de la,12
+3414,noyer-durand,rue,19
+3415,noyon,rue de,17
+3416,nungesser-et-coli,rue,16
+3417,obelisque,impasse de l',15
+3418,oberkampf,rue,11
+3419,observatoire,avenue de l',5-6-14
+3420,octave-chanute,place,20
+3421,octave-feuillet,rue,16
+3422,octave-gréard,avenue,7
+3423,octave-mirbeau,rue,17
+3424,odeon,carrefour de l',6
+3425,odéon,place de l',6
+3426,odéon,rue de l',6
+3427,odessa,rue d',14
+3428,odiot,cité,8
+3429,oise,quai de l',19
+3430,oise,rue de l',19
+3431,oiseaux,rue des,3
+3432,olier,rue,15
+3433,olivet,rue d',7
+3434,olivier-de-serres,passage,15
+3435,olivier-de-serres,rue,15
+3436,olivier-métra,rue,20
+3437,olivier-métra,villa,20
+3438,olivier-noyer,rue,14
+3439,omer-talon,rue,11
+3440,omnibus,impasse des,14
+3441,onfroy,impasse,13
+3442,opéra,avenue de l',1-2
+3443,opéra,place de,2-9
+3444,opéra,square de l',9
+3445,oran,rue d',18
+3446,oratoire,rue de l',1
+3447,orchampt,rue d',18
+3448,orchidées,rue des,13
+3449,ordener,rue,18
+3450,orfevres,quai des,1
+3451,orfevres,rue des,1
+3452,orfila,impasse,20
+3453,orfila,rue,20
+3454,orgemont,rue d',20
+3455,orgues,passage des,3
+3456,orient,rue de l,18
+3457,orillon,rue de l',11
+3458,orleans,quai d',4
+3459,orleans,square d',9
+3460,orleans,villa d',14
+3461,orme,rue de l',19
+3462,ormeaux,rue des,20
+3463,ormesson,rue d',4
+3464,ornano,boulevard,18
+3465,ornano,passage,18
+3466,ornano,square,18
+3467,ornano,villa,18
+3468,orsay,avenue d',7
+3469,orsay,quai d',7
+3470,orsel,cité d',18
+3471,orsel,rue d',18
+3472,orteaux,impasse des,20
+3473,orteaux,rue des,20
+3474,ortolan,rue,5
+3475,oslo,rue d',18
+3476,oswaldo-cruz,rue,16
+3477,otages,villa des,20
+3478,ottoz,villa,20
+3479,oudinot,impasse,7
+3480,oudinot,rue,7
+3481,oudry,rue,13
+3482,ouessant,rue d',15
+3483,ouest,impasse de l',14
+3484,ouest,rue de l',14
+3485,ourcq,rue de l',19
+3486,ours,cour de l',11
+3487,ours,rue aux,3
+3488,ozanam,place,6
+3489,pache,rue,11
+3490,padirac,square de,16
+3491,paganini,rue,20
+3492,paillet,rue,5
+3493,paix,rue de la,2
+3494,pajol,rue,18
+3495,pajou,rue,16
+3496,palais,boulevard du,1-4
+3497,palais-bourbon,place du,7
+3498,palais-royal,place du,1
+3499,palatine,rue,6
+3500,palestine,rue de,19
+3501,palestro,rue,2
+3502,pali-kao,rue de,20
+3503,palmyre,rue,13
+3504,panama,rue de,18
+3505,panier-fleuri,cour du,11
+3506,panoramas,passage des,2
+3507,panoramas,rue des,2
+3508,panoyaux,impasse des,20
+3509,panoyaux,rue des,20
+3510,panthéon,place du,5
+3511,pape-carpentier,rue,6
+3512,papillon,rue,9
+3513,papin,rue,3
+3514,paradis,cité,10
+3515,paradis,rue de,10
+3516,parc,villa du,19
+3517,parc-de-charonnes,chemin du,20
+3518,parc-montsouris,avenue du,14
+3519,parc-montsouris,rue du,14
+3520,parc-montsouris,villa du,14
+3521,parc-de-passy,avenue du,16
+3522,parc-des-princes,avenue du,16
+3523,parc-royal,rue du,3
+3524,parchappe,cité,11
+3525,parcheminerie,rue de la,5
+3526,parent-de-rosan,rue,16
+3527,parme,rue de,9
+3528,parmentier,avenue,10-11
+3529,parmentier,rue,10
+3530,parrot,rue,12
+3531,partants,rue des,20
+3532,parvis-notre-dame,place du,4
+3533,pascal,rue,5-13
+3534,pas-de-la-mule,rue du,3-4
+3535,pasdeloup,place,11
+3536,pasquier,rue,8
+3537,passy,place de,16
+3538,passy,quai de,16
+3539,passy,rue de,16
+3540,pasteur,boulevard,15
+3541,pasteur,rue,11
+3542,pasteur-wagner,rue du,11
+3543,pastourelle,rue,3
+3544,patay,rue de,13
+3545,patenne,square,20
+3546,patriarches,passage des,5
+3547,patriarches,rue des,5
+3548,patrice-boudart,villa,16
+3549,patures,rue des,16
+3550,paturle,rue,14
+3551,paul-adam,avenue,17
+3552,paul-albert,rue,18
+3553,paul-appel,avenue,14
+3554,paul-barruel,rue,15
+3555,paul-baudry,rue,8
+3556,paul-beauregard,place,16
+3557,paul-bert,rue,11
+3558,paul-blanchet,square,12
+3559,paul-bodin,rue,17
+3560,paul-borel,rue,17
+3561,paul-cézanne,rue,8
+3562,paul-chautard,rue,15
+3563,paul-crampel,rue,12
+3564,paul-de-kock,rue,19
+3565,paul-delaroche,rue,16
+3566,paul-delmet,rue,15
+3567,paul-dérouléde,avenue,1
+3568,paul-deroulede,avenue,15
+3569,paul-deroulede,square,15
+3570,paul-doumer,avenue,16
+3571,paul-dubois,rue,3
+3572,paul-dupuy,rue,16
+3573,paul-escudier,rue,9
+3574,paul-féval,rue,18
+3575,paul-gervais,rue,13
+3576,paul-gilot,square,15
+3577,paul-hervieu,rue,15
+3578,paul-lelong,rue,2
+3579,paul-lenormand,passage,12
+3580,paul-louis-courier,impasse,7
+3581,paul-louis-courier,rue,7
+3582,paul-meurice,rue,20
+3583,paul-painlevé,place,5
+3584,paul-sauniere,rue,16
+3585,paul-strauss,rue,20
+3586,paul-valéry,rue,16
+3587,paul-verlaine,place,13
+3588,paul-verlaine,villa,19
+3589,paulin-enfert,rue,13
+3590,paulin-méry,rue,13
+3591,pauly,rue,14
+3592,pavée,rue,4
+3593,pavillons,avenue des,17
+3594,pavillons,impasse des,18
+3595,pavillons,rue des,20
+3596,pavillons,villa des,20
+3597,payen,rue,15
+3598,payenne,rue,3
+3599,péan,rue,13
+3600,péclet,rue,15
+3601,pecquay,passage,4
+3602,pégoud,rue,15
+3603,péguy,rue,6
+3604,peintres,impasse des,2
+3605,pekin,passage de,20
+3606,pelée,rue,11
+3607,pelerin,impasse du,17
+3608,pélican,rue du,1
+3609,pelleport,rue,20
+3610,pelleport,villa,20
+3611,pelouze,rue,8
+3612,penel,passage,18
+3613,pensionnat,rue du,12
+3614,penthievre,rue de,8
+3615,pepiniere,rue de la,8
+3616,perceval,passage de,14
+3617,perceval,rue de,14
+3618,perchamps,impasse des,16
+3619,perchamps,rue des,16
+3620,perche,rue du,3
+3621,percier,avenue,8
+3622,perdonnet,rue,10
+3623,pere-corentin,rue du,14
+3624,pere-lachaise,avenue du,20
+3625,pereire,boulevard,17
+3626,pereire,place,17
+3627,pergolese,rue,16
+3628,périchaux,rue des,15
+3629,pérignon,rue,7-15
+3630,périgord,square du,20
+3631,périgueux,rue de,19
+3632,perle,rue de la,3
+3633,pernelle,rue,4
+3634,pernety,rue,14
+3635,perrault,rue,1
+3636,perrée,rue,3
+3637,perrel,rue,14
+3638,perret,passage,13
+3639,perreur,passage,20
+3640,perreur,villa,20
+3641,perrichont,avenue,16
+3642,perronet,rue,7
+3643,pers,impasse,18
+3644,pershing,boulevard,17
+3645,pestalozzi,rue,5
+3646,petel,rue,15
+3647,peterhof,avenue de,17
+3648,petiet,rue,17
+3649,pétin,impasse,19
+3650,petion,rue,11
+3651,petit,rue,19
+3652,petit-cerf,passage du,17
+3653,petit-chateau,rue du,12
+3654,petit-modele,cite du,13
+3655,petit-moine,rue du,5
+3656,petit-musc,rue du,4
+3657,petit-pont,place du,5
+3658,petit-pont,rue du,5
+3659,petite-arche,rue de la,16
+3660,petite-boucherie,passage de la,6
+3661,petite-pierre,rue de la,11
+3662,petite-truanderie,rue de la,1
+3663,petits-carreaux,rue des,2
+3664,petits-champs,rue des,1-2
+3665,petits-hotels,rue des,10
+3666,petits-peres,passage des,2
+3667,petits-peres,place des,2
+3668,petits-peres,rue des,2
+3669,petits-ponts,route des,19
+3670,petites-ecuries,cour des,10
+3671,petites-ecuries,passage des,10
+3672,petites-ecurite,rue des,10
+3673,petitot,rue,19
+3674,pétrarque,rue,16
+3675,pétrarque,square,16
+3676,pétrelle,rue,9
+3677,pétrelle,square,9
+3678,peupliers,avenue des,16
+3679,peupliers,place des,13
+3680,peupliers,rue des,13
+3681,peupliers,square des,13
+3682,phalsbourg,cité de,11
+3683,phalsbourg,rue de,17
+3684,philibert-delorme,rue,17
+3685,philibert-lucot,rue,13
+3686,philidor,impasse,20
+3687,philidor,rue,20
+3688,philippe-auguste,avenue,11
+3689,philippe-auguste,passage,11
+3690,philippe-de-champagne,rue,13
+3691,philippe-de-girard,rue,10-18
+3692,philippe-hecht,rue,19
+3693,photographie,impasse de la,5
+3694,piat,passage,20
+3695,piat,rue,20
+3696,picardie,rue de,3
+3697,piccini,rue,16
+3698,picot,rue,16
+3699,picpus,boulevard de,12
+3700,picpus,rue de,12
+3701,piémontési,rue,18
+3702,pierre-au-lard,rue,4
+3703,pierre-bayle,rue,20
+3704,pierre-brossolette,rue,5
+3705,pierre-budin,rue,18
+3706,pierre-bullet,rue,10
+3707,pierre-charron,impasse,8
+3708,pierre-charron,rue,8
+3709,pierre-chausson,rue,10
+3710,pierre-curie,rue,5
+3711,pierre-demours,rue,17
+3712,pierre-dupont,rue,10
+3713,pierre-foncin,rue,20
+3714,pierre-ginier,rue,18
+3715,pierre-girard,rue,19
+3716,pierre-gourdault,rue,13
+3717,pierre-guérin,rue,16
+3718,pierre-haret,rue,9
+3719,pierre-lampué,place,5
+3720,pierre-larousse,rue,14
+3721,pierre-le-grand,rue,8
+3722,pierre-l'ermite,rue,18
+3723,pierre-leroux,rue,7
+3724,pierre-le-roy,rue,14
+3725,pierre-lescot,rue,1
+3726,pierre-levee,rue de la,11
+3727,pierre-louys,rue,16
+3728,pierre-mille,rue,15
+3729,pierre-mouillard,rue,20
+3730,pierre-nicole,rue,5
+3731,pierre-picard,rue,18
+3732,pierre-1er-de-serbie,avenue,8-16
+3733,pierre-quillard,rue,20
+3734,pierre-sarrazin,rue,6
+3735,pierre-sémard,rue,9
+3736,pigalle,cité,9
+3737,pigalle,place,9
+3738,pigalle,rue,9
+3739,pihet,rue,11
+3740,pillet-will,rue,9
+3741,pilleux,cité,18
+3742,pinel,place,13
+3743,pinel,rue,13
+3744,pirouette,rue,1
+3745,pissaro,rue,17
+3746,piver,passage et impasse,11
+3747,piver,passage et impasse,11
+3748,pixérécourt,impasse,20
+3749,pixérécourt,rue,20
+3750,plaine,rue de la,20
+3751,plaisance,rue de,14
+3752,planchat,rue,20
+3753,planchette,impasse de la,3
+3754,planchette,ruelle de la,12
+3755,plantes,impasse des,14
+3756,plantes,rue des,14
+3757,plantes,villa des,14
+3758,plantin,passage,20
+3759,plat-d'étain,rue du,1
+3760,platanes,villa des,18
+3761,plateau,passage du,19
+3762,plateau,rue du,19
+3763,platon,rue,15
+3764,platre,rue du,4
+3765,platrieres,rue des,20
+3766,pléiade,rue de la,13
+3767,plélo,rue de,15
+3768,pleyel,rue,12
+3769,plichon,rue,11
+3770,plumet,rue,15
+3771,poinsot,rue,14
+3772,point-du-jour,quai du,16
+3773,pointe,sentier de la,20
+3774,pointe-d'ivry,rue de la,13
+3775,poirier,villa,15
+3776,poirier-de-narcay,rue,14
+3777,poiriers,sentier des,20
+3778,poissonnerie,impasse de la,4
+3779,poissonniere,boulevard,2-9
+3780,poissonniere,rue,2
+3781,poissonniere,rue du faubourg,9-10
+3782,poissonniere,villa,18
+3783,poissonniers,rue des,18
+3784,poissy,rue de,5
+3785,poitevins,rue des,6
+3786,poitiers,rue de,7
+3787,poitou,rue de,3
+3788,pole-nord,rue du,18
+3789,poliveau,rue de,5
+3790,pologne,avenue de,16
+3791,polonceau,rue,18
+3792,pomereu,rue de,16
+3793,pommard,rue de,12
+3794,pompe,rue de la,16
+3795,ponceau,passage du,2
+3796,ponceau,rue du,2
+3797,poncelet,passage,17
+3798,poncelet,rue,17
+3799,pondichéry,rue de,15
+3800,poniatowski,boulevard,12
+3801,ponscarme,rue,13
+3802,pont-a-mousson,rue de,17
+3803,pont-aux-biches,passage du,3
+3804,pont-aux-chouc,rue du,3
+3805,pont-de-grenelle,chaussee du,16
+3806,pont-de-grenelle,villa du,15
+3807,pont-de-lodi,rue du,6
+3808,pont-louis-philippe,rue du,4
+3809,pont-mirabeau,rond-point du,15
+3810,pont-neuf,place du,1
+3811,pont-neuf,rue du,1
+3812,ponthieu,rue de,8
+3813,pontoise,rue de,5
+3814,popincourt,cité,11
+3815,popincourt,impasse,11
+3816,popincourt,rue,11
+3817,port-mahon,rue du,2
+3818,port-royal,boulevard de,5-13-14
+3819,port-royal,square de,13
+3820,port-royal,villa de,13
+3821,portalis,rue,8
+3822,porte-d'arcueil,avenue de la,14
+3823,porte-d'asnieres,avenue de la,17
+3824,porte-d'aubervilliers,avenue de la,18-19
+3825,porte-d'auteuil,avenue de la,16
+3826,porte-d'auteuil,place de la,16
+3827,porte-de-bagnolet,avenue de la,20
+3828,porte-de-bagnolet,place de la,20
+3829,porte-brancion,avenue de la,15
+3830,porte-brunet,avenue de la,19
+3831,porte-champerret,avenue de la,17
+3832,porte-champerret,place de la,17
+3833,porte-de-la-chapelle,avenue de la,18
+3834,porte-de-charenton,avenue de la,12
+3835,porte-de-chatillon,avenue de la,14
+3836,porte-de-chatillon,place de la,14
+3837,porte-chaumont,place de la,14
+3838,porte-de-choisy,avenue de la,13
+3839,porte-de-clichy,avenue de la,17
+3840,porte-de-clignancourt,avenue de la,18
+3841,porte-didot,avenue de la,14
+3842,porte-gentilly,avenue de la,14
+3843,porte-d'issy,avenue de la,15
+3844,porte-d'italie,avenue de la,13
+3845,porte-d'ivry,avenue de la,13
+3846,porte-des-lilas,avenue de la,19
+3847,porte-de-menilmontant,avenue de la,20
+3848,porte-molitor,avenue de la,16
+3849,porte-molitor,place de la,16
+3850,porte-de-montmartre,avenue de la,18
+3851,porte-de-montmartre,place de la,18
+3852,porte-de-montreuil,avenue de la,20
+3853,porte-de-montreuil,place de la,20
+3854,porte-de-montrouge,avenue de la,14
+3855,porte-de-la-muette,place de la,16
+3856,porte-d'orleans,avenue de la,14
+3857,porte-de-pantin,avenue de la,19
+3858,porte-de-pantin,place de la,19
+3859,porte-de-passy,place de la,16
+3860,porte-de-la-plaine,avenue de la,15
+3861,porte-de-plaisance,avenue de la,15
+3862,porte-du-point-du-jour,avenue de la,16
+3863,porte-des-poissonniers,avenue de la,18
+3864,porte-pouchet,avenue de la,17
+3865,porte-du-pre-saint-gervais,avenue de la,19
+3866,porte-de-saint-cloud,avenue de la,16
+3867,porte-de-saint-cloud,place de la,16
+3868,porte-saint-ouen,avenue de la,17-18
+3869,porte-de-sevres,avenue de la,15
+3870,porte-des-ternes,avenue de la,17
+3871,porte-des-ternes,place de la,17
+3872,porte-de-vanves,avenue de la,14
+3873,porte-de-vanves,place de la,14
+3874,porte-de-versailles,place de la,15
+3875,porte-de-la-villette,avenue de la,19
+3876,porte-de-villiers,avenue de la,17
+3877,porte-de-vincennes,avenue de la,12-20
+3878,porte-de-vitry,avenue de la,13
+3879,portes-blanches,rue des,18
+3880,portefoin,rue,3
+3881,portugais,avenue des,16
+3882,possoz,place,16
+3883,postel,cité,11
+3884,postes,passages des,5
+3885,pot-de-fer,rue du,5
+3886,poteau,passage du,18
+3887,poteau,rue du,18
+3888,poterie,rue de la,1
+3889,poterne-des-peupliers,rue de la,13
+3890,potier,passage,1
+3891,pottier,cité,19
+3892,pouchet,passage,17
+3893,pouchet,rue,17
+3894,poule,impasse,20
+3895,poulet,rue,18
+3896,poulletier,rue,4
+3897,poussin,rue,16
+3898,pouy,rue de,13
+3899,pradier,rue,19
+3900,prague,rue de,12
+3901,prairies,rue des,20
+3902,pré,rue du,18
+3903,préault,rue,19
+3904,pré-aux-clercs,rue du,17
+3905,pré-saint-gervais,rue du,19
+3906,précheurs,rue des,1
+3907,presbourg,rue de,8-16
+3908,presentation,rue de la,11
+3909,président-mithouard,place du,7
+3910,président-wilson,avenue du,8-16
+3911,presles,impasse de,15
+3912,presles,rue de,15
+3913,pressoir,impasse du,20
+3914,pressoir,rue du,20
+3915,prétres,impasse des,16
+3916,pretres-saint-germain-l'auxerrois,rue des,1
+3917,pretres-saint-severin,rue des,5
+3918,prévost,impasse,13
+3919,prévost,passage,13
+3920,prévost-paradol,rue,14
+3921,prévot,rue du,4
+3922,prevoyance,rue de la,19
+3923,prévoyants,rue des,20
+3924,primatice,rue,13
+3925,primeveres,impasse des,11
+3926,princes,route des,16
+3927,princesse,rue,6
+3928,printemps,rue du,17
+3929,prisse-d'avesnes,rue,14
+3930,procession,cité de la,15
+3931,procession,passage de la,15
+3932,procession,rue de la,15
+3933,professeur-louis-renault,rue du,13
+3934,progres,impasse du,20
+3935,progres,passage du,14
+3936,progres,villa du,19
+3937,prony,rue de,17
+3938,prosper-goubaux,place,8-17
+3939,prost,cité,11
+3940,proudhon,rue,12
+3941,prouvaires,rue des,1
+3942,provence,avenue de,9
+3943,provence,rue de,8-9
+3944,providence,impasse de la,20
+3945,providence,rue de la,13
+3946,prudhon,avenue,16
+3947,pruniers,rue des,20
+3948,puebla,passage de,19
+3949,puget,rue,18
+3950,puisard-de-bicétre,rue du,13
+3951,puits,impasse du,19
+3952,puits-de-l'ermite,place du,5
+3953,puits-de-l'ermite,rue du,5
+3954,pusy,cité de,17
+3955,puteaux,passage,8
+3956,puteaux,passage,8
+3957,putigneux,impasse,4
+3958,puvis-de-chavannes,rue,17
+3959,py,rue de la,20
+3960,pyramides,place des,1
+3961,pyramides,rue des,11
+3962,pyrénées,rue des,20
+3963,pyrénées,villa des,20
+3964,quatrefages,rue,5
+3965,quatre-fils,rue des,3
+3966,quate-freres-peignot,rue des,15
+3967,quatre-septembre,rue du,2
+3968,quatre-vents,rue des,6
+3969,quellard,cour,11
+3970,quentin-bauchart,rue,8
+3971,quercy,square de,20
+3972,questré,impasse,11
+3973,quinault,rue,15
+3974,quincampoix,rue,3-4
+3975,quinze-vingts,passage des,12
+3976,rabelais,rue,8
+3977,racan,square,16
+3978,rachel,avenue,18
+3979,racine,rue,6
+3980,radziwill,rue,1
+3981,raffaelli,rue,16
+3982,raffet,impasse,16
+3983,raffet,rue,16
+3984,raguinot,passage,12
+3985,rambervilliers,rue de,12
+3986,rambouillet,rue de,12
+3987,rambouillet,ruelle de,12
+3988,rambuteau,rue,1-3-4
+3989,rameau,rue,2
+3990,ramey,passage,18
+3991,ramey,rue,18
+3992,rampal,rue,19
+3993,rampon,rue,11
+3994,ramponneau,rue,20
+3995,ramus,rue,20
+3996,rancon,impasse,20
+3997,ranelach,avenue du,16
+3998,ranelach,rue du,16
+3999,ranelacgh,square du,16
+4000,raoul,rue,12
+4001,rapée,quai de la,12
+4002,raphael,avenue,16
+4003,rapp,avenue,7
+4004,rapp,square,7
+4005,raspail,boulevard,6-7-14
+4006,rasselins,rue des,20
+4007,rataud,rue,5
+4008,rauch,passage,11
+4009,ravignan,rue,18
+4010,raymond,passage,13
+4011,raymond-losserand,rue,14
+4012,raymond-poincaré,avenue,16
+4013,raynaud,cité,14
+4014,raynouard,rue,16
+4015,raynouard,square,16
+4016,réale,rue de la,1
+4017,réaumur,rue,2-3
+4018,rébeval,allée,19
+4019,rébeval,rue,19
+4020,recamier,rue,7
+4021,recollets,passage des,10
+4022,recollets,rue des,10
+4023,recteur-poincare,avenue du,16
+4024,reculettes,rue des,13
+4025,redon,rue,17
+4026,regard,rue du,6
+4027,regis,rue,6
+4028,reglisses,rue des,20
+4029,regnard,rue,6
+4030,regnault,rue,13
+4031,reilhac,passage,10
+4032,reille,avenue,14
+4033,reille,impasse,14
+4034,reims,boulevard de,17
+4035,reims,rue de,13
+4036,reine-astrid,place de la,8
+4037,reine-blanche,rue de la,13
+4038,reine-de-hongrie,passage de la,1
+4039,rembrandt,rue,8
+4040,remusat,rue de,16
+4041,rémy-dumoncel,rue,14
+4042,remy-et-jean-de-gourmont,rue,19
+4043,renaissance,rue de la,8
+4044,renaissance,villa de la,19
+4045,renard,rue du,4
+4046,renault,rue,11
+4047,rendez-vous,cité du,12
+4048,rendez-vous,rue du,12
+4049,rené,passage,11
+4050,rené-bazin,rue,16
+4051,rené-boulanger,rue,10
+4052,rené-boylesve,avenue,16
+4053,rené-panhard,rue,13
+4054,renée-pauline,rue,6
+4055,rennequin,rue,17
+4056,rennes,place de,6
+4057,rennes,rue de,6
+4058,rentiers,villa des,13
+4059,repos,rue du,20
+4060,république,avenue de la,11
+4061,république,place de la,3-10-11
+4062,résal,rue,13
+4063,réservoirs,rue des,16
+4064,retiro,cité du,8
+4065,retrait,passage du,20
+4066,retrait,rue du,20
+4067,reuilly,boulevard de,12
+4068,reuilly,rue de,12
+4069,réunion,impasse de la,20
+4070,réunion,passage de la,3
+4071,réunion,place de la,20
+4072,réunion,rue de la,20
+4073,rhin,rue du,19
+4074,rhone,square du,17
+4075,ribéra,rue,16
+4076,riberolle,villa,20
+4077,ribet,impasse,15
+4078,riblette,rue,20
+4079,ribot,cité,11
+4080,riboutté,rue,9
+4081,ricaut,passage,13
+4082,richard,impasse,15
+4083,richard,passage,17
+4084,richard-lenoir,boulevard,11
+4085,richard-lenoir,rue,11
+4086,richelieu,passage de,1
+4087,richelieu,rue de,1-2
+4088,richemont,rue de,13
+4089,richepanse,rue,1-8
+4090,richer,rue,9
+4091,richerand,avenue,10
+4092,richomme,rue,18
+4093,ridder,rue de,14
+4094,rigault,impasse,15
+4095,rigny,rue de,8
+4096,rigoles,cité des,20
+4097,rigoles,rue des,20
+4098,rimbaud,villa,19
+4099,rimbaut,passage,14
+4100,rio-de-janeiro,place,8
+4101,riquet,rue,18-19
+4102,riverin,cité,10
+4103,riviere,passage,20
+4104,rivoli,rue de,1-4
+4105,robert,impasse,18
+4106,robert-blache,rue,10
+4107,robert-de-flers,avenue,16
+4108,robert-estienne,rue,8
+4109,robert-fleury,rue,15
+4110,robert-houdin,rue,11
+4111,robert-lecoin,rue,16
+4112,robert-lindet,rue,15
+4113,robert-lindet,villa,15
+4114,robert-planquette,rue,18
+4115,robert-turquan,rue,16
+4116,roberval,rue,17
+4117,robiac,square,7
+4118,robineau,rue,20
+4119,robiquet,impasse,6
+4120,rocamadour,square,16
+4121,rochambeau,place,16
+4122,rochambeau,rue,9
+4123,rochebrune,passage,11
+4124,rochebrune,rue,11
+4125,rochechouart,boulevard de,9-18
+4125 bis,rochechouart,cité de,9
+4126,rochechouart,rue de,9
+4127,rocher,rue du,8
+4128,rocroy,rue de,10
+4129,rodenbach,allée,14
+4130,rodier,rue,9
+4131,rodin,avenue,16
+4132,rodin,place,16
+4133,roger,rue,14
+4134,roger-bacon,rue,17
+4135,rohan,cour de,6
+4136,rohan,rue de,1
+4137,roi-d'alger,passage du,18
+4138,roi-d'alger,rue du,18
+4139,roi-de-sicile,rue du,4
+4140,roi-doré,rue du,3
+4141,roi-francois,cour du,2
+4142,roland-garros,square,20
+4143,roli,rue,14
+4144,rolleboise,impasse,20
+4145,rollin,rue,5
+4146,romain-rolland,boulevard,14
+4147,romainville,rue de,19
+4148,rome,cour de,3
+4149,rome,rue de,8-17
+4150,ronce,impasse,20
+4151,ronce,passage,20
+4152,rondeaux,passage des,20
+4153,rondeaux,rue des,20
+4154,rondelet,rue,12
+4155,rondonneaux,rue des,20
+4156,ronsard,rue,18
+4157,ronsin,impasse,15
+4158,roquepine,rue,8
+4159,roquette,cité de la,11
+4160,roquette,rue de la,11
+4161,rosa-bonheur,rue,15
+4162,rosenwald,rue,15
+4163,roses,rue des,18
+4164,rosière,rue de la,15
+4165,rosiers,rue des,4
+4166,rossini,rue,9
+4167,rothschild,impasse,18
+4168,rotrou,rue,6
+4169,rottembourg,rue,12
+4170,roubaix,place de,10
+4171,roubo,rue,11
+4172,rouelle,rue,15
+4173,rouen,rue de,19
+4174,rouet,impasse du,14
+4175,rouge,passage,11
+4176,rougemont,cité,9
+4177,rougemont,rue,9
+4178,rouget-de-lisle,rue,1
+4179,roule,rue du,1
+4180,roule,square du,8
+4181,rousselet,rue,7
+4182,roussin,impasse,15
+4183,routy-philippe,impasse,20
+4184,rouvet,rue,19
+4185,rouvray,avenue de,16
+4186,roux,impasse,17
+4186 bis,roy,rue,8
+4187,royale,rue,8
+4187 bis,royer-collard,impasse,5
+4188,royer-collard,rue,5
+4189,rubens,rue,13
+4190,rude,rue,16
+4191,rudel,passage,13
+4192,ruelle,passage,18
+4193,ruhmkorff,rue,17
+4194,ruisseau,impasse du,18
+4195,ruisseau,rue du,18
+4196,rungis,place de,13
+4197,rungis,rue de,13
+4198,ruysdael,avenue,8
+4199,sabliere,rue de la,14
+4200,sablonniere,rue de la,15
+4201,sablons,rue des,16
+4202,sablonville,rue de,17
+4203,sabot,rue du,6
+4204,sacre-coeur,cité du,18
+4205,sacre-coeur,parvis du,18
+4206,sadi-carnot,avenue,15
+4207,sadi-carnot,villa,19
+4208,sahel,rue du,12
+4209,sahel,villa du,12
+4210,said,villa,16
+4211,saida,rue de la,15
+4212,saicon,rue de,16
+4213,saillard,rue,14
+4214,saint-amand,rue,15
+4215,saint-ambroise,passage,11
+4216,saint-ambroise,rue,11
+4217,saint-andré-des-arts,place,6
+4218,saint-andré-des-arts,rue,6
+4219,saint-ange,impasse,17
+4220,saint-antoine,cour,12
+4221,saint-antoine,passage,11
+4222,saint-antoine,rue,4
+4223,saint-antoine,rue du faubourg,11-12
+4224,saint-augustin,place,8
+4225,saint-augustin,rue,2
+4226,saint-benoit,rue,6
+4227,saint-bernard,passage,11
+4228,saint-bernard,quai,5
+4229,saint-bernard,rue,11
+4230,saint-blaise,place,20
+4231,saint-blaise,rue,20
+4232,saint-bon,rue,4
+4233,saint-bruno,rue,18
+4234,saint-charles,cour,12
+4235,saint-charles,impasse,15
+4236,saint-charles,passage,17
+4237,saint-charles,place,15
+4238,saint-charles,rond-point,15
+4239,saint-charles,rue,15
+4240,saint-chaumont,cité,19
+4241,saint-christophe,rue,15
+4242,saint-claude,impasse,3
+4243,saint-claude,rue,3
+4244,saint-denis,boulevard,2-3-10
+4245,saint-denis,impasse,2
+4246,saint-denis,rue,1-2
+4247,saint-denis,rue du faubourg,10
+4248,saint-didier,rue,16
+4249,saint-dominique,rue,7
+4250,saint-eleuthére,rue,18
+4251,saint-eloi,cour,12
+4252,saint-esprit,cour,11
+4253,saint-etienne-du-mont,rue,5
+4254,saint-eustache,impasse,1
+4255,saint-exupery,avenue,16
+4256,saint-fargeau,place,20
+4257,saint-fargeau,rue,20
+4258,saint-ferdinand,place,17
+4259,saint-ferdinand,rue,17
+4260,saint-fiacre,impasse,4
+4261,saint-fiacre,rue,2
+4262,saint-florentin,rue,1-8
+4263,saint-francois,cour,12
+4264,saint-francois,impasse,18
+4265,saint-georges,place,9
+4266,saint-georges,rue,9
+4267,saint-germain,boulevard,5-6-7
+4268,saint-germain-l'auxerrois,rue,1
+4269,saint-germain-des-pres,place,6
+4270,saint-gervais,place,4
+4271,saint-gilles,rue,3
+4272,saint-gothard,rue du,14
+4273,saint-guillaume,rue,7
+4274,saint-hippolyte,rue,13
+4275,saint-honoré,rue,1-8
+4276,saint-honoré,rue du faubourg,8
+4277,saint-honoré-d'eylau,avenue,16
+4278,saint-hubert,rue,11
+4279,saint-hyacinthe,rue,1
+4280,saint-irénée,impasse,11
+4281,saint-jacques,boulevard,14
+4282,saint-jacques,place,14
+4283,saint-jacques,rue,5
+4284,saint-jacques,rue du faubourg,14
+4285,saint-jacques,villa,14
+4286,saint-jean,rue,17
+4287,saint-jérome,rue,18
+4288,saint-joseph,cour,11
+4289,saint-joseph,rue,2
+4290,saint-jules,passage,18
+4291,saint-julien-le-pauvre,rue,5
+4292,saint-just,rue,17
+4293,saint-lambert,rue,15
+4294,saint-laurent,cité,10
+4295,saint-laurent,rue,10
+4296,saint-lazare,rue,8-9
+4297,saint-louis,cour,11
+4298,saint-louis-en-l'isle,rue,4
+4299,saint-luc,rue,18
+4300,saint-mandé,avenue de,12
+4301,saint-mande,villa de,12
+4302,saint-marc,rue,2
+4303,saint-marceaux,rue,17
+4304,saint-marcel,boulevard,5-13
+4305,saint-martin,boulevard,3-10
+4306,saint-martin,cité,10
+4307,saint-martin,rue,3-4
+4308,saint-martin,rue du faubourg,10
+4309,saint-mathieu,rue,18
+4310,saint-maur,cour,10
+4311,saint-maur,passage,11
+4312,saint-maur,rue,10-11
+4313,saint-maurice,avenue de,12
+4314,saint-médard,rue,5
+4315,saint-merri,rue,4
+4316,saint-michel,boulevard,5-6
+4317,saint-michel,cité,11
+4318,saint-michel,passage,17
+4319,saint-michel,place,5-6
+4320,saint-michel,quai,5
+4321,saint-michel,villa,18
+4322,saint-nicolas,cour,11
+4323,saint-nicolas,rue,12
+4324,saint-ouen,avenue de,17-18
+4325,saint-ouen,impasse,17
+4326,saint-paul,impasse,20
+4327,saint-paul,passage,4
+4328,saint-paul,rue,4
+4329,saint-philippe,rue,2
+4330,saint-philippe-du-roule,passage,8
+4331,saint-philippe-du-roule,rue,8
+4332,saint-pierre,impasse,20
+4333,saint-pierre,place,18
+4334,saint-pierre-amelot,passage,11
+4335,saint-placide,rue,6
+4336,saint-quentin,rue de,10
+4337,saint-roch,passage,1
+4338,saint-roch,rue,1
+4339,saint-romain,rue,6
+4340,saint-romain,square,6
+4341,saint-rustique,rue,18
+4342,saint-sabin,passage,11
+4343,saint-sabin,rue,11
+4344,saint-saens,rue,15
+4345,saint-sauveur,rue,2
+4346,saint-sebastien,impasse,11
+4347,saint-sebastien,passage,11
+4348,saint-sébastien,rue,11
+4349,saint-senoch,rue de,17
+4350,saint-séverin,rue,5-6
+4351,saint-simon,rue,7
+4352,saint-spire,rue,2
+4353,saint-sulpice,place,6
+4354,saint-sulpice,rue,6
+4355,saint-thomas-d'aquin,place,7
+4356,saint-thomas-d'aquin,rue,7
+4357,saint-victor,rue,5
+4358,saint-vincent,impasse,19
+4359,saint-vincent,rue,18
+4360,saint-vincent-de-paul,rue,10
+4361,saint-yves,rue,14
+4362,sainte-anastase,rue,3
+4363,sainte-anne,passage,2
+4364,sainte-anne,rue,1-2
+4365,sainte-anne-popincourt,passage,11
+4366,sainte-apolline,rue,2-3
+4367,sainte-avoie,passage,3
+4368,sainte-beuve,rue,6
+4369,sainte-cecile,rue,9
+4370,sainte-claire-deville,rue,12
+4371,sainte-croix-de-la-bretonnerie,rue,4
+4372,sainte-croix-de-la-bretonnerie,square,4
+4373,sainte-elisabeth,rue,3
+4374,sainte-elisabeth,villa,13
+4375,sainte-eugénie,avenue,15
+4376,sainte-félicité,impasse,15
+4377,sainte-foy,passage,2
+4378,sainte-foy,rue,2
+4379,sainte-genevieve,place,5
+4380,sainte-hélene,rue de,13
+4381,sainte-isaure,rue,18
+4382,sainte-léonie,impasse,14
+4383,sainte-lucie,rue,15
+4384,sainte-marie,avenue,12
+4385,sainte-marie,villa,20
+4386,sainte-marthe,rue,10
+4387,sainte-monique,impasse,18
+4388,sainte-opportune,place,1
+4389,sainte-opportune,rue,1
+4390,saints-peres,rue des,6-7
+4391,saints-simoniens,passage des,20
+4392,saintonge,rue de,3
+4393,salarnier,passage,11
+4394,salneuve,rue,17
+4395,salomon-de-caus,rue,3
+4396,salonique,avenue de,17
+4397,salpetriere,rue de la,13
+4398,sambre-et-meuse,rue de,10
+4399,samson,rue,13
+4400,sancerrois,square du,12
+4401,sandrié,impasse,9
+4402,santé,rue de la,13-14
+4403,sante,ruelle de la,13
+4404,santerre,rue,12
+4405,santeuil,rue,5
+4406,santos-dumont,rue,15
+4407,santos-dumont,villa,15
+4408,sanzel,cité,19
+4409,saone,rue de la,14
+4410,sarasate,rue,15
+4411,sarrette,rue,14
+4412,satan,impasse,20
+4413,sauffroy,rue,17
+4414,saules,rue des,18
+4415,saulnier,rue,9
+4416,saumon,impasse,20
+4417,saussaies,place des,8
+4418,saussaies,rue des,8
+4419,saussier-leroy,rue,17
+4420,saussure,rue de,17
+4421,sauvage,rue,13
+4422,sauvageot,rue,14
+4423,sauval,rue,2
+4424,savart,passage,20
+4425,savies,rue de,20
+4426,savoie,rue de,6
+4427,savorgnan-de-brazza,rue,7
+4428,saxe,avenue de,7-15
+4429,saxe,villa de,7
+4430,say,rue,9
+4431,scheffer,rue,16
+4432,scheffer,villa,16
+4433,schoelcher,rue,14
+4434,schomberg,rue de,4
+4435,schubert,rue,20
+4436,schutzenberger,rue,15
+4437,scipion,rue,5
+4438,scribe,rue,9
+4439,sébastien-bottin,rue,7
+4440,sébastien-mercier,rue,15
+4441,sebastopol,boulevard de,1-2-3-4
+4442,secrétan,avenue,19
+4443,sedaine,cours,11
+4444,sedaine,rue,11
+4445,sédillot,rue,7
+4446,sédillot,square,7
+4447,séguier,rue,6
+4448,ségur,avenue de,7-15
+4449,ségur,villa de,7
+4450,seine,quai de la,19
+4451,seine,rue de,6
+4452,selves,avenue de,8
+4453,sénégal,rue du,20
+4454,senlis,rue de,17
+4455,sentier,rue du,2
+4456,sept-arpents,rue des,19
+4457,sergent-bauchat,rue du,12
+4458,sergent-hoff,rue du,17
+4459,sergent-maginot,rue du,16
+4460,serpente,rue,6
+4461,serpollet,rue,20
+4462,serret,rue,15
+4463,sérurier,boulevard,19
+4464,servan,rue,11
+4465,servan,square,11
+4466,servandoni,rue,6
+4467,seurat,villa,14
+4468,severo,rue,14
+4469,seveste,rue,18
+4470,sévigné,rue de,3-4
+4471,sevres,rue de,6-7-15
+4472,sextius-michel,rue,15
+4473,seze,rue de,8-9
+4474,sfax,rue de,16
+4475,siam,rue de,16
+4476,sibour,rue,10
+4477,sibuet,rue,12
+4478,sidi-brahim,rue de,12
+4479,sigaud,passage,13
+4480,silvestre-de-sacy,avenue,7
+4481,simart,rue,18
+4482,simon-bolivar,avenue,19
+4483,simon-dereure,rue,18
+4484,simon-le-franc,rue,4
+4485,simonet,rue,13
+4486,simplon,rue du,18
+4487,singer,passage,16
+4488,singer,rue,16
+4489,singes,passage des,4
+4490,sisley,rue,17
+4491,sivel,rue,14
+4492,smala,rue de la,15
+4493,soeur-rosalie,avenue de la,13
+4494,soissons,rue de,19
+4495,soleil,rue du,20
+4496,soleil-d'or,ruelle du,15
+4497,soleillet,rue,20
+4498,solférino,rue de,7
+4499,solidarité,rue de la,19
+4500,solitaires,rue des,19
+4501,somme,boulevard de la,17
+4502,sommeiller,villa,16
+4503,sommet-des-alpes,rue du,15
+4504,sontay,rue de,16
+4505,sophie-germain,rue,14
+4506,sorbier,rue,20
+4507,sorbonne,place de la,5
+4508,sorbonne,rue de la,5
+4509,souchet,villa,20
+4510,souchier,villa,16
+4511,soudan,rue du,15
+4512,soufflot,rue,5
+4513,souhaits,impasse des,20
+4514,soult,boulevard,12
+4515,soupirs,passage des,20
+4516,source,rue de la,16
+4517,souzy,cité,11
+4518,spinoza,rue,11
+4519,spontini,rue,16
+4520,spontini,villa,16
+4521,square,avenue du,16
+4522,square-carpeaux,rue du,18
+4523,stael,rue de,15
+4524,stalingrad,place,10
+4525,stanislas,rue,6
+4526,stanislas-meunier,rue,20
+4527,station,sentier de la,19
+4528,station-de-boulainvilliers,passage de la,20
+4529,station-de-menilmontaint,passage de la,20
+4530,steinkerque,rue de,18
+4531,steinlen,rue,18
+4532,stemler,cité,19
+4533,stendhal,passage,20
+4534,stendhal,rue,20
+4535,stendhal,villa,20
+4536,stéphane-mallarmé,avenue,17
+4537,stephen-pichon,avenue,13
+4538,stéphenson,rue,18
+4539,sthrau,rue,13
+4540,stinville,passage,12
+4541,stockholm,rue de,8
+4542,strasbourg,boulevard de,10
+4543,strasbourg,rue de,10
+4544,stuart-merrill,place,17
+4545,suchet,boulevard,16
+4546,sud,passage du,19
+4547,suez,rue de,18
+4548,suffren,avenue de,7-15
+4549,suger,rue,6
+4550,suisses,passage des,14
+4551,suisses,rue des,14
+4552,sully,rue de,4
+4553,sully-prudhomme,avenue,7
+4554,surcouf,rue,7
+4555,suréne,rue de,8
+4556,surmelin,passage du,20
+4557,surmelin,rue du,20
+4558,sycomores,avenue des,16
+4559,tacherie,rue de la,4
+4560,taclet,rue,20
+4561,tage,rue du,13
+4562,taillade,avenue,20
+4563,taillandiers,passage des,11
+4564,taillandiers,rue des,11
+4565,taillebourg,avenue de,11
+4566,taine,rue,12
+4567,taitbout,rue,9
+4568,taiti,rue de,12
+4569,talleyrand,rue de,7
+4570,talma,rue,16
+4571,talmouse,sentier de la,19
+4572,talus,cité du,18
+4573,talus,impasse du,18
+4574,talus-du-cours,rue du,12
+4575,tandou,rue,19
+4576,tanger,rue de,19
+4577,tanneries,rue des,13
+4578,tarbé,rue,17
+4579,tardieu,rue,18
+4580,tarn,square du,17
+4581,taylor,rue,10
+4582,teheran,rue de,8
+4583,telegraphe,passage du,20
+4584,telegraphe,rue du,20
+4585,temple,boulevard du,3-11
+4586,temple,rue du,3-4
+4587,temple,rue du faubourg du,10-11
+4588,tenaille,passage,14
+4589,tennis,rue des,18
+4590,ternaux,rue,11
+4591,ternes,avenue des,17
+4592,ternes,place des,17
+4593,ternes,rue des,17
+4594,terrage,rue du,10
+4595,terrasse,rue de la,17
+4596,terrasse,villa de la,17
+4597,terre-neuve,rue de,20
+4598,terres-au-cure,rue des,13
+4599,tertre,impasse du,18
+4600,tertre,place du,18
+4601,tessier,rue,15
+4602,tesson,rue,10
+4603,texel,rue du,14
+4604,thann,rue de,17
+4605,théatre,rue du,15
+4606,theate-francais,place du,1
+4607,thénard,rue,5
+4608,theodore-de-banville,rue,17
+4609,théodore-deck,rue,15
+4610,théodore-deck,villa,15
+4611,théodore-hamont,rue,12
+4612,théodore-judlin,square,15
+4613,théodore-rousseau,avenue,16
+4614,théodule-ribot,rue,17
+4615,théophile-gautier,avenue,16
+4616,théophile-gautier,square,16
+4617,théophile-roussel,rue,12
+4618,theophraste-renaudot,rue,15
+4619,therese,rue,1
+4620,thermopyles,rue des,14
+4621,théruin,passage,11
+4622,thibaud,rue,14
+4623,thibouméry,rue,15
+4624,thiéré,passage,11
+4625,thierry-de-martel,boulevard,16
+4626,thiers,rue,16
+4627,thiers,square,16
+4628,thimerais,square du,17
+4629,thimonnier,rue,9
+4630,thionville,passage,19
+4631,thionville,rue de,19
+4632,tholozé,rue,18
+4633,thomire,rue,13
+4634,thorel,rue,2
+4635,thoréton,impasse,15
+4636,thorigny,place de,3
+4637,thorigny,rue de,3
+4638,thouin,rue,5
+4639,thuré,cité,15
+4640,thureau-dangin,rue,15
+4641,tibre,rue du,13
+4642,tilleuls,avenue des,16
+4643,tilsitt,rue de,8-17
+4644,tiphaine,rue,15
+4645,tiquetonne,rue,2
+4646,tiron,rue,4
+4647,tisserand,rue,15
+4648,titien,rue,13
+4649,titon,rue,11
+4650,tlemcen,rue de,20
+4651,tocqueville,rue de,17
+4652,tocqueville,square de,17
+4653,tolain,rue,20
+4654,tolbiac,rue de,13
+4655,tolstoi,square,16
+4656,tombe-issoire,rue de la,14
+4657,tombouctou,rue de,18
+4658,torcy,rue de,18
+4659,torricelli,rue,17
+4660,toul,rue de,12
+4661,toullier,rue,5
+4662,toulouse,rue de,19
+4663,toulouse-lautrec,rue,17
+4664,tour,rue de la,16
+4665,tour,villa de la,16
+4666,tour de vanves,passage de la,14
+4667,tour-des-dames,rue de la,9
+4668,tourelles,passage des,20
+4669,tourelles,rue des,20
+4670,tourlaque,rue,18
+4671,tournefort,rue,5
+4672,tournelle,quai de la,5
+4673,tournelles,rue des,3-4
+4674,tourneux,impasse,12
+4675,tourneux,rue,12
+4676,tournon,rue de,6
+4677,tournus,rue,15
+4678,tourtille,rue de,20
+4679,tourville,avenue de,7
+4680,toussaint-feron,rue,13
+4681,toustain,rue,6
+4682,touzelin,passage,17
+4683,touzet,impasse,20
+4684,tracy,rue de,2
+4685,traeger,cité,18
+4686,trainée,impasse,18
+4687,traktir,rue de,16
+4688,transvaal,rue du,20
+4689,traversiere,rue,12
+4690,trébert,passage,17
+4691,treilhard,rue,8
+4692,trésor,rue du,4
+4693,trétaigne,rue de,18
+4694,trévise,cité de,9
+4695,trévise,rue de,9
+4696,trinité,passage de la,2
+4697,trinité,rue de la,9
+4698,tripière,impasse de la,13
+4699,trocadéro,place du,16
+4700,trocadéro,square du,16
+4701,trois-bornes,cité des,11
+4702,trois-bornes,rue des,11
+4703,trois-couronnes,rue des,11
+4704,trois-freres,cour des,11
+4705,trois-freres,rue des,18
+4706,trois-portes,rue des,5
+4707,trois-soeurs,impasse des,11
+4708,trois-visages,impasse des,1
+4709,tronchet,rue,8-9
+4710,trone,avenue du,11-12
+4711,trone,passage du,11
+4712,tronson-du-coudray,rue,8
+4713,trousseau,rue,11
+4714,troyon,rue,17
+4715,trubert-bellier,passage,13
+4716,trudaine,avenue,9
+4717,trudaine,square,9
+4718,truffaut,rue,17
+4719,truillot,impasse,11
+4720,tuileries,quai des,1
+4721,tunis,rue de,11
+4722,tunnel,cité du,19
+4723,tunnel,rue du,19
+4724,turbigo,rue de,1-2-3
+4725,turenne,rue de,3-4
+4726,turgot,rue,9
+4727,turin,rue de,8
+4728,turquetil,passage,11
+4729,ulm,rue d',5
+4730,ulysse-trelat,rue,13
+4731,union,cité de l',20
+4732,union,passage de l',7
+4733,union,square de l',16
+4734,université,rue de l',7
+4735,urfé,square d',16
+4736,ursins,rue des,4
+4737,ursulines,rue des,5
+4738,uzés,rue d',2
+4739,vacelet,impasse,13
+4740,vacheron,cité,11
+4741,valadon,rue,7
+4742,val-de-grace,rue du,5
+4743,valence,rue de,5
+4744,valenciennes,rue de,10
+4745,valentin,villa,13
+4746,valentin-hauy,rue,15
+4747,valette,rue,5
+4748,valhubert,place,5-13
+4749,vallée-de-fécamp,impasse de la,12
+4750,vallees,chemin des,20
+4751,vallet,passage,13
+4752,valmy,impasse de,7
+4753,valmy,passage,17
+4754,valmy,quai de,10
+4755,valois,avenue de,8
+4756,valois,place de,1
+4757,valois,rue de,1
+4758,vandal,impasse,14
+4759,vandal,rue,14
+4760,vandamme,impasse,14
+4761,vandamme,rue,14
+4762,vandrezanne,passage,13
+4763,vandrezanne,rue,13
+4764,van-dyck,avenue,8
+4765,vaneau,cité,7
+4766,vaneau,rue,79
+4767,van-loo,rue,16
+4768,vanves,passage de,14
+4769,var,square du,20
+4770,varenne,cité de,7
+4771,varenne,rue de,7
+4772,varet,rue,15
+4773,varize,rue de,16
+4774,vasco-de-gama,rue,15
+4775,vassou,impasse,12
+4776,vauban,place,7
+4777,vaucanson,rue,3
+4778,vaucluse,square de,17
+4779,vaucouleurs,rue de,11
+4780,vaudremer,rue,19
+4781,vaugelas,rue,15
+4782,vaugirard,boulevard de,15
+4783,vaugirard,rue de,6-15
+4784,vaugirard-nouveau,avenue de,15
+4785,vauquelin,rue,5
+4786,vauvenargues,rue,18
+4787,vauvenargues,villa,18
+4788,vauvilliers,rue,1
+4789,vavin,avenue,6
+4790,vavin,rue,6
+4791,véga,rue de la,12
+4792,veissiere,cour,11
+4793,velasquez,avenue,8
+4794,velay,square du,13
+4795,vélodrome,rue du,16
+4796,vendome,passage,33
+4797,vendome,place,1
+4798,venise,rue de,4
+4799,ventadour,rue,1
+4800,véran,impasse,20
+4801,vercingétorix,rue,14
+4802,verdeau,passage,93
+4803,verderet,rue,16
+4804,verdi,rue,16
+4805,verdun,avenue de,10
+4806,verdun,impasse de,19
+4807,verdun,place de,17
+4808,verdun,square de,10
+4809,verel,villa,14
+4810,vergennes,square,15
+4811,vergniaud,rue,13
+4812,verhaeren,allée,14
+4813,vérité,passage de la,1
+4814,verlaine,villa,19
+4815,vermandois,square du,19
+4816,vermenouze,square,5
+4817,vernet,rue,8
+4818,verneuil,rue de,7
+4819,vernier,rue,17
+4820,verniquet,rue,17
+4821,vero-dodat,galerie,1
+4822,véron,cité,18
+4823,véron,rue,18
+4824,veronese,rue,13
+4825,verrerie,rue de la,4
+4826,versailles,avenue de,16
+4827,versigny,rue,18
+4828,vert-bois,passage du,3
+4829,vert-bois,rue du,3
+4830,vertus,rue des,3
+4831,verzy,avenue de,17
+4832,vésale,rue,5
+4833,vezelay,rue,8
+4834,viala,rue,15
+4835,viallet,passage,11
+4836,viarmes,rue de,1
+4837,vichy,rue de,15
+4838,vicq-d'azir,rue,10
+4839,victoire,rue de la,9
+4840,victoires,place des,1-2
+4841,victor,boulevard,15
+4842,victor-chevreuil,rue,12
+4843,victor-considérant,rue,14
+4844,victor-cousin,rue,5
+4845,victor-dejeante,rue,20
+4846,victor-dupuy,rue,15
+4847,victor-galland,rue,15
+4848,victor-gelez,rue,11
+4849,victor-hugo,avenue,16
+4850,victor-hugo,place,16
+4851,victor-hugo,villa,16
+4852,victor-letalle,rue,20
+4853,victor-marchand,passage,13
+4854,victor-massé,rue,9
+4855,victoria,avenue,1-4
+4856,victorien-sardou,rue,16
+4857,victorien-sardou,square,16
+4858,victorien-sardou,villa,16
+4859,vidal-de-la-blache,rue,20
+4860,vide-gousset,rue,2
+4861,vieille-du-temple,rue,3-4
+4862,vienne,rue de,8
+4863,vierge,passage de la,7
+4864,viete,rue,17
+4865,vieux-colombier,rue du,6
+4866,vigée-lebrun,rue,15
+4867,vignes,rue des,16
+4868,vignoles,impasse des,20
+4869,vignoles,rue des,20
+4870,vignon,rue,8-9
+4871,vigues,cour,11
+4872,vilin,passage,20
+4873,vilin,rue,20
+4874,villa-de-la-reunion,grande avenue de la,16
+4875,villafranca,rue de,15
+4876,villaret-de-joyeuse,rue,17
+4877,villaret-de-joyeuse,square,17
+4878,villars,avenue de,7
+4879,villebois-mareuil,rue,17
+4880,villedo,rue,1
+4881,villegranges,rue des,20
+4882,villehardouin,rue,3
+4883,ville-l'eveque,rue de la,8
+4884,villemain,avenue,14
+4885,ville-neuve,rue de la,2
+4886,villersexel,rue de,7
+4887,villette,boulevard de la,10-19
+4888,villette,rue de la,19
+4889,villiers,avenue de,17
+4890,villiers-de-l'isle-adam,impasse,20
+4891,villiers-de-l'isle-adam,rue,20
+4892,villiot,rue,12
+4893,vinaigriers,cours des,10
+4894,vinaigriers,rue des,10
+4895,vincennes,cours de,12-20
+4896,vincent,rue,19
+4897,vincent-compoint,rue,18
+4898,vincent-d'indy,avenue,12
+4899,vindé,cité,1
+4900,vineuse,rue,16
+4901,vingt-cinq-aout-1944,place du,14
+4902,vingt-neuf-juillet,rue du,1
+4903,vintimille,rue de,9
+4904,violet,place,15
+4905,violet,rue,15
+4906,violet,villa,15
+4907,viollet-le-duc,rue,9
+4908,vion-whitcomb,avenue,16
+4909,virginie,villa,14
+4910,viroflay,rue de,15
+4911,visconti,rue,6
+4912,visitation,passage de la,7
+4913,vistule,rue de la,13
+4914,vital,rue,16
+4915,vitruve,rue,20
+4916,vivarais,square du,17
+4917,vivienne,rue,21
+4918,volga,impasse du,20
+4919,volga,rue du,20
+4920,volney,rue,2
+4921,volontaires,rue des,15
+4922,volta,rue,3
+4923,voltaire,boulevard,11
+4924,voltaire,cité,11
+4925,voltaire,place,11
+4926,voltaire,quai,7
+4927,voltaire,rue,11
+4928,voltaire,rue,13
+4929,volubilis,rue des,13
+4930,vosges,place des,3-4
+4931,vouillé,rue de,15
+4932,voulzie,rue de la,20
+4933,voute,passage de la,12
+4934,voute,rue de la,12
+4935,vulpian,rue,13
+4936,wagram,avenue de,8-17
+4937,wagram,place de,17
+4938,wagram-saint-honore,villa,8
+4939,waldeck-rousseau,rue,17
+4940,wallons,rue des,13
+4941,washington,rue,8
+4942,watt,rue,13
+4943,watteau,rue,13
+4944,wattieaux,passage,19
+4945,wattignies,impasse de,12
+4946,wattignies,rue de,12
+4947,wauxhall,cité du,10
+4948,weber,rue,16
+4949,westermann,rue,20
+4950,wilfrid-laurier,rue,14
+4951,wilhem,rue,16
+4952,willette,square,18
+4953,wurtz,rue,13
+4954,xaintrailles,rue,13
+4955,xavier-privas,rue,5
+4956,yser,boulevard de l',17
+4957,yvart,rue,15
+4958,yves-du-manoir,avenue,17
+4959,yves-toudic,rue,10
+4960,yvette,rue de l',16
+4961,yvon-villarceau,rue,16
+4962,zone,boulevard de la,13
+4963,zone,rue de la,12

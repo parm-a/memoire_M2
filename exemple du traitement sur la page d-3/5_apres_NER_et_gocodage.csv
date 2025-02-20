@@ -1,0 +1,107 @@
+,__index_pers__,index_total,nom_pers,prenom_pers,civilite_pers,org,num_pers,type_voie_pers,nom_voie_pers,arrs_pers,ville_pers,loc_pers,part_pers,codes,nb_codes,nveaux_codes,nb_imms,lat_pers,lng_pers,result_type_pers,result_city_pers
+149,149,149,Adnot,,(Mlle),,,villa,"['Stella', 'Saint-Jean', 'Cap-Ferrat']",,,(Alpes-Marit.),,"['1702 :', '56, 60', '4786 . 13.']",3,"['1702 : 56, 60', '4786 . 13.']",3,43.688188,7.333971,municipality,Saint-Jean-Cap-Ferrat
+150,150,150,Adnot,(Henri),,,89,rue,Monge,(55),,,,['3210 : 89'],1,['3210 : 89'],1,48.841751,2.352152,housenumber,Paris
+151,151,151,Adolphe,(Thérèse),(Mme),,17,", rue de",Belzunce,(10e),,,,['436 : 17'],1,['436 : 17'],1,48.879554,2.349805,housenumber,Paris
+152,152,152,Adona,,(Mme),,4,rue,Descartes,(5e),,,,['1372 : 4'],1,['1372 : 4'],1,44.830417,-0.599526,housenumber,Bordeaux
+153,153,153,Ador,(R.),,,10,villa,Saint-Michel,(18e),,,,['4321 : 10'],1,['4321 : 10'],1,48.889963,2.327333,housenumber,Paris
+154,154,154,Adorna,,,,5,rue,Etienne-Marey,(20e),,,,['1695 : 5'],1,['1695 : 5'],1,48.866899,2.405931,housenumber,Paris
+155,155,155,Adot,(Pierre),,,18,rue de,Prony,(17e),,,,['3937 : 18'],1,['3937 : 18'],1,48.881197,2.30713,housenumber,Paris
+156,156,156,Adout,(Germaine),(Mme),,63,rue de,Ponthieu,(8),,,,['2834 : 25'],1,['2834 : 25'],1,48.872257,2.304453,housenumber,Paris
+157,157,157,,,,Adrex (Sté des Ets),12,cité,Joly,(115),,,,"['2488 : 12, 14, 16']",1,"['2488 : 12, 14, 16']",3,48.862621,2.382955,housenumber,Paris
+158,158,158,Adrian,(Maurice),,,55,rue de,"['Breta-', 'gne']",(3e),,,,['2723 : 17'],1,['2723 : 17'],1,15.868391,-61.582019,street,Terre-de-Haut
+159,159,159,Adrien,(Philippe),,,6,rue,"['Maurice-Lau-', 'zière']",,Saint-Maur-des-Fossés,"['(Sei-', 'ne)']",,"['2596 : 11 .', '3783 : 91']",2,"['2596 : 11 .', '3783 : 91']",2,48.801505,2.488034,housenumber,Saint-Maur-des-Fossés
+160,160,160,,,,Aéra (Sté),68,avenue de,Choisy,(13),,,,"['374 : 93, 95', '1029 : 66, 68', '1480 : 21']",3,"['374 : 93, 95', '1029 : 66, 68', '1480 : 21']",5,48.751889,2.432353,housenumber,Villeneuve-Saint-Georges
+161,161,161,Afchain,"(Albert),",,,2,avenue des,"['Ter-', 'nes']",(17e),,,,['3887 : 68 bis'],1,['3887 : 68 bis'],1,47.478706,4.054345,housenumber,Saint-André-en-Terre-Plaine
+162,162,162,,,,,100,boulevard,"['Afchain', 'Su-', 'chet']",(16e),,,,['3445 : 14'],1,['3445 : 14'],1,45.931107,2.286083,street,Saint-Avit-de-Tardes
+163,163,163,Affif,,,Affiches Parisiennes,"['144', '48']","['rue de', 'rue']","['Ri-', 'voli', 'Charlot']","['(1)', '(3e)']",,,,"['4104 : 140', '4179 : 3', '961 : 48']",3,"['4104 : 140', '4179 : 3', '961 : 48']",3,,,,
+164,164,164,Agache,"(Alfred),",,,11,rue,"['Eugène-Fla-', 'chat']",(173),,,,"['1704 : 11, 13']",1,"['1704 : 11, 13']",2,,,,
+165,165,165,,(Princesse),,,,avenue,"['Aga-Khan', 'Victo-', 'ria.']",,Le Cannet,(Alpes-Maritimes),,"['1866 : 4', '3937 : 36', '4431 „ 55']",3,"['1866 : 4', '3937 : 36', '4431 „ 55']",3,43.570054,7.019363,street,Le Cannet
+166,166,166,Agassan,(René),,,33,rue,"['Robert-Lin-', 'det']",(15e),,,,['2895 : 101 bis'],1,['2895 : 101 bis'],1,,,,
+167,167,167,Agassant,(Eugène),,,,,,,Wasserbourg,(Haut-Rhin),,['1826 : 1'],1,['1826 : 1'],1,48.0032,7.16156,municipality,Wasserbourg
+168,168,168,Agathon,,,,18,rue,Guichet,,Clichy,(Seine),,['1436 : 6'],1,['1436 : 6'],1,48.905334,2.302123,housenumber,Clichy
+169,169,169,Agati,(François),,,18,rue,Gerbert,(15e),,,,['2081 ; 18'],1,['2081 ; 18'],1,48.839055,2.298772,housenumber,Paris
+170,170,170,,,,Agence centrale de Banques colonia-,,rue,Jouffroy,(17),,,,"['les, 63,', '2507 : 63, 63 bis']",2,"['les, 63,', '2507 : 63, 63 bis']",3,50.681473,3.188891,street,Roubaix
+171,171,171,,,,Agence Havas (Sté),62,rue de,"['Ri-', 'chelieu']",(26),,,,"['4087 : 62', '4917 :', '15, 17']",3,"['4087 : 62', '4917 : 15, 17']",3,45.511538,5.475293,street,Chélieu
+172,172,172,,,,"Agence nationale d'Affichage,",3,"['place', 'de']",Valois,(1er),,,,['4756 : 3'],1,['4756 : 3'],1,48.863499,2.338248,housenumber,Paris
+173,173,173,,,,,44,rue des,"['Agence Vanamaker (John)', 'Petites-Ecuries']",(10e),,,,['3672 : 44'],1,['3672 : 44'],1,,,,
+174,174,174,,,,,129,rue,"['Agents de Change', 'Montmartre']","['(0f des)', '(2e)']",,,,"['625 : 4, 6', '3255 : 129']",2,"['625 : 4, 6', '3255 : 129']",3,,,,
+175,175,175,Ageorge,(Jean),,,12,rue du,"['Cloitre-', 'Notre-Dame']",(4),,,,['4222 : 70'],1,['4222 : 70'],1,48.853422,2.349972,housenumber,Paris
+176,176,176,Ageorges,(Robert),(Mme),,43,rue des,Amandiers,(20s),,,,['130 : 43'],1,['130 : 43'],1,48.864624,2.38947,housenumber,Paris
+177,177,177,Ageron,(Elie),,,28,rue,Bichat,(10e),,,,['493 : 28'],1,['493 : 28'],1,48.871076,2.368431,housenumber,Paris
+178,178,178,,,,,8,avenue,"['Aget', 'Frédéric-']",(7),Le-Play,(Edouard),,"['2986 : 19 bis', '3494 : 71 bis']",2,"['2986 : 19 bis', '3494 : 71 bis']",2,43.243442,5.400114,housenumber,Marseille
+179,179,179,Agisson,(Pierre),,,3,rue,Roubo,(11e),,,,['4171 : 3'],1,['4171 : 3'],1,48.850185,2.387212,housenumber,Paris
+180,180,180,,,,,71,rue,"['Agnan', 'Saint-Jac-', 'ques']","['(Marcel)', '(5e)']",,,,"['54 : 57, 59']",1,"['54 : 57, 59']",2,48.308085,3.049727,street,Saint-Agnan
+181,181,181,Agnes,(Gustave),,,28,avenue,"['Parmen-', 'tier']",(11e),,,,"['3528 : 28', '4124 : 2']",2,"['3528 : 28', '4124 : 2']",2,44.84159,-0.558073,housenumber,Bordeaux
+182,182,182,Agnier,(Constant),,,10,impasse des,"['Or-', 'teaux']",(20e),,,,['3472 : 10'],1,['3472 : 10'],1,43.166724,5.927963,housenumber,Le Revest-les-Eaux
+183,183,183,Agnus,"(Albert),",,,7,cité du,Retiro,(83),,,,['4283 : 287'],1,['4283 : 287'],1,48.869786,2.321604,housenumber,Paris
+184,184,184,Agnus,(Michel),,,,,Garonne),,Carbonne,(Haute-,,['4283 : 287'],1,['4283 : 287'],1,43.292499,1.209607,street,Carbonne
+185,185,185,,,,Agnus Père (Ets),14,", rue","['Coquilliè-', 're']",(1er),,,,"['1177 : 14, 16', '2445 : 52']",2,"['1177 : 14, 16', '2445 : 52']",3,46.211435,-0.95,housenumber,Angliers
+186,186,186,Agonayan,,,,1,passage,Gauthier,(19e),,,,"['1997 : 13, 13 bis']",1,"['1997 : 13, 13 bis']",2,48.874899,2.380579,housenumber,Paris
+187,187,187,Agorgue,"(Emile),",,,11,rue,"['Antoine-Chan-', 'tin']",(145),,,,"['377 : 6', '963 : 12, 14']",2,"['377 : 6', '963 : 12, 14']",3,,,,
+188,188,188,Agrain,,,Robert d'),1,rue de,l'Alboni,(165),,(Ctesse,,"['150 : 28', '2961 : 110', '4936 : 102']",3,"['150 : 28', '2961 : 110', '4936 : 102']",3,48.828763,2.178547,street,Ville-d'Avray
+189,189,189,,,,,180,rue,"['Agret', 'Saint-Charles']",(15s),,,,"['2593 : 57, 59']",1,"['2593 : 57, 59']",2,45.53606,5.562605,street,Les Abrets en Dauphiné
+190,190,190,Agret,,(Mme vve),,,rue du,"['Ravieur', ""Saint - Geniez -d'Olt""]",,,(Aveyron),,['3905 : 48'],1,['3905 : 48'],1,44.465697,2.971507,street,Saint Geniez d'Olt et d'Aubrac
+191,191,191,Agret,"(Léon),",,,30,rue de,l'Hippodrome,,Suresnes,(Seine),,['1072 : 58'],1,['1072 : 58'],1,48.862105,2.215327,housenumber,Suresnes
+192,192,192,,,,Agriculteurs de France (Sté des),8,rue d'Athènes,,(9e),,,,['253 : 8'],1,['253 : 8'],1,50.735049,3.155327,housenumber,Tourcoing
+193,193,193,Agron,(Aristide),,,144,rue,"['Ober-', 'kampí']",(11),,,,['3418 : 144'],1,['3418 : 144'],1,48.280478,4.052396,street,Saint-André-les-Vergers
+194,194,194,,,,Aguiar et C (A. d7),27,rue,"['Du-', ""mont-d'Urville""]",(16e),,,,['2347 : 86'],1,['2347 : 86'],1,-22.223928,166.500977,street,Le Mont-Dore
+195,195,195,Aguile,(Albert).,,,73,rue,"['Michel-An-', 'ge']",(16e),,,,['3158 : 73'],1,['3158 : 73'],1,16.260161,-61.373728,street,Sainte-Anne
+196,196,196,Aguillaume,(Jean),,,45,rue de,"['Mon-', 'treuil']",(11..),,,,"['818 : 7', '1245 : 6']",2,"['818 : 7', '1245 : 6']",2,46.922728,1.289816,street,Palluau-sur-Indre
+197,197,197,Aguillaume,(Roger-Jules),,,79,rue de,Courbevoie,,Nanterre,(Seine),,['1182 : 7'],1,['1182 : 7'],1,48.893312,2.205175,housenumber,Nanterre
+198,198,198,Agut,(René),,,181,rue,"['Saint-Char-', 'les']",(15e),,,,['4239 : 481'],1,['4239 : 481'],1,48.940871,2.370978,street,Saint-Denis
+199,199,199,Agutte,,(Mme),,44,rue de la,"['Répu-', 'blique']",,Senlis,(Oise),,['4318 : 9'],1,['4318 : 9'],1,49.20243,2.583527,housenumber,Senlis
+200,200,200,Aguttes,(André),,,219,rue La,"['Fayet-', 'te']",(10e),,,,"['1070 : 22', '2141 : 8', '3418 : 91, 93', '4160 : 134, 136', '4923 : 109, 111']",5,"['1070 : 22', '2141 : 8', '3418 : 91, 93', '4160 : 134, 136', '4923 : 109, 111']",8,48.794354,2.615891,street,Pontault-Combault
+201,201,201,Aguttes,(Paul),,,1,rue,Parrot,(124),,,,"['3530 : 11', '4689 : 22 bis']",2,"['3530 : 11', '4689 : 22 bis']",2,48.84683,2.372512,housenumber,Paris
+202,202,202,,,(Mme),,136,rue,"['Agutte-Forest', 'Amelot']","['(A.)', '(11e)']",,,,"['1002 : 69, 71', '3528 : 17']",2,"['1002 : 69, 71', '3528 : 17']",3,,,,
+203,203,203,Ahery,(Henri),,,17,rue,"['Charles-Fou-', 'rier']",(13e),,,,['3297 ; 6'],1,['3297 ; 6'],1,,,,
+204,204,204,,(Jean),,,,"['rond', 'point du']","['Châ-', 'teau']",,"['Ahistrom', 'Rueil-Malmaison']","['(Seine-et-', 'Oise)']",,"['2814 : 77, 79', '4651 : 46, 48']",2,"['2814 : 77, 79', '4651 : 46, 48']",4,,,,
+205,205,205,,,,Ahmed ben Ali,45,rue,Emeriau,(155),,,,['1598 : 45'],1,['1598 : 45'],1,48.849107,2.285822,housenumber,Paris
+206,206,206,Ahond,(Geneviève),(Mlle),,61,rue,"['Pi-', 'galle']",(9e),,,,['3738 : 61'],1,['3738 : 61'],1,48.585341,1.571696,street,Pierres
+207,207,207,Aigle,(C1 Ass.,"(Sté Mutuelle),",,23,rue de,"['Aide et Protection', 'Tiphaine', 'Châ-', 'teaudun']","['(15e)', '(95)']",,,,"['4644 : 23', '13), 44,', '53 ; 4, 6, 8', '214 ;', '1', '364 : 19', '519 : 16', '690 : 18', '988 : 10', '990 : 9. 11, 13', '1319 : 20', '1542 : 7', '1878 : 22', '1905 : 47', '2331 : 3', '2347 : 99, 101, 103', '2848 : 22', '3001 : 2, 4', '3039 : 8', '3642 : 10', '3738 : 2, 4', '4052 :', 's. n°', '4055 : 13 „ 4166 „ 11 „', '4667 : 20', '4861 : 52, 125']",26,"['4644 : 23', '13), 44,', '53 ; 4, 6, 8', '214 ;', '1', '364 : 19', '519 : 16', '690 : 18', '988 : 10', '990 : 9. 11, 13', '1319 : 20', '1542 : 7', '1878 : 22', '1905 : 47', '2331 : 3', '2347 : 99, 101, 103', '2848 : 22', '3001 : 2, 4', '3039 : 8', '3642 : 10', '3738 : 2, 4', '4052 :', 's. n°', '4055 : 13 „ 4166 „ 11 „', '4667 : 20', '4861 : 52, 125']",38,,,,
+208,208,208,Aiglehoux,,,,1,rue,Jules-Simon,(15a),,,,"['2162 : 94', '4905 : 1']",2,"['2162 : 94', '4905 : 1']",2,47.228326,-1.566536,housenumber,Nantes
+209,209,209,Aigoin,"(Julien),",,,84,rue du,"['Rane-', 'lagh']",(16e),,,,['2020 : 38'],1,['2020 : 38'],1,50.42834,1.628945,housenumber,Rang-du-Fliers
+210,210,210,Aigouy,(Félix),,,34,rue,Custine,(184),,,,"['1168 : 106', '3701 : 1']",2,"['1168 : 106', '3701 : 1']",2,48.888844,2.346783,housenumber,Paris
+211,211,211,Ailhaud,(Félicien),,,27,rue,Broca,(5e),,,,['673 : 27 bís'],1,['673 : 27 bís'],1,50.625046,3.090098,housenumber,Lille
+212,212,212,Aillard,(René),,,54,boulevard,"['Richard-', 'Lenoir']",(11e),,,,['81 : 13'],1,['81 : 13'],1,48.859272,2.372343,housenumber,Paris
+213,213,213,Aillaut,,(Mme),,176 bis,rue d'Alésia,,(14e),,,,"['69 : 176 bis, 178']",1,"['69 : 176 bis, 178']",2,48.828565,2.325004,street,Paris
+214,214,214,Ailleret,(Amédée),,,59,rue de,"['Pro-', 'ny']",(17),,,,['1154: 57'],1,['1154: 57'],1,48.627186,6.299475,housenumber,Saint-Nicolas-de-Port
+215,215,215,Alllet,,(Mme),,11,rue,Yvart,(15e),,,,['472 3 8'],1,['472 3 8'],2,48.837238,2.301769,housenumber,Paris
+216,216,216,Alllot,,(Mile),,5,rue de,"['Bellechas-', 'se']",(7e),,,,"['1101 : 15', '4195 : 31']",2,"['1101 : 15', '4195 : 31']",2,48.601963,0.168764,housenumber,Sées
+217,217,217,,,,,8,rue,"['Almé', 'Léon-Bouret']","['(J.)', '(16e)']",,,,['2454 : 30'],1,['2454 : 30'],1,44.050516,4.780784,street,Roquemaure
+218,218,218,Aimond,(R.),(Mme),,39,rue,"['Jouve-', 'net']",(165),,,,"['2478 : 9', '3317 : 13']",2,"['2478 : 9', '3317 : 13']",2,44.26472,5.84146,street,Mison
+219,219,219,,,,,2,rue,"['Air-France', 'Marbeuf']","['(01s)', '(85)']",,,,"['761 : 24', '887 : 121', '2985 : 2', '4438 : 2', '4817 : 20']",5,"['761 : 24', '887 : 121', '2985 : 2', '4438 : 2', '4817 : 20']",5,45.179717,5.707903,housenumber,Grenoble
+220,220,220,,,(0l de L3),,75,quai,"['Air-Liquide', ""d'Or-"", 'say']",(7e),,,,"['1106 : 4, 6, 8, 10, 12', '2152 : 24, 26, 28, 30, 32', '3469 : 75, 77']",3,"['1106 : 4, 6, 8, 10, 12', '2152 : 24, 26, 28, 30, 32', '3469 : 75, 77']",12,48.654484,-2.842053,street,Saint-Quay-Portrieux
+221,221,221,Lumière,,(Sté),,18,"['Air', 'rue']","['Guillaume-', 'Tell']",(178),,,,['2201 : 18.'],1,['2201 : 18.'],1,48.884198,2.294073,housenumber,Paris
+222,222,222,Issaad,(Said),,,14,"['Ait', 'rue des']",Ecoles,,Aubervilliers,(Seine),,['2821 : 3'],1,['2821 : 3'],1,48.905296,2.388157,housenumber,Aubervilliers
+223,223,223,,,,,44,rue de,"['Aizel Tahar ben Kaa', 'Cli-', 'gnancourt']",(18e),,,,['4801 : 69'],1,['4801 : 69'],1,49.281597,1.033438,street,Caudebec-lès-Elbeuf
+224,224,224,Ajalbert,"['(Marie)', '(Loiret)']",(Mme vve),,,,le-Ribault,,Ligny-,,,"['2460 : 1', '4585 : 22, 26']",2,"['2460 : 1', '4585 : 22, 26']",3,47.687849,1.769779,municipality,Ligny-le-Ribault
+225,225,225,Ajalbert,,,,27,rue,Quincampoix,(4),,,,"['156 : 2', '696 : 1']",2,"['156 : 2', '696 : 1']",2,48.860161,2.350041,housenumber,Paris
+226,226,226,,,,,1,rue,"['Ajolou', 'Gaston-Darboux']",(18e),,,,['1826 : 1 bis'],1,['1826 : 1 bis'],1,48.899012,2.370028,housenumber,Paris
+227,227,227,Ajzenfisz,,,,54,rue,Julien-Lačroix,(20e),,,,['2549 : 54'],1,['2549 : 54'],1,48.871146,2.383321,housenumber,Paris
+228,228,228,,,(Camille),,26,passage de la,"['Vier-', 'ge']",(7e),Aka,,,['4863 : 26'],1,['4863 : 26'],1,47.145177,-0.536248,street,Lys-Haut-Layon
+229,229,229,,,,"Akademia Raymond Dunkan et c,",31,rue de,Seine,(6:),,,,['4451 : 31'],1,['4451 : 31'],1,48.79753,2.413267,housenumber,Vitry-sur-Seine
+230,230,230,Akar,(Emile),(Mme),,7,rue,"['Jean-Gou-', 'jon']",(85),,,,['2443 : 7'],1,['2443 : 7'],1,48.764518,2.029792,housenumber,Montigny-le-Bretonneux
+231,231,231,Akar,(Maurice),,,17,rue,"['Alphonse-Pe-', 'naud']",(20e),,,,['123 : 17'],1,['123 : 17'],1,46.373517,-0.526617,street,Saint-Rémy
+232,232,232,Akar,(Paul),"(Mme.),",,,,naye,,"['La Haute-Fre-', 'Neuvillette']",(Sarthe),,"['379 : 22, 22 bis']",1,"['379 : 22, 22 bis']",2,,,,
+233,233,233,Akchote,(Victor),,,92 ter,boulevard,Péreire,(175),,,,['3625 : 92'],1,['3625 : 92'],1,48.884366,2.296586,street,Paris
+234,234,234,Akerberg,,"['(Marcelle)', '(Mme)']",,85,rue,Duhesme,(18e),,,,['- 1491 : 85.'],1,['- 1491 : 85.'],1,48.894332,2.343925,housenumber,Paris
+235,235,235,"['Akermann', 'Aladern']","['(Albert)', '(R. d1)']",(Mme),,"['119', '27']","['rue', 'rue de']","['Championnet', 'Lyon']",(18e),,,,"['3453 : 33', '12e)', '1026 : 35 bis']",3,"['3453 : 33', '12e)', '1026 : 35 bis']",3,,,,
+236,236,236,Alaindret,(Robert).,,,126,rue,"['Pierre-', 'Brossolette']",,Malakoff,(Seine),,['4194 : 36'],1,['4194 : 36'],1,48.81653,2.306106,housenumber,Malakoff
+237,237,237,Alais,,,"Froges et Camargue (Sté),",23,"['r.', 'de']",Balzac,(8),,,,['328 ; 33'],1,['328 ; 33'],1,49.505657,0.156364,housenumber,Le Havre
+238,238,238,Alaizeau,(Benjamin),,,35,rue de,"[""l'Ar-"", 'cade']",(8e),,,,['204 : 35'],1,['204 : 35'],1,43.613229,3.798798,street,Juvignac
+239,239,239,Alalinarde,"(Raymond),",,,110,avenue,Victor-Hugo,,"['Boulogne-Billan-', 'court']",(Seine),,['2723 : 165'],1,['2723 : 165'],1,48.83513,2.244287,housenumber,Boulogne-Billancourt
+240,240,240,Alalinarde,(Suzanne),(Mme vve),,44,"['r.', 'de']",l'Abbé-Groult,(15a),,,,['5 : 44'],1,['5 : 44'],1,48.840839,2.295338,housenumber,Paris
+241,241,241,Alamigeon,(Pierre),,,28,rue,"['Cortam-', 'bert']",(16e),,,,['940 ; 38'],1,['940 ; 38'],1,48.80908,2.270422,housenumber,Clamart
+242,242,242,Afaniesse,,(Mme Vve),,202,rue de,"['Tol-', 'biac']",(13e),,,,['4694 : 8'],1,['4694 : 8'],1,44.820866,2.784473,street,Cantoin
+243,243,243,"['Alard', 'Alary']","['(Laurent),', '(Victorine)']",(Mme),,"['3', '7']","['rue du', 'rue de la']","['Maréchal-', 'Lefebvre', ""Goutte-d'Or""]",(18e),Strasbourg,"['(Bas-Rhin)', '1066 : 29']",,"['913 : 8', '2129 ; 7']",2,"['913 : 8', '2129 ; 7']",2,,,,
+244,244,244,Alary,(Elie),,,3,imp.,Delaunay,(11e),,,,"['966 : 123', '1342 : 1']",2,"['966 : 123', '1342 : 1']",2,48.855105,2.385957,housenumber,Paris
+245,245,245,Alary,(Pierre),,,7,rue de la,Monnaie,,Bourges,(Cher),,"['1480 : 35', '2717 : 7', '4604 : 11.']",3,"['1480 : 35', '2717 : 7', '4604 : 11.']",3,47.083788,2.396931,housenumber,Bourges
+246,246,246,Alasseur,(Amédée),(Mme),,22,rue des,Missionnaires,,Versailles,"['(Seine-', 'et-Oise)']",,['3528 : 6'],1,['3528 : 6'],1,48.812551,2.132472,housenumber,Versailles
+247,247,247,Alassimone,(Aimé),,,45,rue de la,Mare,(20e),,,,['3011 : 45'],1,['3011 : 45'],1,48.871219,2.3899,housenumber,Paris
+248,248,248,Alassimone,(Victor),,,89,rue de,"['Pa-', 'tay']",(13),,,,"['3245 : 13, 34, 46']",1,"['3245 : 13, 34, 46']",3,50.627868,2.675239,street,Lestrem
+249,249,249,Alateinte,"(Roger),",,,5,rue,"['Ferdinand-', 'Vidal']",(135),,,,['3590 : 29'],1,['3590 : 29'],1,43.562335,2.88106,street,Saint-Vincent-d'Olargues
+250,250,250,"['Alaume', 'Alaux']",,,,"['21', '28']","['passage', 'rue']","['Montgallet', 'Gandon']","['(12e)', '(13e)']",,,,"['3245 „ 42', '1968 : 28']",2,"['3245 „ 42', '1968 : 28']",2,,,,
+251,251,251,"['Alaux', 'Perpignan']",(Pyrénées-Orientales),(Mme vve),,1,rue,Despret,,,,,"['710 : 3', '1387 : 55']",2,"['710 : 3', '1387 : 55']",2,50.063794,4.175856,housenumber,Wallers-en-Fagne
+252,252,252,Alaux,(Alice),(Mme vve),,27,passage,Montgallet,(12e),,,,['3245 : 27'],1,['3245 : 27'],1,48.844025,2.387833,street,Paris
+253,253,253,Alaux,(Henri),,,47,charmille du,Parc,,Sainte-Geneviève-des-Bois,"['(Seine-', 'et-Oise)']",,"['40.10 : 1, 3']",1,"['40.10 : 1, 3']",3,48.643404,2.327632,housenumber,Sainte-Geneviève-des-Bois
+254,254,254,Alaux,(Marie),(Mme vve),,70,"['avenue', 'du']",Maine,(14e),,,,['1983 : 38 bis'],1,['1983 : 38 bis'],1,48.83917,2.3218,housenumber,Paris
